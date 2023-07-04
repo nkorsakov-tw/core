@@ -4,7 +4,7 @@
 
 ***
 
-_There you can find some concepts which are obligatory to work with this product (name of the company is also possible)_
+_This glossary defines common terms that you might see as you're working in Slack, or throughout our Help Center._
 
 A B C D E F G H I G K L M O P Q R S T U V W H Y Z
 
