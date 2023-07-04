@@ -74,3 +74,4 @@ _**If you're manager...**_
 Notion: Ensure that the device's address is correctly displayed on the screen; otherwise, the program's functionality may be suspended.
 {% endhint %}
 
+{% embed url="https://3paukkaabsv.typeform.com/to/tAwQS7xL" %}
