@@ -20,3 +20,7 @@
 * Enhanced productivity through streamlined task management.
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+Notion: Ensure that the device's address is correctly displayed on the screen; otherwise, the program's functionality may be suspended.
+{% endhint %}
