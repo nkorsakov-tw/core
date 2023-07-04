@@ -1,6 +1,6 @@
 # glossary
 
-### Glossary of The Necessarily Terms
+### Glossary of The Necessary Terms
 
 ***
 
