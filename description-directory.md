@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Description of The Function 'Directory' and Manual Configuration by a Manager
 --------------------
 
@@ -68,9 +67,7 @@
 
 
 
-=======
 # description directory
->>>>>>> 36874234d2723786bb045f177fc24c2b0a6b2694
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Who are able to use this feature?</td><td><ol><li>All members of the team</li><li>Management</li></ol></td><td></td></tr></tbody></table>
 
