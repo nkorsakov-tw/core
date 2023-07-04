@@ -54,5 +54,5 @@ It's a type of customer's request when waiter is received an order to add someth
 
 **Direct message**
 
-`Direct message` allows for sending messages to a specific employee within a shared operating system. It enables you to take notes and inform your subordinate directly within the system for receiving and processing orders. This is beneficial as the employee avoids distractions from their working device and ongoing tasks while receiving a `direct message`. Furthermore, a significant advantage of the `direct message` feature is the ability to send messages to a specific worker outside of general chats, ensuring privacy and without the attention of others.
+`Direct message` allows send messages to a specific employee within a shared operating system. It enables you to take notes and inform your subordinate directly within the system for receiving and processing orders. This is beneficial as the employee avoids distractions from their working device and ongoing tasks while receiving a `direct message`. Furthermore, a significant advantage of the `direct message` feature is the ability to send messages to a specific worker outside of general chats, ensuring privacy and without the attention of others.
 
