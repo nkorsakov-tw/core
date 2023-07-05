@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Architecture Overview](architecture-overview/README.md)
-  * [BackOffice](architecture-overview/backoffice.md)
-  * [Points of Sales](architecture-overview/points-of-sales.md)
+* [Overview](overview/README.md)
+  * [BackOffice](overview/backoffice.md)
+  * [POS](overview/pos.md)
 * [Release Notes](release-notes/README.md)
   * [Air Framework](release-notes/air-framework.md)
   * [Air Server](release-notes/air-server.md)
