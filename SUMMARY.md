@@ -4,7 +4,6 @@
 * [Overview](overview/README.md)
   * [BackOffice](overview/backoffice.md)
   * [POS](overview/pos.md)
-    * [Sales area](overview/pos/sales-area.md)
 * [Release Notes](release-notes/README.md)
   * [Air Framework](release-notes/air-framework.md)
   * [Air Server](release-notes/air-server.md)
@@ -13,8 +12,8 @@
 ## Getting Started
 
 * [Quick Start](getting-started/quick-start.md)
-* [Setting up your account](getting-started/setting-up-your-account.md)
-* [Preparations for launching](getting-started/preparations-for-launching.md)
+* [Set up your account](getting-started/set-up-your-account.md)
+* [Preparate to launch](getting-started/preparate-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
 
 ## Hardware
@@ -29,8 +28,8 @@
 
 ## Queries
 
-* [Direct Queries](queries/direct-queries.md)
-* [Indirect Queries](queries/indirect-queries.md)
+* [External queries](queries/external-queries.md)
+* [Internal queries](queries/internal-queries.md)
 
 ## Appendices
 
