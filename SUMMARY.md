@@ -33,5 +33,5 @@
 
 ## Appendices
 
-* [Glossary of The Essential Terms](<README (1).md>)
-* [Description of The Function 'Directory' and Manual Configuration by a Manager](description-directory/README.md)
+* [Glossary](<README (1).md>)
+* [Directory feature](description-directory/README.md)
