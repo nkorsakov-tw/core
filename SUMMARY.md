@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-* [Quick Start](getting-started/quick-start.md)
+* [Quick start](getting-started/quick-start.md)
 * [Set up your account](getting-started/set-up-your-account.md)
 * [Preparate to launch](getting-started/preparate-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
