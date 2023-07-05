@@ -1,4 +1,4 @@
-# Glossary of The Essential Terms
+# Glossary
 
 ***
 
@@ -31,7 +31,7 @@ This term describes the process of tuning the app and program at all in the most
 It's a final calculating of the sum which must be paid by the client. System generates the `bill` according to the scroll of goods which were ordered by customer.
 
 {% hint style="warning" %}
-Pay your attention that \`bill\` should be opened straight away on a device which has connection with a printer to enhance the quality of service and accelerate the process.
+Pay your attention that **bill** should be opened straight away on a device which has connection with a printer to enhance the quality of service and accelerate the process.
 {% endhint %}
 
 ### C
