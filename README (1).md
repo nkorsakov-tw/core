@@ -4,9 +4,9 @@
 
 _Here you will find a collection of important concepts and definitions related to our product. This glossary serves as a valuable resource to help you navigate and understand key terminology used throughout our materials._
 
-A B C D E F G H I G K L M O P Q R S T U V W H Y Z
+[A](<README (1).md#a>) [B](<README (1).md#b>) [C](<README (1).md#c>) [D](<README (1).md#d>) [E](<README (1).md#e>) [F](<README (1).md#f>) [G](<README (1).md#g>) [H](<README (1).md#h>) [I ](<README (1).md#i>)[G](<README (1).md#g>) [K](<README (1).md#k>) [L ](<README (1).md#l>)[M](<README (1).md#m>) [N](<README (1).md#n>) [O](<README (1).md#o>) [P](<README (1).md#p>) [Q ](<README (1).md#q>)[R](<README (1).md#r>) [S](<README (1).md#s>) [T ](<README (1).md#t>)[U](<README (1).md#u>) [V ](<README (1).md#v>)[W](<README (1).md#w>) [X ](<README (1).md#x>)[Y ](<README (1).md#y>)[Z](<README (1).md#z>)
 
-**A**
+### A
 
 **Acces**
 
@@ -20,7 +20,7 @@ The term `access` refers to a feature that governs the ability of users to inter
 
 This term describes the process of tuning the app and program at all in the most prefered for the user way. You are able to customize interface of the program as you want. This function assumes to make app more comfortable for daily and extented work.
 
-**B**
+### B
 
 **Backlog**
 
@@ -34,7 +34,7 @@ It's a final calculating of the sum which must be paid by the client. System gen
 Pay your attention that \`bill\` should be opened straight away on a device which has connection with a printer to enhance the quality of service and accelerate the process.
 {% endhint %}
 
-**C**
+### C
 
 **Canvas**
 
@@ -44,7 +44,7 @@ A `canvas` is a space that is used to assist collaborators in resolving their co
 
 It's a type of customer's request when waiter is received an order to add something in a list of dishes or beverages. When the client presses a button on the table, a notification indicating a new `calling` is sent to the waiter's gadget.
 
-**D**
+### D
 
 **Directory**&#x20;
 
@@ -53,4 +53,90 @@ It's a type of customer's request when waiter is received an order to add someth
 **Direct message**
 
 `Direct message` allows send messages to a specific employee within a shared operating system. It enables you to take notes and inform your subordinate directly within the system for receiving and processing orders. This is beneficial as the employee avoids distractions from their working device and ongoing tasks while receiving a `direct message`. Furthermore, a significant advantage of the `direct message` feature is the ability to send messages to a specific worker outside of general chats, ensuring privacy and without the attention of others.
+
+### E
+
+
+
+### F
+
+
+
+### G
+
+
+
+### H
+
+
+
+### I
+
+
+
+### J
+
+
+
+### K
+
+
+
+### L
+
+
+
+### M
+
+
+
+### N
+
+
+
+### O
+
+
+
+### P
+
+
+
+### Q
+
+
+
+### R
+
+
+
+### S
+
+
+
+### T
+
+
+
+### U
+
+
+
+### V
+
+
+
+### W
+
+
+
+### X
+
+
+
+### Y
+
+
+
+### Z
 
