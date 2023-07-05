@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Architecture Overview](architecture-overview/README.md)
-  * [Back Office](architecture-overview/back-office.md)
-  * [Point of Sales](architecture-overview/point-of-sales.md)
+  * [BackOffice](architecture-overview/backoffice.md)
+  * [Points of Sales](architecture-overview/points-of-sales.md)
 * [Release Notes](release-notes/README.md)
   * [Air Framework](release-notes/air-framework.md)
   * [Air Server](release-notes/air-server.md)
