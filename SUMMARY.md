@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Overview](overview/README.md)
   * [BackOffice](overview/backoffice.md)
-  * [POS](overview/pos/README.md)
+  * [POS](overview/pos.md)
     * [Sales area](overview/pos/sales-area.md)
 * [Release Notes](release-notes/README.md)
   * [Air Framework](release-notes/air-framework.md)
@@ -13,6 +13,14 @@
 ## Getting Started
 
 * [Quick Start](getting-started/quick-start.md)
+* [Setting up your account](getting-started/setting-up-your-account.md)
+* [Preparations for launching](getting-started/preparations-for-launching.md)
+* [Your privacy](getting-started/your-privacy.md)
+
+## Hardware
+
+* [Hardware compatibility](hardware/hardware-compatibility.md)
+* [Network connectivity](hardware/network-connectivity.md)
 
 ## Testing
 
