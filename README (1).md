@@ -2,7 +2,7 @@
 
 ***
 
-_This glossary defines common terms that you might detect while you're working in the program, or throughout our Help Center._
+_Here you will find a collection of important concepts and definitions related to our product. This glossary serves as a valuable resource to help you navigate and understand key terminology used throughout our materials._
 
 A B C D E F G H I G K L M O P Q R S T U V W H Y Z
 
