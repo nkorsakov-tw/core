@@ -8,6 +8,22 @@
   * [Air Framework](release-notes/air-framework.md)
   * [Air Server](release-notes/air-server.md)
   * [Air Framework Extensions](release-notes/air-framework-extensions.md)
-* [Quick Start](quick-start.md)
-* [Glossary of The Essential Terms](glossary.md)
-* [Description of The Function 'Directory' and Manual Configuration by a Manager](description-directory/README.md)
+
+## Getting Started
+
+* [Quick Start](getting-started/quick-start.md)
+
+## Testing
+
+* [Commands](testing/commands.md)
+* [Events](testing/events.md)
+
+## Queries
+
+* [Direct Queries](queries/direct-queries.md)
+* [Indirect Queries](queries/indirect-queries.md)
+
+## Appendices
+
+* [Glossary of The Essential Terms](appendices/glossary.md)
+* [Description of The Function 'Directory' and Manual Configuration by a Manager](appendices/description-directory.md)
