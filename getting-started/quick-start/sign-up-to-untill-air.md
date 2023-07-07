@@ -17,10 +17,11 @@ And then you can Set Up your account or permanently use&#x20;
 To Sign Up follow these simple and familiar steps:
 
 1. Go to [https://test.air.untill.com/#/](https://test.air.untill.com/#/) in Internet browser
-2. Enter your gmail address and compose a password
-3. Check your gmail inbox to receive a code for Signing Up and enter this code to gaps
-4. Enter your name
-5. Then put in the gaps requested information about your organization
-6. Choose the conditions of using unTill Air &#x20;
+2. Switch it to the Sign Up page
+3. Enter your gmail address and compose a password
+4. Check your gmail inbox to receive a code for Signing Up and enter this code to gaps
+5. Enter your name
+6. Then put in the gaps requested information about your organization
+7. Choose the conditions of using unTill Air &#x20;
 
 _Follow the further instructions while you Sign Up to finally create an account_&#x20;
