@@ -23,7 +23,7 @@
 * [Currency](general/currency.md)
 * [Payment methods](general/payment-methods.md)
 * [VAT levels](general/vat-levels.md)
-* [Equipment](general/equipment/README.md)
+* [Equipment](general/equipment.md)
   * [How to connect devices?](general/equipment/how-to-connect-devices.md)
 * [Article messages](general/article-messages.md)
 * [Discounts](general/discounts.md)
