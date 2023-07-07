@@ -21,6 +21,8 @@ description: Let's consider how to start working with Table Overview mode
 * Add new Course
 * Add new Article
 
+<figure><img src=".gitbook/assets/2023-07-07_22-18-08.jpg" alt=""><figcaption></figcaption></figure>
+
 3. Install 'unTill Runner' on your tablet
 4. Go to 'General' - 'Equipment'
 5.
