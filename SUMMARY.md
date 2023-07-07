@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Quick Start](getting-started/quick-start.md)
 * [Overview](overview/README.md)
   * [BackOffice](overview/backoffice.md)
   * [POS](overview/pos.md)
+* [Quick Start](quick-start.md)
 
 ## Getting Started
 
@@ -32,6 +32,10 @@
 * [Reasons](general/reasons.md)
 * [Tickets](general/tickets.md)
 
+***
+
+* [Draft](draft.md)
+
 ## Hardware
 
 * [Hardware compatibility](hardware/hardware-compatibility.md)
@@ -46,3 +50,7 @@
 
 * [Glossary](<README (1).md>)
 * [Directory feature](description-directory/README.md)
+
+***
+
+* [Retailer mode](retailer-mode.md)
