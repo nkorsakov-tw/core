@@ -10,7 +10,7 @@ description: >-
 
 <summary>Do you already have an account? Proceed to the <a href="sign-in-to-untill-air.md">Sign In</a></summary>
 
-After signing in, you can [set up your account](../set-up-your-account.md)
+After signing in, you can [set up your account](set-up-your-account.md)
 
 </details>
 

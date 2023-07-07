@@ -34,7 +34,17 @@ Further you may see versatile section called `General` that offers various setti
 
 _Your device is now ready to use!_
 
-For setting up you'll need to abide the right sequence of actions. It's a gradual procces of tuning the account. At first you need to set up one option, then another.
+<details>
+
+<summary>Other manuals about <code>General</code> you'll find <a href="broken-reference">here</a></summary>
+
+You can explore all the features that General incorporates by referring to these manuals. This will help you learn how to configure `Discounts`, manage `Article messages`, and more.
+
+</details>
+
+#### Products
+
+For setting up in section `Products` you'll need to abide the right sequence of the actions. It's a gradual procces of tuning the account. At first you need to set up one option, then another.&#x20;
 
 <details>
 
