@@ -4,10 +4,6 @@
 * [Overview](overview/README.md)
   * [BackOffice](overview/backoffice.md)
   * [POS](overview/pos.md)
-* [Release Notes](release-notes/README.md)
-  * [Air Framework](release-notes/air-framework.md)
-  * [Air Server](release-notes/air-server.md)
-  * [Air Framework Extensions](release-notes/air-framework-extensions.md)
 
 ## Getting Started
 
@@ -18,15 +14,22 @@
 * [Prepare to launch](getting-started/prepare-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
 
+## General
+
+* [Currency](general/currency.md)
+* [Payment methods](general/payment-methods.md)
+* [VAT levels](general/vat-levels.md)
+* [Equipment](general/equipment.md)
+* [Article messages](general/article-messages.md)
+* [Discounts](general/discounts.md)
+* [Periods](general/periods.md)
+* [Reasons](general/reasons.md)
+* [Tickets](general/tickets.md)
+
 ## Hardware
 
 * [Hardware compatibility](hardware/hardware-compatibility.md)
 * [Network connectivity](hardware/network-connectivity.md)
-
-## Testing
-
-* [Commands](testing/commands.md)
-* [Events](testing/events.md)
 
 ## Queries
 
