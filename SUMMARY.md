@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Quick Start](quick-start.md)
+* [Quick Start](getting-started/quick-start.md)
 * [Overview](overview/README.md)
   * [BackOffice](overview/backoffice.md)
   * [POS](overview/pos.md)
 
 ## Getting Started
 
-* [Sign Up to unTill Air](getting-started/sign-up-to-untill-air.md)
-* [Sign In to unTill Air](getting-started/sign-in-to-untill-air.md)
+* [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
+* [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
 * [Set up your account](getting-started/set-up-your-account.md)
 * [Prepare to launch](getting-started/prepare-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
