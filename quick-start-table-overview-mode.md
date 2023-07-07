@@ -13,10 +13,10 @@ description: Let's consider how to start working with Table Overview mode
 
 * Choose that you use tables and specify their number
 
-3. On Home page go to 'Products'&#x20;
+3. Create an article Pizza Margarita  &#x20;
 
-* Add new 'Category'&#x20;
-* Add new 'Group'
+* Add new 'Category' (Food)
+* Add new 'Group' (Hot food)
 * Add new 'Department'
 * Add new Course
 * Add new Article
