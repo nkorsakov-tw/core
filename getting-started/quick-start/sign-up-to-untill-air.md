@@ -8,20 +8,20 @@ description: >-
 
 <details>
 
-<summary>Already have an account? Move to<a href="sign-in-to-untill-air.md"> </a><a href="sign-in-to-untill-air.md">Sign In</a></summary>
+<summary>Do you already have an account? Proceed to the <a href="sign-in-to-untill-air.md">Sign In</a></summary>
 
-And then you can Set Up your account or permanently use&#x20;
+After signing in, you can [set up your account](../set-up-your-account.md)
 
 </details>
 
-To Sign Up follow these simple and familiar steps:
+To Sign Up, please follow these simple steps:
 
-1. Go to [https://test.air.untill.com/#/](https://test.air.untill.com/#/) in Internet browser
-2. Switch it to the Sign Up page
-3. Enter your gmail address and compose a password
-4. Check your gmail inbox to receive a code for Signing Up and enter this code to gaps
+1. Open your internet browser and go to [https://test.air.untill.com/#/](https://test.air.untill.com/#/)
+2. Switch to the Sign Up page
+3. Enter your Gmail address and create a password
+4. Check your Gmail inbox for a code to complete the sign-up process. Enter this code in the designated field
 5. Enter your name
-6. Then put in the gaps requested information about your organization
+6. Fill in the requested information about your organization
 7. Choose the conditions of using unTill Air &#x20;
 
-_Follow the further instructions while you Sign Up to finally create an account_&#x20;
+_Follow the further instructions to complete the sign-up process and create your account._
