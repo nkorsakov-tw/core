@@ -11,9 +11,9 @@
 
 ## Getting Started
 
-* [Quick Start](getting-started/quick-start/README.md)
+* [Quick Start](getting-started/quick-start.md)
   * [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
-  * [Log In to unTill Air](getting-started/quick-start/log-in-to-untill-air.md)
+  * [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
 * [Set up your account](getting-started/set-up-your-account.md)
 * [Prepare to launch](getting-started/prepare-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
