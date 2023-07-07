@@ -25,6 +25,7 @@
 * [VAT levels](general/vat-levels.md)
 * [Equipment](general/equipment.md)
   * [How to connect devices?](general/equipment/how-to-connect-devices.md)
+  * [How to work on tablet?](general/equipment/how-to-work-on-tablet.md)
 * [Article messages](general/article-messages.md)
 * [Discounts](general/discounts.md)
 * [Periods](general/periods.md)
