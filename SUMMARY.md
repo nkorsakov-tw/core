@@ -14,6 +14,10 @@
 * [Prepare to launch](getting-started/prepare-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
 
+## Space
+
+* [Set up the space](space/set-up-the-space.md)
+
 ## General
 
 * [Currency](general/currency.md)
