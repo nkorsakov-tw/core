@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Overview](overview.md)
+* [Overview](overview/README.md)
 * [Quick Start (Table Overview mode)](quick-start-table-overview-mode.md)
 
 ## Getting Started
@@ -11,6 +11,11 @@
 * [Set up your account](getting-started/set-up-your-account.md)
 * [Prepare to launch](getting-started/prepare-to-launch.md)
 * [Your privacy](getting-started/your-privacy.md)
+
+***
+
+* [POS](pos.md)
+* [Back Office](back-office.md)
 
 ## Space
 
@@ -34,5 +39,3 @@
 
 * [Draft](getting-started/quick-start.md)
 * [Retailer mode](retailer-mode.md)
-* [POS](pos.md)
-* [Back Office](back-office.md)
