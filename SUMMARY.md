@@ -21,6 +21,7 @@
 
 ## General
 
+* [Table Overview mode](general/table-overview-mode.md)
 * [Currency](general/currency.md)
 * [Payment methods](general/payment-methods.md)
 * [VAT levels](general/vat-levels.md)
