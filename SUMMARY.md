@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Overview](overview/README.md)
-  * [BackOffice](overview/backoffice.md)
-  * [POS](overview/pos.md)
+* [Overview](overview.md)
 * [Quick Start (Table Overview mode)](quick-start-table-overview-mode.md)
 
 ## Getting Started
@@ -36,3 +34,5 @@
 
 * [Draft](getting-started/quick-start.md)
 * [Retailer mode](retailer-mode.md)
+* [POS](pos.md)
+* [Back Office](back-office.md)
