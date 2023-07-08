@@ -11,6 +11,16 @@
 
 * Choose that you use tables and specify their number
 
+<div>
+
+<figure><img src=".gitbook/assets/tables.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/number-space.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 3. Create an article Non-Alcoholic Mojito &#x20;
 
 * Add new 'Category' (Drinks)
