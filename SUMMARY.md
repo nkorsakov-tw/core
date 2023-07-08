@@ -4,7 +4,6 @@
 * [Overview](overview/README.md)
   * [BackOffice](overview/backoffice.md)
   * [POS](overview/pos.md)
-* [Quick Start](quick-start.md)
 * [Quick Start (Table Overview mode)](quick-start-table-overview-mode.md)
 
 ## Getting Started
