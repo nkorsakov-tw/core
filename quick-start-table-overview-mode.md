@@ -1,6 +1,6 @@
 # Quick Start (Table Overview mode)
 
-**Let's consider how to start work in**[ **Table Overview mode**](general/table-overview-mode.md)
+**Let's consider how to start working in**[ **Table Overview mode**](general/table-overview-mode.md)
 
 1. Open [https://test.air.untill.com/#/](https://test.air.untill.com/#/) in your browser
 2. Sign Up
