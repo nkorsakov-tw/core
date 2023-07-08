@@ -37,5 +37,4 @@
 
 ***
 
-* [Draft](getting-started/quick-start.md)
 * [Retailer mode](retailer-mode.md)
