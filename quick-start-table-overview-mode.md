@@ -2,14 +2,14 @@
 
 **Let's consider how to start working in**[ **Table Overview mode**](general/table-overview-mode.md)
 
-1. Open [https://test.air.untill.com/#/](https://test.air.untill.com/#/) in your browser
+1. Open [https://air.untill.com/](https://air.untill.com/) in your browser
 2. Sign Up
 
 * Choose 'Food & Drinks'
 
 <figure><img src=".gitbook/assets/2023-07-07_22-07-19.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-* Choose that you use tables and specify their number
+* Choose that you use tables, create a table space 'Terrace' and specify the number of tables
 
 <div>
 
@@ -17,7 +17,7 @@
 
  
 
-<figure><img src=".gitbook/assets/number-space.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/terrace.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -2,7 +2,7 @@
 
 If you already have an account, simply Sign In to unTill Air using the same email and password you used when you Signed Up.
 
-1. Go to [https://test.air.untill.com/#/](https://test.air.untill.com/#/) in your Internet browser and select Sign In page;
+1. Go to [https://air.untill.com/](https://air.untill.com/) your Internet browser and select Sign In page;
 2. Enter your email and password;
 3. Finally, click on the `Sign in` button to complete the signing-in process.
 
