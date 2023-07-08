@@ -21,7 +21,6 @@
 ## General
 
 * [Table Overview mode](general/table-overview-mode.md)
-* [Currency](general/currency.md)
 * [Payment methods](general/payment-methods.md)
 * [VAT levels](general/vat-levels.md)
 * [Equipment](general/equipment.md)
@@ -36,22 +35,4 @@
 ***
 
 * [Draft](getting-started/quick-start.md)
-
-## Hardware
-
-* [Hardware compatibility](hardware/hardware-compatibility.md)
-* [Network connectivity](hardware/network-connectivity.md)
-
-## Queries
-
-* [External queries](queries/external-queries.md)
-* [Internal queries](queries/internal-queries.md)
-
-## Appendices
-
-* [Glossary](<README (1).md>)
-* [Directory feature](description-directory/README.md)
-
-***
-
 * [Retailer mode](retailer-mode.md)
