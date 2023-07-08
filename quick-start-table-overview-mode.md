@@ -39,3 +39,7 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 9. Simulate first order on your tablet&#x20;
 
 <figure><img src=".gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you're a retailer, refer to [this manual](retailer-mode.md) for setting up your account.
+{% endhint %}
