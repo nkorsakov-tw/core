@@ -19,7 +19,7 @@
 
 ## Space
 
-* [Set up the space](space/set-up-the-space.md)
+* [Set up the Space](space/set-up-the-space.md)
 
 ## General
 
