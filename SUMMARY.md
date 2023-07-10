@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Overview](overview/README.md)
-* [Quick Start (Table Overview mode)](quick-start-table-overview-mode.md)
+* [Quick Start (Food & Drinks mode)](quick-start-food-and-drinks-mode.md)
+* [Quick Start (Retailer mode)](quick-start-retailer-mode.md)
 
 ## Getting Started
 
@@ -23,7 +24,7 @@
 ## General
 
 * [Direct sales mode](general/direct-sales-mode.md)
-* [Table Overview mode](general/table-overview-mode.md)
+* [Table Plan mode](general/table-plan-mode.md)
 * [Payment methods](general/payment-methods.md)
 * [VAT levels](general/vat-levels.md)
 * [Equipment](general/equipment.md)

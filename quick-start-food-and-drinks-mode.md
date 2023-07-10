@@ -1,6 +1,6 @@
-# Quick Start (Table Overview mode)
+# Quick Start (Food & Drinks mode)
 
-**Let's consider how to start working in**[ **Table Overview mode**](general/table-overview-mode.md)
+**Let's consider how to start working in** [**Table Plan mode**](general/table-plan-mode.md)
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. [Sign Up](getting-started/quick-start/sign-up-to-untill-air.md).

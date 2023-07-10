@@ -5,7 +5,7 @@ description: Brief overview how to create discounts and implement them on tablet
 # Discounts
 
 {% hint style="info" %}
-This manual is intended for users who have already registered some product articles. If you need guidance on creating your first articles, please refer to the ['Quick Start'](../quick-start-table-overview-mode.md) manual. Once you have set up your articles, you can start taking orders and apply discounts when finalizing the bill.
+This manual is intended for users who have already registered some product articles. If you need guidance on creating your first articles, please refer to the ['Quick Start'](../quick-start-food-and-drinks-mode.md) manual. Once you have set up your articles, you can start taking orders and apply discounts when finalizing the bill.
 {% endhint %}
 
 You are able to customize your discounts in the Back Office, allowing them to suit your specific business needs. Once configured, these customized discounts will be available in the POS system, integrated into the billing process.&#x20;
