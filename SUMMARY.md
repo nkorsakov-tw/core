@@ -10,7 +10,6 @@
 * [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
 * [Set up your account](getting-started/set-up-your-account.md)
 * [Prepare to launch](getting-started/prepare-to-launch.md)
-* [Your privacy](getting-started/your-privacy.md)
 
 ***
 
