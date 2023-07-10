@@ -53,3 +53,5 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 {% hint style="info" %}
 If you're a retailer, refer to [this manual](retailer-mode.md) for setting up your account.
 {% endhint %}
+
+_Once you have initiated orders in Table Overview mode, you have the option to add discounts to your account. For detailed instructions on how to add discounts, please refer to the documentation provided_ [_here_](general/discounts.md)_._
