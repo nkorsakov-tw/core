@@ -26,7 +26,7 @@ To add discounts to your list, follow these instructions:
 * Discount value: Enter the percentage rate of the discount if the **'Value type'** is set to percent, or enter the specific amount of the discount if it's a fixed discount;
 * Discount type: choose **'Whole bill'** or **'Selected items'** for which the discount will be given;
 * Excluded periods: indicate if your discount is unavailable in some periods of time;
-* Applies to: Select the specific 'Department', 'Category', or other relevant criteria to which the discount will be applied;
+* Applies to: Select the specific **'Department'**, **'Category'**, or other relevant criteria to which the discount will be applied;
 * Reason: select or invent the reason for discount.
 
 5. When you are finished, click on **'Save'** button.
@@ -45,3 +45,5 @@ To provide your discounts to your customers, follow these instructions:
 3. You can see the result in the final bill.
 
 <figure><img src="../.gitbook/assets/discount3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+_Now your discounts are ready to be used as part of the restaurant order._
