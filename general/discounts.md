@@ -17,7 +17,7 @@ With the ability to customize discounts, you have the flexibility to create diff
 To add discounts to your list, follow these instructions:
 
 1. [Sign in](../getting-started/quick-start/sign-in-to-untill-air.md) to your account.
-2. Navigate to **'Discounts'** under the **'General'** section.
+2. Navigate to **'Discounts' > 'General'.**
 3. Click **'Add new discount'.**
 4. Enter the required information about new discount:
 
@@ -33,7 +33,7 @@ To add discounts to your list, follow these instructions:
 
 <figure><img src="../.gitbook/assets/discount.jpg" alt=""><figcaption><p>Example of creating new discount</p></figcaption></figure>
 
-### Implement the discount on tablet in Table Overview mode
+### Implement the discount on tablet in Table Plan mode
 
 To provide your discounts to your customers, follow these instructions:
 
