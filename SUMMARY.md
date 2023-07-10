@@ -19,6 +19,7 @@
 
 ## Space
 
+* [What's the Space?](space/whats-the-space.md)
 * [Set up the Space](space/set-up-the-space.md)
 
 ## General
