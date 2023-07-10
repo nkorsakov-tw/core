@@ -16,7 +16,7 @@ With the ability to customize discounts, you have the flexibility to create diff
 
 To add discounts to your list, follow these instructions:
 
-1. Sign in to your account.
+1. [Sign in](../getting-started/quick-start/sign-in-to-untill-air.md) to your account.
 2. Navigate to **'Discounts'** under the **'General'** section.
 3. Click **'Add new discount'.**
 4. Enter the required information about new discount:
@@ -37,4 +37,11 @@ To add discounts to your list, follow these instructions:
 
 To provide your discounts to your customers, follow these instructions:
 
-1. On your connected with Back Office tablet (how to connect a tablet read here)
+1. To access the **'Discounts'** feature, navigate to the **'Discounts'** section on your tablet connected to the Back Office system (instructions on how to connect a tablet can be found [here](equipment/how-to-connect-devices.md)). You can find this option from the order page.
+2. Select the discount which is appropriate to your case.
+
+<figure><img src="../.gitbook/assets/discount2.jpg" alt="" width="563"><figcaption><p>Example of implementation the discount on tablet</p></figcaption></figure>
+
+3. You can see the result in the final bill.
+
+<figure><img src="../.gitbook/assets/discount3.jpg" alt="" width="563"><figcaption></figcaption></figure>
