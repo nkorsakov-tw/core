@@ -3,7 +3,7 @@
 **Let's consider how to start working in**[ **Table Overview mode**](general/table-overview-mode.md)
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser
-2. Sign Up
+2. [Sign Up](getting-started/quick-start/sign-up-to-untill-air.md)
 
 * Choose 'Food & Drinks'
 
