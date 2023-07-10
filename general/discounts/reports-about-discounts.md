@@ -7,7 +7,7 @@ Ensure that you have already set up discounts and connected your tablet. For ins
 {% endhint %}
 
 1. Navigate to **'Reports' > 'Discounts'**
-2. You'll see the fulness of information about implemented discounts
+2. You will have access to detailed information about the discounts that have been implemented
 
 | Term           | Description                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
