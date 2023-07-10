@@ -35,6 +35,7 @@
 * [Discounts](general/discounts/README.md)
   * [Set up Discounts](general/discounts/set-up-discounts.md)
   * [Reports about Discounts](general/discounts/reports-about-discounts.md)
+  * [Discounts with period](general/discounts/discounts-with-period.md)
 * [Periods](general/periods.md)
 * [Reasons](general/reasons.md)
 * [Tickets](general/tickets.md)
