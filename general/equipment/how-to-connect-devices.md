@@ -36,7 +36,7 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 ### Add new tablet
 
 {% hint style="info" %}
-For adding a tablet to Back Office you need to install at first the application 'unTill Runner' on your device.
+To add a tablet to the back office, you first need to install the **'unTil Runner'** application on your device.
 {% endhint %}
 
 1. At first, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../direct-sales-mode.md) mode or the ['Table Overview'](../table-overview-mode.md) mode:
@@ -56,12 +56,12 @@ For adding a tablet to Back Office you need to install at first the application 
 * Specify the number of tables;
 * Select the space which you'll use;
 * Select the printer;
-* Scan QR Code by your tablet.
+* Scan the QR Code using your tablet.
 
 **If you have 'Table Overview':**
 
 * Select the printer;
-* Scan QR Code by your tablet.
+* Scan the QR Code using your tablet.
 
 <div>
 
