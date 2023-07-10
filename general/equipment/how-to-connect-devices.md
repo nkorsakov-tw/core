@@ -35,4 +35,14 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 
 ### Add new tablet
 
-1. At first, you can select which type of working with tablet you need. It can be 'Direct sales' mode or 'Table Overview' mode
+1. At first, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the 'Direct sales' mode or the 'Table Overview' mode:
+
+{% tabs %}
+{% tab title="Direct sales" %}
+
+{% endtab %}
+
+{% tab title="Table Overview" %}
+
+{% endtab %}
+{% endtabs %}
