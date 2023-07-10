@@ -35,7 +35,11 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 
 ### Add new tablet
 
-1. At first, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the 'Direct sales' mode or the 'Table Overview' mode:
+{% hint style="info" %}
+For adding a tablet to Back Office you need to install at first the application 'unTill Runner' on your device.
+{% endhint %}
+
+1. At first, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../direct-sales-mode.md) mode or the ['Table Overview'](../table-overview-mode.md) mode:
 
 {% tabs %}
 {% tab title="Direct sales" %}
@@ -46,3 +50,25 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 
 {% endtab %}
 {% endtabs %}
+
+**If you have 'Direct sales' mode:**
+
+* Specify the number of tables;
+* Select the space which you'll use;
+* Select the printer;
+* Scan QR Code by your tablet.
+
+**If you have 'Table Overview':**
+
+* Select the printer;
+* Scan QR Code by your tablet.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/adding-device.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/adding-device2.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
