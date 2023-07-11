@@ -26,7 +26,7 @@
 * Add new 'Category' (Drinks)
 * Add new 'Group' (Non-Alcoholic)
 * Add new 'Department' (Lemonades)
-* Add new Course (Main range)
+* Add new Course (Main)
 * Add new Article (Non-Alcoholic Mojito)
 
 <figure><img src=".gitbook/assets/sequence.jpg" alt=""><figcaption></figcaption></figure>
