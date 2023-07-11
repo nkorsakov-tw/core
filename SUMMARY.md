@@ -9,8 +9,8 @@
 
 * [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
 * [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
-* [Set up your account](getting-started/set-up-your-account.md)
-* [Prepare to launch](getting-started/prepare-to-launch.md)
+* [Set up your account](getting-started/set-up-your-account/README.md)
+  * [How to add user (waiter)?](getting-started/set-up-your-account/how-to-add-user-waiter.md)
 
 ***
 

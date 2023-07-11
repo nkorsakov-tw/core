@@ -6,7 +6,7 @@ Being on home page you'll see on the left-side panel different sections which al
 
 When you navigate to the `Home` page, you will find a display featuring key reports for running and managing your organization. These reports include discounts, voids, average bill, orders, and sales per hour. Furthermore, you can customize the date range in the upper right corner of the page to ensure you have a comprehensive understanding of your business operations.
 
-<figure><img src="../.gitbook/assets/2023-07-07_17-01-02.jpg" alt="" width="563"><figcaption><p>Home page and column of sections</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-07-07_17-01-02.jpg" alt="" width="563"><figcaption><p>Home page and column of sections</p></figcaption></figure>
 
 ### Spaces
 
