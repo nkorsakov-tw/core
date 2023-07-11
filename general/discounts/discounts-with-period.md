@@ -35,3 +35,5 @@ You've added your new period succesfully.
 Please follow these steps to implement 'Period' for discount:
 
 1. Navigate to the 'General' > 'Discounts'
+2. Click 'Add new discount'
+3. Enter the requested information and pay the attention to 'Excluded period'
