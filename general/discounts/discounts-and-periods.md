@@ -12,12 +12,12 @@ Please follow these steps to set up a specific period:
 4. Give a name to your new period
 5. Select **'Periods type'**
 
-| Periods type        | Description                                                                                                             |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Weekly values       | You can determine the day of the week and hours when your discount will be available. This offer will repeat each week. |
-| One-time use values | You can establish a single period for your discount.                                                                    |
-| Annual values       | You can establish a single period for your discount and this will be repeated in one year.                              |
-| Daily values        | Your discount will be available everyday. You can determine the hours when the offer is active.                         |
+| Periods type        | Description                                                                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Weekly values       | You can determine the day of the week and hours when your discount will be available. This offer will be repeated each week. |
+| One-time use values | You can establish a single period for your discount.                                                                         |
+| Annual values       | You can establish a single period for your discount and this offer will be repeated in one year.                             |
+| Daily values        | Your discount will be available everyday. You can determine the hours when the offer is active.                              |
 
 6. According to your selected **'Periods type'**, you may provide information about the time limits of your discount.
 
@@ -36,7 +36,7 @@ Please follow these steps to implement 'Period' for discount:
 
 1. Navigate to the **'General' > 'Discounts'**
 2. Click **'Add new discount'**
-3. Enter the requested information and pay the attention to 'Excluded period'
+3. Enter the requested information and pay the attention to **'Excluded period'**
 4. Select exactly the period that you have recently created
 
 <figure><img src="../../.gitbook/assets/discount-period.jpg" alt=""><figcaption></figcaption></figure>
