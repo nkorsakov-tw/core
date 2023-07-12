@@ -10,7 +10,8 @@
 * [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
 * [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
 * [Set up your account](getting-started/set-up-your-account/README.md)
-  * [How to add user (waiter)?](getting-started/set-up-your-account/how-to-add-user-waiter.md)
+  * [How to add a user (waiter)?](getting-started/set-up-your-account/how-to-add-a-user-waiter.md)
+  * [How to create modifiers and assign them to the 'Article'?](getting-started/set-up-your-account/how-to-create-modifiers-and-assign-them-to-the-article.md)
 
 ***
 
