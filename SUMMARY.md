@@ -4,6 +4,8 @@
 * [Overview](overview/README.md)
 * [Quick Start (Food & Drinks mode)](quick-start-food-and-drinks-mode.md)
 * [Quick Start (Retailer mode)](quick-start-retailer-mode.md)
+* [Back Office](back-office.md)
+* [POS](pos.md)
 
 ## Getting Started
 
@@ -13,11 +15,6 @@
   * [How to add a user (waiter)?](getting-started/set-up-your-account/how-to-add-user-waiter.md)
   * [How to create modifiers and assign them to the 'Article'?](getting-started/set-up-your-account/how-to-create-modifiers-and-assign-them-to-the-article.md)
   * [How to use modifiers in POS?](getting-started/set-up-your-account/how-to-use-modifiers-in-pos.md)
-
-***
-
-* [POS](pos.md)
-* [Back Office](back-office.md)
 
 ## Space
 

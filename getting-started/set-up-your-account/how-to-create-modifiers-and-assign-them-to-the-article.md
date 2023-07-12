@@ -32,5 +32,5 @@ To create a modifiers, please follow these steps:
 4. Click **'Save'** button
 
 {% hint style="success" %}
-You have successfully created a new modifier, and now you can use it in POS. You are able to utilize it within the POS system. Please continue reading the next manual to learn how to effectively use the modifier in your POS operations.
+You have successfully created a new modifier, and now you can use it in POS. You are able to utilize it within the POS system. Please, read the next manual to learn how to effectively use the modifier in your POS operations.
 {% endhint %}
