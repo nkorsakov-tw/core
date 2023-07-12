@@ -42,4 +42,4 @@
 ***
 
 * [Retailer mode](retailer-mode.md)
-* [How to add products into new space?](how-to-add-products-into-new-space.md)
+* [How to add articles to a new space?](how-to-add-articles-to-a-new-space.md)
