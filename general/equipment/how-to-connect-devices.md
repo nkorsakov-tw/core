@@ -6,19 +6,19 @@ To learn how to establish these devices, please refer to the manual specifically
 
 A few steps to add devices:
 
-1. Navigate to **'Equipment' > 'General'.**
+1. Navigate to the **'General' > 'Equipment'.**
 2. Click **'Add new equipment'**.
 3. Select what kind of devices you want to establish.
 
 {% hint style="warning" %}
-Note: If you have not yet added a printer and terminal to your device list, you will not be able to add a tablet. Therefore, it is necessary to first add a printer and terminal to your device list before proceeding to add a tablet.
+Note: If you have not yet added a printer and terminal to your device list, you will not be able to add a tablet. Therefore, it is necessary to first add a printer and terminal before proceeding to add a tablet.
 {% endhint %}
 
 ### Add new printer
 
 1. Give a name for your new printer.
-2. Select the aim of using it.
-3. Enter the technical information about your printer or choose 'Null printer'.
+2. Please select the aim of using it.
+3. Enter the technical information about your printer or choose **'Null printer'**.
 
 {% hint style="info" %}
 If you don't have a printer yet, select 'Null printer' feature to simulate the working process without printing actual receipts.
@@ -42,11 +42,11 @@ To add a tablet to the back office, you first need to install the **'unTil Runne
 
 {% tabs %}
 {% tab title="Direct sales" %}
-
+This mode is intended for selling items without tables and designated spaces. It consists of a point of sale that directly sells products to customers. In this mode, you won't see spaces where orders are generated; instead, it will display a simple list of products and generate a bill for the client.
 {% endtab %}
 
 {% tab title="Table Overview" %}
-
+This mode is intended for businesses with tables and dining spaces where staff interact with clients. In this mode, you will have a specific space in the POS, which can be [set up in the Back Office](../../space/set-up-the-space.md). You will have access to lists of orders from different tables, allowing you to efficiently manage them.&#x20;
 {% endtab %}
 {% endtabs %}
 

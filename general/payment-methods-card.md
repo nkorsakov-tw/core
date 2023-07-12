@@ -4,7 +4,7 @@ description: How to start working with cahsless payments?
 
 # Payment methods (Card)
 
-Cash payment does not involve any additional actions on the part of the user. Cash payment is available from the first steps in unTill Air, but cashless payment requires some actions. In this case, you need to have access to unTill Payments.
+Payment by cash doesn't require any additional actions from the user. Cash payment is available from the first steps in unTill Air. However, cashless payment requires some additional steps, as it requires access to unTill Payments.
 
 To enable the card as a means of payment in the POS terminal, please follow these instructions:
 
