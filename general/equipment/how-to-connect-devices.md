@@ -6,10 +6,9 @@ To learn how to establish these devices, please refer to the manual specifically
 
 A few steps to add devices:
 
-1. [Sign in](../../getting-started/quick-start/sign-in-to-untill-air.md) to your account.
-2. Navigate to **'Equipment' > 'General'.**
-3. Click **'Add new equipment'**.
-4. Select what kind of devices you want to establish.
+1. Navigate to **'Equipment' > 'General'.**
+2. Click **'Add new equipment'**.
+3. Select what kind of devices you want to establish.
 
 {% hint style="warning" %}
 Note: If you have not yet added a printer and terminal to your device list, you will not be able to add a tablet. Therefore, it is necessary to first add a printer and terminal to your device list before proceeding to add a tablet.
