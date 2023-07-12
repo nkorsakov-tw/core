@@ -26,7 +26,7 @@
 
 * [Direct sales mode](general/direct-sales-mode.md)
 * [Table Plan mode](general/table-plan-mode.md)
-* [Payment methods](general/payment-methods.md)
+* [Payment methods (Card)](general/payment-methods-card.md)
 * [VAT levels](general/vat-levels.md)
 * [Equipment](general/equipment.md)
   * [How to add devices?](general/equipment/how-to-connect-devices.md)
