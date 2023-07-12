@@ -12,10 +12,9 @@ This manual is intended for users who have already registered some product artic
 
 To add discounts to your list, follow these instructions:
 
-1. [Sign in](../../getting-started/quick-start/sign-in-to-untill-air.md) to your account.
-2. Navigate to **'Discounts' > 'General'.**
-3. Click **'Add new discount'.**
-4. Enter the required information about new discount:
+1. Navigate to **'Discounts' > 'General'.**
+2. Click **'Add new discount'.**
+3. Enter the required information about new discount:
 
 * Name;
 * Value type: it can be a percent or fixed sum of discount;
