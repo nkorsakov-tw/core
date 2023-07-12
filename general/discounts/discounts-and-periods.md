@@ -1,4 +1,4 @@
-# Discounts with period
+# Discounts and Periods
 
 When setting up discounts, you have the opportunity to flexibly adjust the validity period of the discount. You can specify the start date and the end date by specifying the exact period during which the discount will be valid. This will help you create time-limited promotions that meet your needs. As soon as the specified expiration date is reached, the discount will automatically expire.
 
@@ -21,10 +21,10 @@ Please follow these steps to set up a specific period:
 
 6. According to your selected **'Periods type'**, you may provide information about the time limits of your discount.
 
-<figure><img src="../../.gitbook/assets/period.jpg" alt=""><figcaption><p>Example of creating the 'Weekly time' period for discount</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/periods.jpg" alt=""><figcaption><p>Example of creating the 'Weekly time' period for discount</p></figcaption></figure>
 
-7. Click **'Continue'**
-8. Click **'Save'**
+6. Click **'Continue'**
+7. Click **'Save'**
 
 {% hint style="success" %}
 You've added your new period succesfully.
@@ -34,6 +34,28 @@ You've added your new period succesfully.
 
 Please follow these steps to implement 'Period' for discount:
 
-1. Navigate to the 'General' > 'Discounts'
-2. Click 'Add new discount'
+1. Navigate to the **'General' > 'Discounts'**
+2. Click **'Add new discount'**
 3. Enter the requested information and pay the attention to 'Excluded period'
+4. Select exactly the period that you have recently created
+
+<figure><img src="../../.gitbook/assets/discount-period.jpg" alt=""><figcaption></figcaption></figure>
+
+5. Switch to application for the POS on the tablet
+6. Create any order and click 'Discounts' on the left sidebar
+
+<figure><img src="../../.gitbook/assets/disc.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If the period which you specified in previous steps is available right now, the discount with a specific period will appear on the tablet in the section 'Discounts'.&#x20;
+{% endhint %}
+
+7. Select period discount and complete the order
+
+<figure><img src="../../.gitbook/assets/disc2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+8. As a result, you'll see reducing bill with accounting of discounts
+
+{% hint style="success" %}
+Now you've succesfully created Period discount and learned how it can be implemented in POS.
+{% endhint %}
