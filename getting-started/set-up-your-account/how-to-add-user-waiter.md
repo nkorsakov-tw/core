@@ -1,4 +1,4 @@
-# How to add user (waiter)?
+# How to add a user (waiter)?
 
 Since the launch, you already have at least one user (waiter), but let's look at how to add or remove other users.
 
