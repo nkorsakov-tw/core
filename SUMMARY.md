@@ -27,7 +27,8 @@
 * [Direct sales mode](general/direct-sales-mode.md)
 * [Table Plan mode](general/table-plan-mode.md)
 * [Payment methods (Card)](general/payment-methods-card.md)
-* [VAT levels](general/vat-levels.md)
+* [VAT levels](general/vat-levels/README.md)
+  * [How to add secondary VAT?](general/vat-levels/how-to-add-secondary-vat.md)
 * [Equipment](general/equipment.md)
   * [How to add devices?](general/equipment/how-to-connect-devices.md)
   * [How to work on tablet?](general/equipment/how-to-work-on-tablet.md)
@@ -42,4 +43,4 @@
 ***
 
 * [Retailer mode](retailer-mode.md)
-* [How to add articles to a new space?](how-to-add-articles-to-a-new-space.md)
+* [How to add articles to a new space?](how-to-add-products-into-new-space.md)
