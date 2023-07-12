@@ -42,7 +42,7 @@ Please follow these steps to implement 'Period' for discount:
 <figure><img src="../../.gitbook/assets/discount-period.jpg" alt=""><figcaption></figcaption></figure>
 
 5. Switch to application for the POS on the tablet
-6. Create any order and click 'Discounts' on the left sidebar
+6. Create any order and click **'Discounts'** on the left sidebar
 
 <figure><img src="../../.gitbook/assets/disc.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -54,8 +54,8 @@ If the period which you specified in previous steps is available right now, the 
 
 <figure><img src="../../.gitbook/assets/disc2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-8. As a result, you'll see reducing bill with accounting of discounts
+8. As a result, you will see a reduction in the invoice, taking into account discounts
 
 {% hint style="success" %}
-Now you've succesfully created Period discount and learned how it can be implemented in POS.
+Now you have successfully created a Period discount and found out how it can be implemented in POS.
 {% endhint %}
