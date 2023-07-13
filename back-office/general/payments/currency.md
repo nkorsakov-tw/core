@@ -10,11 +10,11 @@ Please, follow these instructions to add new currencies to your list:
 2. Click **'Add new currency'**.
 3. Provide the information about the currency:
 
-* Enter the name of currency;
-* Find the currency code;
+* Enter the name of the currency;
+* Select the currency code;
 * Select the values to which you want to round the amount;
-* Enter the rate of currency to Euro(€);
-* Choose where the symbol of currency will be placed;
+* Enter the exchange rate against the Euro(€);
+* Select where the symbol of currency will be placed;
 
 <figure><img src="../../../.gitbook/assets/currency2.jpg" alt=""><figcaption></figcaption></figure>
 
