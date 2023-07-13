@@ -1,6 +1,6 @@
 # Add devices
 
-In order to effectively manage the restaurant and process orders, it is crucial to establish essential devices such as printers, terminals, and tablets.&#x20;
+To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals, and tablets.
 
 To learn how to establish these devices, please refer to the manual specifically dedicated to device connectivity. This manual will provide you with clear instructions and guidance on adding your devices for operation within the unTill Air system.
 
@@ -11,7 +11,7 @@ A few steps to add devices:
 3. Select what kind of devices you want to establish.
 
 {% hint style="warning" %}
-Note: If you have not yet added a printer and terminal to your device list, you will not be able to add a tablet. Therefore, it is necessary to first add a printer and terminal before proceeding to add a tablet.
+Note: If you have not yet added a printer and terminal to your device list, you will not be able to add a tablet. Therefore, it's necessary to first add a printer and terminal before proceeding to add a tablet.
 {% endhint %}
 
 ### Add new printer
@@ -38,7 +38,7 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 To add a tablet to the back office, you first need to install the **'unTil Runner'** application on your device.
 {% endhint %}
 
-1. At first, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../../pos/direct-sales-mode.md) mode or the ['Table Overview'](../../../pos/table-plan-mode.md) mode:
+1. Primarily, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../../pos/direct-sales-mode.md) mode or the ['Table Overview'](../../../pos/table-plan-mode.md) mode:
 
 {% tabs %}
 {% tab title="Direct sales" %}
