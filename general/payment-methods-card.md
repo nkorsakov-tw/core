@@ -30,5 +30,5 @@ To join unTill Payments, please reach out to your reseller if you work with unTi
 <figure><img src="../.gitbook/assets/card.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Now you are able to use another payment method
+Now you have the option to make cashless payments.
 {% endhint %}
