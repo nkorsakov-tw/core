@@ -61,3 +61,7 @@
 
 * [Direct sales mode](pos/direct-sales-mode.md)
 * [Table Plan mode](pos/table-plan-mode.md)
+
+***
+
+* [Add new location](add-new-location.md)
