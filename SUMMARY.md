@@ -42,4 +42,4 @@
 ***
 
 * [Retailer mode](retailer-mode.md)
-* [Add articles to a new space?](add-articles-to-a-new-space.md)
+* [Add articles to a new space](add-articles-to-a-new-space.md)
