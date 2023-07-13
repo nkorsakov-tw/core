@@ -25,7 +25,9 @@
 
 * [Direct sales mode](general/direct-sales-mode.md)
 * [Table Plan mode](general/table-plan-mode.md)
-* [Payment methods (Card)](general/payment-methods-card.md)
+* [Payments](general/payments/README.md)
+  * [Payment methods (Card)](general/payments/payment-methods-card.md)
+  * [Reports about Payments](general/payments/reports-about-payments.md)
 * [VAT levels](general/vat-levels.md)
   * [Add secondary VAT](general/vat-levels/add-secondary-vat.md)
 * [Equipment](general/equipment.md)
