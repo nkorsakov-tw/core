@@ -1,4 +1,4 @@
-# How to add secondary VAT?
+# Add secondary VAT
 
 Products can be sold in different sales areas, which means that the VAT for each area can vary. For example, a product sold in a restaurant may have a different VAT rate compared to the same product sold directly at a point of sale. To accommodate this, there is a need to add secondary VAT to individual items when necessary.
 
@@ -10,7 +10,7 @@ To add secondary VAT, please follow these steps:
 2. Add a new group or edit an existing one
 3. Add a secondary VAT below the first VAT field
 
-<figure><img src="../../.gitbook/assets/secondary-vat.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/secondary-vat.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click 'Continue'
 

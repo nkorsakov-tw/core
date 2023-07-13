@@ -1,6 +1,6 @@
 # Quick Start (Food & Drinks mode)
 
-**Let's consider how to start working in** [**Table Plan mode**](general/table-plan-mode.md)
+**Let's consider how to start working in** [**Table Plan mode**](pos/table-plan-mode.md)
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. [Sign Up](getting-started/quick-start/sign-up-to-untill-air.md).
@@ -51,7 +51,7 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 <figure><img src=".gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you're a retailer, refer to [this manual](retailer-mode.md) for setting up your account.
+If you're a retailer, refer to [this manual](broken-reference) for setting up your account.
 {% endhint %}
 
-_Once you have initiated orders in Table Overview mode, you have the option to add discounts to your account. For detailed instructions on how to add discounts, please refer to the documentation provided_ [_here_](general/discounts/set-up-discounts.md)_._
+_Once you have initiated orders in Table Overview mode, you have the option to add discounts to your account. For detailed instructions on how to add discounts, please refer to the documentation provided_ [_here_](back-office/general/discounts/set-up-discounts.md)_._

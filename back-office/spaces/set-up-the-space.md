@@ -6,7 +6,7 @@
 
 Space is your customized area with tables where staff receives clients&#x20;
 
-You can read detailed manual about the essence of 'Space' [here](whats-the-space.md).
+You can read detailed manual about the essence of 'Space' [here](./).
 
 </details>
 
@@ -18,7 +18,7 @@ Here are a few steps to help you set up your **'Space'**:
 
 * If you are using a **'Special price'** for your particular space, it needs to be mentioned
 
-<figure><img src="../.gitbook/assets/space.jpg" alt="" width="563"><figcaption><p>Example of creating new space with special price</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/space.jpg" alt="" width="563"><figcaption><p>Example of creating new space with special price</p></figcaption></figure>
 
 4. Click on the space that just appeared.
 5. Now you can modify some settings and conditions of space:
@@ -27,7 +27,7 @@ Here are a few steps to help you set up your **'Space'**:
 * You can pick the shape, height, width and rotation angle of tables and other subjects;
 * You can change the visual elements of space such as the background color and the presence of plants or walls.
 
-<figure><img src="../.gitbook/assets/space2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/space2.jpg" alt=""><figcaption></figcaption></figure>
 
 6. Click the **'Save'** button after the configuration is completed.
 
