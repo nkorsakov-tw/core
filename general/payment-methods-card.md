@@ -4,7 +4,7 @@ description: How to start working with cahsless payments?
 
 # Payment methods (Card)
 
-Payment by cash doesn't require any additional actions from the user. Cash payment is available from the first steps in unTill Air. However, cashless payment requires some additional steps, as it requires access to unTill Payments.
+Payment by cash doesn't require any additional actions from the user. Cash payment normally is a default option and it's available from the first steps in unTill Air. However, cashless payment requires some additional actions, as it requires access to unTill Payments.
 
 ### How to get an access to unTill Payments?
 
@@ -27,3 +27,8 @@ To join unTill Payments, please reach out to your reseller if you work with unTi
 2. Create any order on the tablet.
 3. Verify the capability of using a card to submit a payment in the POS on the tablet.
 
+<figure><img src="../.gitbook/assets/card.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Now you are able to use another payment method
+{% endhint %}
