@@ -23,7 +23,7 @@ To join unTill Payments, please reach out to your reseller if you work with unTi
 
 ### Use the card in the POS
 
-1. To begin, install and open the 'unTill Runner' application on your tablet (for instructions on how to connect your tablet, please refer to the [provided documentation](../equipment/add-devices.md)).
+1. To begin, install and open the 'unTill Runner' application on your tablet (for instructions on how to connect your tablet, please refer to the [provided documentation](../equipment/add-device.md)).
 2. Create any order on the tablet.
 3. Verify the capability of using a card to submit a payment in the POS on the tablet.
 

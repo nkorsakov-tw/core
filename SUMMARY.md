@@ -25,7 +25,7 @@
     * [Set up VAT levels](back-office/general/vat-levels/set-up-vat-levels.md)
     * [Add secondary VAT](back-office/general/vat-levels/add-secondary-vat.md)
   * [Equipment](back-office/general/equipment/README.md)
-    * [Add devices](back-office/general/equipment/add-devices.md)
+    * [Add device](back-office/general/equipment/add-device.md)
   * [Article messages](back-office/general/article-messages.md)
   * [Discounts](back-office/general/discounts/README.md)
     * [Set up Discounts](back-office/general/discounts/set-up-discounts.md)
