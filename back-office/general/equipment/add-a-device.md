@@ -1,10 +1,10 @@
-# Add device
+# Add a device
 
 To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals, and tablets.
 
 To learn how to establish these devices, please refer to the manual specifically dedicated to device connectivity. This manual will provide you with clear instructions and guidance on adding your devices for operation within the unTill Air system.
 
-A few steps to add devices:
+A few steps to add a device:
 
 1. Navigate to the **'General' > 'Equipment'.**
 2. Click **'Add new equipment'**.

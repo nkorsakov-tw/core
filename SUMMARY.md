@@ -2,13 +2,11 @@
 
 * [Introduction](README.md)
 * [Overview](overview/README.md)
-* [Quick Start (Food & Drinks mode)](quick-start-food-and-drinks-mode.md)
-* [Quick Start (Retailer mode)](quick-start-retailer-mode.md)
 
 ## Getting Started
 
-* [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
-* [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
+* [Quick Start (Food & Drinks mode)](getting-started/quick-start-food-and-drinks-mode.md)
+* [Quick Start (Retailer mode)](getting-started/quick-start-retailer-mode.md)
 
 ## Back Office
 
@@ -25,17 +23,17 @@
     * [Set up VAT levels](back-office/general/vat-levels/set-up-vat-levels.md)
     * [Add secondary VAT](back-office/general/vat-levels/add-secondary-vat.md)
   * [Equipment](back-office/general/equipment/README.md)
-    * [Add device](back-office/general/equipment/add-devices.md)
+    * [Add a device](back-office/general/equipment/add-a-device.md)
   * [Article messages](back-office/general/article-messages.md)
   * [Discounts](back-office/general/discounts/README.md)
-    * [Add a discount](back-office/general/discounts/add-a-discount.md)
+    * [Add a discount](back-office/general/discounts/set-up-discounts.md)
     * [Apply a discount in the POS](back-office/general/discounts/apply-a-discount-in-the-pos.md)
     * [Discounts and Periods](back-office/general/discounts/discounts-and-periods.md)
   * [Reasons](back-office/general/reasons.md)
   * [Tickets](back-office/general/tickets.md)
 * [Products](back-office/products/README.md)
   * [Articles](back-office/products/articles/README.md)
-    * [Add articles to a new space](back-office/products/articles/add-articles-to-a-new-space.md)
+    * [Add an article to a new space](back-office/products/articles/add-an-article-to-a-new-space.md)
   * [Departments](back-office/products/departments.md)
   * [Modifiers](back-office/products/modifiers/README.md)
     * [Create modifiers and assign them to the 'Article'](back-office/products/modifiers/create-modifiers-and-assign-them-to-the-article.md)
@@ -55,7 +53,7 @@
   * [Z Reports](back-office/reports/z-reports.md)
   * [X Reports](back-office/reports/x-reports.md)
 * [User](back-office/user/README.md)
-  * [Add a new user (waiter)](back-office/user/add-a-new-user-waiter.md)
+  * [Add new user (waiter)](back-office/user/add-new-user-waiter.md)
   * [User Settings](back-office/user/user-settings.md)
 
 ## POS

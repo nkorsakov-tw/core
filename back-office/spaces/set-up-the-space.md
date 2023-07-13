@@ -1,15 +1,5 @@
 # Set up the Space
 
-<details>
-
-<summary>What's the Space?</summary>
-
-Space is your customized area with tables where staff receives clients&#x20;
-
-You can read detailed manual about the essence of 'Space' [here](./).
-
-</details>
-
 Here are a few steps to help you set up your **'Space'**:
 
 1. Navigate to the **'Space'** on your left side bar.
