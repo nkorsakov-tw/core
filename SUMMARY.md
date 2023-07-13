@@ -33,7 +33,7 @@
   * [Tickets](back-office/general/tickets.md)
 * [Products](back-office/products/README.md)
   * [Articles](back-office/products/articles/README.md)
-    * [Add an article to a new space](back-office/products/articles/add-an-article-to-a-new-space.md)
+    * [Transfer an article to a new space](back-office/products/articles/transfer-an-article-to-a-new-space.md)
   * [Departments](back-office/products/departments.md)
   * [Modifiers](back-office/products/modifiers/README.md)
     * [Create modifiers and assign them to the 'Article'](back-office/products/modifiers/create-modifiers-and-assign-them-to-the-article.md)
