@@ -12,7 +12,7 @@
 * [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
 * [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
 * [Set up your account](getting-started/set-up-your-account/README.md)
-  * [Add a user (waiter)](getting-started/set-up-your-account/add-a-user-waiter.md)
+  * [Add a new user (waiter)](getting-started/set-up-your-account/add-a-new-user-waiter.md)
   * [Create modifiers and assign them to the 'Article'](getting-started/set-up-your-account/create-modifiers-and-assign-them-to-the-article.md)
   * [Use modifiers in POS](getting-started/set-up-your-account/use-modifiers-in-pos.md)
 
