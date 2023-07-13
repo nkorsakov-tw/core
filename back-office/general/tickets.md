@@ -2,7 +2,7 @@
 
 ### What's the 'Tickets'?
 
-Various templates of receipts are available for you in the "Tickets" section. You can use ready-made ticket options or create a new one based on the layout.
+Various templates of receipts are available for you in the 'Tickets' section. You can use ready-made ticket options or create a new one based on the layout.
 
 In this section you have tickets for different purposes:
 
