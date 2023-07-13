@@ -3,7 +3,7 @@
 Once you have created and customized discounts, you will be able to track them. Discount reports will be generated immediately after processing orders using the unTill Air tablet that has been added to the system.
 
 {% hint style="warning" %}
-Ensure that you have already set up discounts and connected your tablet. For instructions on how to set up discounts, please refer to the documentation provided [here](../general/discounts/set-up-discounts.md). To learn how to add devices to unTill Air, please refer to the documentation provided [here](../general/equipment/add-device.md).
+Ensure that you have already set up discounts and connected your tablet. For instructions on how to set up discounts, please refer to the documentation provided [here](../general/discounts/set-up-discounts.md). To learn how to add devices to unTill Air, please refer to the documentation provided [here](../general/equipment/add-devices.md).
 {% endhint %}
 
 1. Navigate to the **'Reports' > 'Discounts'.**

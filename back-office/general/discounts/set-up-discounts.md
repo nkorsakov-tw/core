@@ -8,7 +8,7 @@ description: Brief overview how to create discounts and implement them on tablet
 This manual is intended for users who have already registered some product articles. If you need guidance on creating your first articles, please refer to the ['Quick Start'](../../../quick-start-food-and-drinks-mode.md) manual. Once you have set up your articles, you can start taking orders and apply discounts when finalizing the bill.
 {% endhint %}
 
-### Add a discount
+### Add discount
 
 To add discounts to your list, follow these instructions:
 
@@ -32,7 +32,7 @@ To add discounts to your list, follow these instructions:
 
 To provide your discounts to your customers, follow these instructions:
 
-1. To access the **'Discounts'** feature, navigate to the **'Discounts'** section on your tablet connected to the Back Office system (instructions on how to connect a tablet can be found [here](../equipment/add-device.md)). You can find this option from the order page.
+1. To access the **'Discounts'** feature, navigate to the **'Discounts'** section on your tablet connected to the Back Office system (instructions on how to connect a tablet can be found [here](../equipment/add-devices.md)). You can find this option from the order page.
 2. Select the discount which is appropriate to your case.
 
 <figure><img src="../../../.gitbook/assets/discount2.jpg" alt="" width="563"><figcaption><p>Example of implementation the discount on tablet</p></figcaption></figure>

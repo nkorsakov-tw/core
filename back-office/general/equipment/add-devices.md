@@ -1,4 +1,4 @@
-# Add devices
+# Add device
 
 To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals, and tablets.
 
