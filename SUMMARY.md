@@ -12,9 +12,9 @@
 * [Sign Up to unTill Air](getting-started/quick-start/sign-up-to-untill-air.md)
 * [Sign In to unTill Air](getting-started/quick-start/sign-in-to-untill-air.md)
 * [Set up your account](getting-started/set-up-your-account/README.md)
-  * [How to add a user (waiter)?](getting-started/set-up-your-account/how-to-add-user-waiter.md)
-  * [How to create modifiers and assign them to the 'Article'?](getting-started/set-up-your-account/how-to-create-modifiers-and-assign-them-to-the-article.md)
-  * [How to use modifiers in POS?](getting-started/set-up-your-account/how-to-use-modifiers-in-pos.md)
+  * [Add a user (waiter)](getting-started/set-up-your-account/add-a-user-waiter.md)
+  * [Create modifiers and assign them to the 'Article'](getting-started/set-up-your-account/create-modifiers-and-assign-them-to-the-article.md)
+  * [Use modifiers in POS](getting-started/set-up-your-account/use-modifiers-in-pos.md)
 
 ## Space
 
@@ -27,10 +27,10 @@
 * [Table Plan mode](general/table-plan-mode.md)
 * [Payment methods (Card)](general/payment-methods-card.md)
 * [VAT levels](general/vat-levels.md)
-  * [How to add secondary VAT?](general/vat-levels/how-to-add-secondary-vat.md)
+  * [Add secondary VAT](general/vat-levels/add-secondary-vat.md)
 * [Equipment](general/equipment.md)
-  * [How to add devices?](general/equipment/how-to-connect-devices.md)
-  * [How to work on tablet?](general/equipment/how-to-work-on-tablet.md)
+  * [Add devices](general/equipment/add-devices.md)
+  * [Work on tablet](general/equipment/work-on-tablet.md)
 * [Article messages](general/article-messages.md)
 * [Discounts](general/discounts/README.md)
   * [Set up Discounts](general/discounts/set-up-discounts.md)
@@ -42,4 +42,4 @@
 ***
 
 * [Retailer mode](retailer-mode.md)
-* [How to add articles to a new space?](how-to-add-products-into-new-space.md)
+* [Add articles to a new space?](add-articles-to-a-new-space.md)
