@@ -8,7 +8,7 @@ One of the key features of the Back Office is the capability to create and custo
 
 The Back Office empowers you to clearly comprehend operations, maintain control over your business, and enhance the overall efficiency of your workflow. These functionalities make it a vital tool for managing and optimizing various aspects of your business operations.&#x20;
 
-<figure><img src=".gitbook/assets/homepage.jpg" alt=""><figcaption><p>Home page with a dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/homepage.jpg" alt=""><figcaption><p>Home page with a dashboard</p></figcaption></figure>
 
 In the Back Office, you can access detailed reports that provide comprehensive information about your business operations. It allows you to run the business more efficiently.
 

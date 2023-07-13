@@ -4,7 +4,8 @@
 * [Overview](overview/README.md)
 * [Quick Start (Food & Drinks mode)](quick-start-food-and-drinks-mode.md)
 * [Quick Start (Retailer mode)](quick-start-retailer-mode.md)
-* [Back Office](back-office.md)
+* [Back Office](back-office/README.md)
+  * [Home page](back-office/home-page.md)
 * [POS](pos.md)
 
 ## Getting Started
