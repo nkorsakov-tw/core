@@ -6,8 +6,8 @@ Once you have created and customized discounts, you will be able to track them. 
 Ensure that you have already set up discounts and connected your tablet. For instructions on how to set up discounts, please refer to the documentation provided [here](../general/discounts/set-up-discounts.md). To learn how to add devices to unTill Air, please refer to the documentation provided [here](../general/equipment/add-devices.md).
 {% endhint %}
 
-1. Navigate to **'Reports' > 'Discounts'**
-2. You will have access to detailed information about the discounts that have been implemented
+1. Navigate to the **'Reports' > 'Discounts'.**
+2. You will have access to detailed information about the discounts that have been implemented.
 
 | Term           | Description                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
