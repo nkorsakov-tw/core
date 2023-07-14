@@ -1,5 +1,7 @@
 # Set up the Space
 
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="checkbox"></th><th data-hidden data-type="checkbox"></th><th data-hidden data-type="checkbox"></th><th data-hidden data-type="checkbox"></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</td><td></td><td>false</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
+
 Here are a few steps to help you set up your **'Space'**:
 
 1. Navigate to the **'Space'** on your left side bar.
