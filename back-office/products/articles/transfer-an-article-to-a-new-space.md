@@ -1,5 +1,7 @@
 # Transfer an article to a new space
 
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
+
 When you have initially created one space and filled it with articles, and now you have created another space, you may wonder how to transfer the previous articles from one space to the other. Here's a brief manual on how to accomplish this action.
 
 To add articles to a new space, please follow these steps:

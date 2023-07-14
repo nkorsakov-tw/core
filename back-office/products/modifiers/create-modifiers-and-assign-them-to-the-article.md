@@ -1,5 +1,7 @@
 # Create modifiers and assign them to the 'Article'
 
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
+
 To create a modifiers, please follow these steps:
 
 1. Navigate to the **'Products' > 'Modifiers'.**

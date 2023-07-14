@@ -1,5 +1,7 @@
 # Discounts Reports
 
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office </li></ul></td><td></td></tr></tbody></table>
+
 Once you have created and customized discounts, you will be able to track them. Discount reports will be generated immediately after processing orders using the unTill Air tablet that has been added to the system.
 
 {% hint style="warning" %}

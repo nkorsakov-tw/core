@@ -1,6 +1,8 @@
-# Add a new user (waiter)
+# Add new user (waiter)
 
-Since the launch, you already have at least one user (waiter), but let's look at how to add or remove other users.
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
+
+Since the launch you already have at least one user (waiter), but let's look at how to add or remove other users.
 
 To add new user follow these steps:
 

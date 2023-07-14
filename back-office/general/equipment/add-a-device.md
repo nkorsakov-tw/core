@@ -1,5 +1,7 @@
 # Add a device
 
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
+
 To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals, and tablets.
 
 To learn how to establish these devices, please refer to the manual specifically dedicated to device connectivity. This manual will provide you with clear instructions and guidance on adding your devices for operation within the unTill Air system.
