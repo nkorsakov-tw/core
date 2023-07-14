@@ -8,29 +8,49 @@ _The essential terms in this glossary provide you with an opportunity to enhance
 
 ## A
 
-**Article messages** Standardized messages sent by waiters to the kitchen staff express customer preferences regarding the preparation process and ingredients. These messages can be configured in the 'Article messages' section
+**Article messages**&#x20;
 
-**Add new location** User is able to add new locations in the same account. It would be new area where you can make a spaces and create new articles. Locations are not connected between each other but you can switch from one location to another simply on a display
+Standardized messages sent by waiters to the kitchen staff express customer preferences regarding the preparation process and ingredients. These messages can be configured in the 'Article messages' section
 
-**Add free add-on** This feature allows you to offer your client to have an additional ingredient for free
+**Add new location**&#x20;
 
-**Add paid add-on** This feature allows you to offer your client to have an addtional paid ingredient
+User is able to add new locations in the same account. It would be new area where you can make a spaces and create new articles. Locations are not connected between each other but you can switch from one location to another simply on a display
+
+**Add free add-on**&#x20;
+
+This feature allows you to offer your client to have an additional ingredient for free
+
+**Add paid add-on**&#x20;
+
+This feature allows you to offer your client to have an addtional paid ingredient
 
 ## B
 
-**Back Office** This refers to a operations that involve the management of articles, prices, equipment etc. In the Back Office you can find also all the information about the restaurant that can help you run your business
+**Back Office**&#x20;
+
+This refers to a operations that involve the management of articles, prices, equipment etc. In the Back Office you can find also all the information about the restaurant that can help you run your business
 
 ## C
 
-**Courses** This refers to sequence of serving a dishes. Articles are assigned to a specific course which mean that it should be served in a certain time (e.g. Starters > Main dish > Dessert)
+**Courses**&#x20;
 
-**Combi deal** This offer allow the customer to order an additional dish or drink to the initial item by special price
+This refers to sequence of serving a dishes. Articles are assigned to a specific course which mean that it should be served in a certain time (e.g. Starters > Main dish > Dessert)
 
-**Categories** It's the widest segment in 'Product' list, so you need to fill in this segment before proceeding with others. As an example of 'Categories', (e.g. 'Food', 'Drinks')
+**Combi deal**&#x20;
 
-**Currency** This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can use other currencies as well
+This offer allow the customer to order an additional dish or drink to the initial item by special price
 
-**Change course** This feature enables selecting a different course for a specific item
+**Categories**&#x20;
+
+It's the widest segment in 'Product' list, so you need to fill in this segment before proceeding with others. As an example of 'Categories', (e.g. 'Food', 'Drinks')
+
+**Currency**&#x20;
+
+This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can use other currencies as well
+
+**Change course**&#x20;
+
+This feature enables selecting a different course for a specific item
 
 ## D
 
