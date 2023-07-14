@@ -230,4 +230,4 @@ _No items_
 
 **Z Reports**&#x20;
 
-This refers to the overall total for one day. The report is completed at the end of a commerce day
+This refers to the overall total for one day. The report is completed at the end of a business day
