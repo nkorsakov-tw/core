@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Overview](overview/README.md)
+* [Glossary](glossary.md)
 
 ## Getting Started
 
