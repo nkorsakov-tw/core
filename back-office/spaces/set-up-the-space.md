@@ -1,6 +1,6 @@
 # Set up the Space
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="1f468-1f4bc">👨💼</span><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
 
 Here are a few steps to help you set up your **'Space'**:
 
