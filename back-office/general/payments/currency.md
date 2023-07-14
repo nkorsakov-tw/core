@@ -22,7 +22,5 @@ Please, follow these instructions to add new currencies to your list:
 
 4. Click **'Continue'.**
 
-### Implement currency in the POS
-
-After adding a currency, you can use this currency for your standard actions, such as accepting orders and accepting the bills.&#x20;
+&#x20;
 
