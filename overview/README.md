@@ -23,10 +23,10 @@ For using unTill Air, you will need various devices, including printers, termina
 
 ### unTill Payments
 
-In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments you can process payments internally and take advantage of its features. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please refer to the designated page.&#x20;
+In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments you can process payments internally and take advantage of its features. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [refer to the designated page](../untill-payments.md).&#x20;
 
 ### Add new location
 
-One additional feature you should know is the ability to create a new location within your existing unTill Air account. There is no need to sign up again to establish a new restaurant space in unTill Air. When you subscribe to a new location, you gain full capacity to set up and manage your restaurant. This includes creating new spaces and articles, just as you would with a standard new location. For more detailed instructions on how to add a new location, please refer to the designated page.
+One additional feature you should know is the ability to create a new location within your existing unTill Air account. There is no need to sign up again to establish a new restaurant space in unTill Air. When you subscribe to a new location, you gain full capacity to set up and manage your restaurant. This includes creating new spaces and articles, just as you would with a standard new location. For more detailed instructions on how to add a new location, please [refer to the designated page.](../add-new-location.md)
 
 _We wish you a very productive and pleasant work with until Air!_
