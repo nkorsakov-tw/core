@@ -1,6 +1,6 @@
 # Overview
 
-unTill Air is a powerful software solution specifically designed to optimize restaurant business operations. It offers a comprehensive suite of features that enable restaurant managers to track and monitor various aspects of their business in real-time.
+unTill Air is a powerful software solution specifically designed to optimize restaurant business operations. It offers a comprehensive set of features that enable restaurant managers to track and monitor various aspects of their business in real-time.
 
 ### User roles&#x20;
 
