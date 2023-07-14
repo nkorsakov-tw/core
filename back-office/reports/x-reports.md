@@ -1,10 +1,10 @@
 # X Reports
 
-### What's the X Reports?
+### What's the X Report?
 
 It's an overall total report for a selected period. X Reports have the same structure and clauses as Z Reports, but the distinction between them consists in the period of report. In X Reports you are able on one's own select the period of this report.
 
-### What's X Reports include?
+### What X Report includes?
 
 * Overall turnover;
 * Methods of payment and the final numbers of payments;

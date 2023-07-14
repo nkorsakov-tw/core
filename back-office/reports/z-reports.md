@@ -1,10 +1,10 @@
 # Z Reports
 
-### What's the Z Reports?
+### What's the Z Report?
 
 It's an overall total report for one day that is issued at the end of a business day. Waiters send this type of report to managers or owners for review. **Z Reports** serve as an opportunity for managers and owners to analyze the current turnover of the restaurant.
 
-### What's Z Reports include?&#x20;
+### What Z Report includes?&#x20;
 
 * Overall turnover;
 * Methods of payment and the final numbers of payments;
