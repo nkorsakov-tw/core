@@ -59,6 +59,7 @@
 
 ## POS
 
+* [POS Intro](pos/pos-intro.md)
 * [Direct sales mode](pos/direct-sales-mode.md)
 * [Table Plan mode](pos/table-plan-mode.md)
 

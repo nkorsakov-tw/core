@@ -1,15 +1,25 @@
 # Quick Start (Food & Drinks mode)
 
-**Let's consider how to start working in** [**Table Plan mode**](../pos/table-plan-mode.md)
+**Let's consider how to start working in** [**Table Plan**](../pos/table-plan-mode.md) **and** [**Direct Sales**](../pos/direct-sales-mode.md) **modes**
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
 
 * Choose **'Food & Drinks'**;
 
-<figure><img src="../.gitbook/assets/2023-07-07_22-07-19.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-07-07_22-07-19.jpg" alt=""><figcaption></figcaption></figure>
 
-* Choose that you use tables, create a table space 'Terrace' and specify the number of tables;
+
+
+{% tabs %}
+{% tab title="Table Plan" %}
+If you have tables, select to work with them, create a space, and specify the number of tables.
+{% endtab %}
+
+{% tab title="Direct sales" %}
+If you don't work with tables, select that you're not and proceed.
+{% endtab %}
+{% endtabs %}
 
 <div>
 
@@ -18,6 +28,10 @@
  
 
 <figure><img src="../.gitbook/assets/terrace.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/retailer-mode-tables.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,16 +52,24 @@
 If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/null-printer (1).jpg" alt="" width="563"><figcaption><p>Null printer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/null-printer (1).jpg" alt=""><figcaption><p>Null printer</p></figcaption></figure>
 
-6. Add a tablet in **'Table Overview'** mode.
+5. Add a tablet
 
-<figure><img src="../.gitbook/assets/tablet.jpg" alt="" width="563"><figcaption><p>Table Overview mode</p></figcaption></figure>
+{% tabs %}
+{% tab title="Table Plan" %}
+Add a tablet in **'Table Plan'** mode
+{% endtab %}
 
-7. Install **'unTill Runner'** on your tablet.
-8. Run and scan QR Code on your tablet to connect.
-9. Simulate first order on your tablet.&#x20;
+{% tab title="Direct Sales" %}
+Add a tablet in **'Direct Sales'** mode
+{% endtab %}
+{% endtabs %}
+
+6. Install **'unTill Runner'** on your tablet.
+7. Run and scan QR Code on your tablet to connect.
+8. Now you can make your first order on the tablet!
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-_Once you have initiated orders in Table Plan mode, you have the option to add discounts to your account. For detailed instructions on how to add discounts, please refer to the documentation provided_ [_here_](../back-office/general/discounts/set-up-discounts.md)_._
+You can learn more about the [Back Office](../back-office/back-office-intro.md), where you can create articles, and the [POS](../pos/pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).
