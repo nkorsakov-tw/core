@@ -10,7 +10,7 @@ Here are a few steps to help you set up your **'Space'**:
 
 * If you are using a **'Special price'** for your particular space, it needs to be mentioned
 
-<figure><img src="../../.gitbook/assets/space.jpg" alt="" width="563"><figcaption><p>Example of creating new space with special price</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/space.jpg" alt=""><figcaption><p>Example of creating new space with special price</p></figcaption></figure>
 
 4. Click on the space that just appeared.
 5. Now you can modify some settings and conditions of space:
