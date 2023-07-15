@@ -50,8 +50,4 @@ If you don't have a printer yet, select **'Null printer'** feature to simulate t
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-If you're a retailer, refer to [this manual](broken-reference) for setting up your account.
-{% endhint %}
-
-_Once you have initiated orders in Table Overview mode, you have the option to add discounts to your account. For detailed instructions on how to add discounts, please refer to the documentation provided_ [_here_](../back-office/general/discounts/set-up-discounts.md)_._
+_Once you have initiated orders in Table Plan mode, you have the option to add discounts to your account. For detailed instructions on how to add discounts, please refer to the documentation provided_ [_here_](../back-office/general/discounts/set-up-discounts.md)_._

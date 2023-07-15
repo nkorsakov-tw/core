@@ -40,3 +40,5 @@ If you don't have a printer yet, select **'Null printer'** feature to simulate t
 8. Run and scan QR Code on your tablet to connect.
 9. Simulate first order on your tablet.&#x20;
 
+<figure><img src="../.gitbook/assets/order-on-tablet (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+

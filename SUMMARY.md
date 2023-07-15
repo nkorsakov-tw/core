@@ -7,7 +7,7 @@
 ## Getting Started
 
 * [Quick Start (Food & Drinks mode)](getting-started/quick-start-food-and-drinks-mode.md)
-* [Quick Start (Retail mode)](getting-started/quick-start-retail-mode.md)
+* [Quick Start (Retail mode)](getting-started/quick-start-retailer-mode.md)
 
 ## Back Office
 
