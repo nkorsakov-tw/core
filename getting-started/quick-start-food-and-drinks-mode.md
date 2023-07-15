@@ -3,7 +3,7 @@
 **Let's consider how to start working in** [**Table Plan mode**](../pos/table-plan-mode.md)
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
-2. [Sign Up](broken-reference).
+2. Sign Up.
 
 * Choose **'Food & Drinks'**;
 
@@ -29,7 +29,7 @@
 * Add new **'Course'** (Main)
 * Add new **'Article'** (Non-Alcoholic Mojito)
 
-<figure><img src="../.gitbook/assets/sequence.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sequence (1).jpg" alt=""><figcaption></figcaption></figure>
 
 3. Navigate to the **'General' > 'Equipment'.**
 4. Add a printer.
@@ -38,7 +38,7 @@
 If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/null-printer.jpg" alt="" width="563"><figcaption><p>Null printer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/null-printer (1).jpg" alt="" width="563"><figcaption><p>Null printer</p></figcaption></figure>
 
 6. Add a tablet in **'Table Overview'** mode.
 
