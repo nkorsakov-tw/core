@@ -10,7 +10,7 @@ _The essential terms in this glossary provide you with an opportunity to enhance
 
 **Article messages**&#x20;
 
-Standardized messages sent by waiters to the kitchen staff express customer preferences regarding the preparation process and ingredients. These messages can be configured in the 'Article messages' section
+Preconfigured messages sent by waiters to the kitchen staff express customer preferences regarding the preparation process and ingredients. These messages can be configured in the 'Article messages' section
 
 ## B
 
@@ -36,9 +36,9 @@ It's the widest segment in 'Product' list, so you need to fill in this segment b
 
 This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can use other currencies as well
 
-**Changing course**&#x20;
+**Change course**&#x20;
 
-This feature enables selecting a different course for a specific item
+This is a name of button in the POS, it enables selecting a different course for a specific item
 
 ## D
 
