@@ -12,18 +12,6 @@ _The essential terms in this glossary provide you with an opportunity to enhance
 
 Standardized messages sent by waiters to the kitchen staff express customer preferences regarding the preparation process and ingredients. These messages can be configured in the 'Article messages' section
 
-**Add new location**&#x20;
-
-User is able to add new locations in the same account. It would be new area where you can make a spaces and create new articles. Locations are not connected between each other but you can switch from one location to another simply on a display
-
-**Add free add-on**&#x20;
-
-This feature allows you to offer your client to have an additional ingredient for free
-
-**Add paid add-on**&#x20;
-
-This feature allows you to offer your client to have an addtional paid ingredient
-
 ## B
 
 **Back Office**&#x20;
@@ -32,7 +20,7 @@ This refers to a operations that involve the management of articles, prices, equ
 
 ## C
 
-**Courses**&#x20;
+**Courses**
 
 This refers to sequence of serving a dishes. Articles are assigned to a specific course which mean that it should be served in a certain time (e.g. Starters > Main dish > Dessert)
 
@@ -48,7 +36,7 @@ It's the widest segment in 'Product' list, so you need to fill in this segment b
 
 This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can use other currencies as well
 
-**Change course**&#x20;
+**Changing course**&#x20;
 
 This feature enables selecting a different course for a specific item
 
@@ -73,6 +61,10 @@ It's less wide than 'Categories' or 'Groups' and incorporates more precise infor
 This refers to a technical base of your work including printers, terminals and tablets which allow you to use unTill Air. You can add and customize this equipment in the settings
 
 ## F
+
+**Free add-on**&#x20;
+
+This feature allows you to offer your client to have an additional ingredient for free
 
 **Fire next course**&#x20;
 
@@ -108,11 +100,11 @@ _No items_
 
 ## L
 
-_No items_
+**Location**&#x20;
+
+This refers to a restaurant you manage. In unTill Air owner is able to add new locations in the same account. It would be new area where you can make a spaces and create new articles. Locations are not connected between each other but you can switch from one location to another simply on a display
 
 ## M
-
-_No items_
 
 **Modifiers**&#x20;
 
@@ -150,6 +142,10 @@ This refers to amount which client must to pay according his restaurant bill
 
 This refers to a working area for the stuff where they can create a customer orders, accompany them and accept the payment
 
+**Paid add-on**&#x20;
+
+This feature allows you to offer your client to have an addtional paid ingredient
+
 ## Q
 
 _No items_
@@ -184,7 +180,7 @@ This term means the group of devices which are connected to unTill Air account a
 
 This applies to templates that are used to issue receipts and reports. In addition, in the 'Tickets' section, you are allowed to slightly change the final appearance of the ticket. You can customize the image or text at the top or bottom of the receipt
 
-**Transfer table**&#x20;
+**Transfer of tables**&#x20;
 
 This feature assumes that waiter can accomplish request of customer to change a table of order. This action may be done in the POS
 
