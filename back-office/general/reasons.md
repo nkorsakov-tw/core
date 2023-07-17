@@ -19,5 +19,5 @@ To create 'Reasons', please follow these steps:
 4. Click **'Continue'**.
 
 {% hint style="info" %}
-Once you have created reasons for performing discounts and voids, you can now utilize them in the POS. To access a manual with detailed instructions on using these reasons, please [refer to the provided page](../../pos/reasons/).
+Once you have created reasons for performing discounts and voids, you can now utilize them in the POS. To access a manual with detailed instructions on using these reasons, please [refer to the provided page](../../pos/reasons.md).
 {% endhint %}
