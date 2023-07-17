@@ -27,5 +27,5 @@ To create a **'Combi deal'**, please follow these steps:
 
 
 {% hint style="info" %}
-Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](../../../pos/combi-deal/use-combi-deal-in-the-pos.md).
+Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](../../../pos/combi-deal/use-a-combi-deal-in-the-pos.md).
 {% endhint %}
