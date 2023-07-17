@@ -8,9 +8,9 @@ Welcome to this manual, designed to provide you understanding of the features an
 
 Inside these pages you will find clear explanations, step-by-step instructions and practical examples that will equip you with the knowledge and skills to maximize your productivity and make the most of unTill Air.
 
-To get started, we recommend reading our ['Quick Start'](getting-started/quick-start-food-and-drinks-mode.md) manuals, that provide a concise overview of the essential steps. For a more in-depth understanding, you can explore our comprehensive ['Getting Started'](broken-reference) section, offering detailed guides to help you fully understand the capabilities of unTill Air.
+To get started, we recommend reading our ['Quick Start'](getting-started/quick-start-food-and-drinks-mode.md) manuals, that provide a concise overview of the essential steps. For a more in-depth understanding, you can explore our comprehensive manuals in the main sections, offering detailed guides to help you fully understand the capabilities of unTill Air.
 
-In addition, we have dedicated manuals that focus on specific topics, conveniently organized in sections such as ['General'](broken-reference) and ['Space'](broken-reference). These manuals focus on specific aspects of the program, helping you to customize and regulate unTill Air according to your needs and preferences.
+We have dedicated manuals that focus on specific topics, conveniently organized in sections such as [Back Office ](broken-reference)and [POS](broken-reference). These manuals help you to customize and regulate unTill Air according to your needs and preferences.
 
 With this comprehensive manual, you have everything you need to fully explore and utilize unTill Air.
 
