@@ -16,29 +16,29 @@ Preconfigured messages sent by waiters to the kitchen staff express customer pre
 
 **Back Office**&#x20;
 
-This refers to a operations that involve the management of articles, prices, equipment etc. In the Back Office you can find also all the information about the restaurant that can help you run your business
+The Back Office is designed for internal operations, such as creating articles, setting prices, and managing various aspects of the restaurant. Additionally, it provides comprehensive information about the restaurant, contributing to more efficient business operations
 
 ## C
 
 **Courses**
 
-This refers to sequence of serving a dishes. Articles are assigned to a specific course which mean that it should be served in a certain time (e.g. Starters > Main dish > Dessert)
+Courses are associated with a sequence for serving dishes. Each article is assigned to a specific course, indicating the designated time for its service (e.g., Starters > Main dish > Dessert)
 
 **Combi deal**&#x20;
 
-This offer allow the customer to order an additional dish or drink to the initial item by special price
+This offer allows the customer to order an additional dish or drink to the initial item by special price
 
 **Categories**&#x20;
 
-It's the widest segment in 'Product' list, so you need to fill in this segment before proceeding with others. As an example of 'Categories', (e.g. 'Food', 'Drinks')
+This is the widest segment in the 'Products' list, so you need to fill in this segment before proceeding with others (e.g., 'Food', 'Drinks')
 
 **Currency**&#x20;
 
-This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can use other currencies as well
+This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can add other currencies as well
 
 **Change course**&#x20;
 
-This is a name of button in the POS, it enables selecting a different course for a specific item
+This is the name of the button in the POS, it enables selecting a different course for a specific item
 
 ## D
 
@@ -48,11 +48,11 @@ These are customer groups that are entitled to receive a specific discount on th
 
 **Discount reasons**&#x20;
 
-Besides a name of discount, you are able also to set up the reasons to give a discount for your customer (e.g. Birthday of the client)
+In addition to the name of the discount, you can also specify the reasons for granting the discount to your customer (e.g. Birthday of the client)
 
 **Departments**&#x20;
 
-It's less wide than 'Categories' or 'Groups' and incorporates more precise information about articles (e.g. Seafood)
+This is less wide than 'Categories' or 'Groups' and incorporates more precise information about articles (e.g. Seafood)
 
 ## E
 
@@ -64,23 +64,21 @@ This refers to a technical base of your work including printers, terminals and t
 
 **Free add-on**&#x20;
 
-This feature allows you to offer your client to have an additional ingredient for free
+This feature allows you to offer your client an additional ingredient for free
 
 **Fire next course**&#x20;
 
-It connects with course, certain sequence of serving the dishes, and allow to miss one course if customer wants this (e.g. customer prefers to do without starters and he straight away order to serve main dish)
+This button, associated with a course, allows customers to customize the sequence of dish servings. For instance, if a customer prefers to skip starters and directly order the main dish, waiters can use this button
 
 **Financial Reports**&#x20;
 
-This type of reports provides detailed information about turnover by product groups, payments by various methods (cash and by card), about VAT, voids and discounts in your POS for the selected period.
+This type of report provides detailed information about turnover by product groups, payments by various methods (cash and card), VAT, voids and discounts in your POS for the selected period
 
 ## G
 
-_No items_
-
 **Groups**&#x20;
 
-This refers to subset of 'Categories' (e.g. Starter)
+This is a subset of the 'Categories' (e.g. Starter)
 
 ## H
 
@@ -102,27 +100,27 @@ _No items_
 
 **Location**&#x20;
 
-This refers to a restaurant you manage. In unTill Air owner is able to add new locations in the same account. It would be new area where you can make a spaces and create new articles. Locations are not connected between each other but you can switch from one location to another simply on a display
+This is a restaurant that you manage. In unTill Air, the owner has the ability to add new locations within the same account. Each location serves as a separate area where you can create spaces and add new articles. These locations are not interconnected, but you can easily switch between them using the display
 
 ## M
 
 **Modifiers**&#x20;
 
-This refers to the changeable ingredients that are added to the dish at the request of the customer. Modifiers can be free and paid
+Modifiers are changeable ingredients that can be added to a dish according to the customer's request. Modifiers can be either free or paid
 
 **Menus**&#x20;
 
-This refers to a group of dishes from the same department that are offered to the client together, and this group of items is united by one specific feature
+This is a group of dishes from the same department that are offered to the client together, and this group of items is united by one specific feature
 
 ## N
 
 **Null printer**&#x20;
 
-It's not a real printer and this feature allow you to test the working process without printing real receipts
+This is not a real printer, and this feature allows you to test the working process without printing actual receipts
 
 **Next course**&#x20;
 
-This allows to pass the next course if it's desired by a customer, and in this case waiter can implement 'Next course' button
+This is the name of the button that allows a customer to skip the next course if desired, and in such cases, the waiter can utilize the 'Next course' button
 
 ## O
 
@@ -132,15 +130,15 @@ _No items_
 
 **Periods**&#x20;
 
-This refer to a range of time while specific discount are available to implement in final bills
+This is the range of time during which specific discounts are available to be applied to the final bills
 
 **Payment**&#x20;
 
-This refers to amount which client must to pay according his restaurant bill
+This refers to the process of paying the amount according to the client's restaurant bill
 
 **POS**&#x20;
 
-This refers to a working area for the stuff where they can create a customer orders, accompany them and accept the payment
+This is a service where POS users can create customer orders, assist throughout the process and accept payments
 
 **Paid add-on**&#x20;
 
@@ -154,35 +152,35 @@ _No items_
 
 **Recipe**&#x20;
 
-This refers to cheque which is issued by the printer which was connected to unTill Air
+This refers to a cheque that is issued by the printer connected to unTill Air
 
 **Repeat**&#x20;
 
-This command in the POS allow to make double one selected item without finding it in a list of products
+This command in the POS allows you to duplicate a selected item without having to search for it in a list of products
 
 ## S
 
 **Space**&#x20;
 
-This refers to an area where you place tables and where the staff receives customers. You can customize your space as you like for more precise model of your dining space
+This refers to the area where tables are placed and where the staff receives customers. You have the flexibility to customize this space according to your preferences, allowing for a more precise representation of your dining area
 
 **Special price**&#x20;
 
-It means that manager is able to set a specific price for product in particular space. It can be the same articles but in different spaces, so price will be different regarding to space
+It means that the manager is able to set a specific price for a product in a particular space. It can be the same articles but in different spaces, so the price will vary depending on the space
 
 **Screens**&#x20;
 
-This term means the group of devices which are connected to unTill Air account and can manage orders and observe the process
+This term refers to a group of devices that are connected to the unTill Air account and can manage orders and monitor the process
 
 ## T
 
 **Tickets**&#x20;
 
-This applies to templates that are used to issue receipts and reports. In addition, in the 'Tickets' section, you are allowed to slightly change the final appearance of the ticket. You can customize the image or text at the top or bottom of the receipt
+This term applies to templates used for generating receipts and reports. Additionally, in the 'Tickets' section, you have the ability to make minor adjustments to the final appearance of the ticket. You can customize the image or text displayed at the top or bottom of the receipt
 
 **Transfer of tables**&#x20;
 
-This feature assumes that waiter can accomplish request of customer to change a table of order. This action may be done in the POS
+This is the name of the button that allows the waiter to fulfill a customer's request to change the table for an order. This action can be performed within the POS
 
 **Table colour legend**&#x20;
 
@@ -190,23 +188,23 @@ This refers to the table status, which can be influenced by factors such as cust
 
 ## U
 
-**User**&#x20;
+**User** (POS)
 
-This refers to the staff which focus on a serving of the customers in tables area using the app of the POS like waiter. Users take and complete orders on tablet which was connected with unTill Air in Back Office.
+This refers to the staff members who focus on serving customers in the table area using the POS app, similar to waiters. Users take and complete orders on tablets connected with unTill Air in the Back Office
 
 ## V
 
 **VAT levels**&#x20;
 
-This refers to setting up the VAT for different groups of products. In the settings you can select expected level of VAT or adjust another percent of VAT
+This refers to the process of setting up VAT for different groups of products. In the settings, you can select the expected level of VAT or adjust it to another percentage
 
 **Void**&#x20;
 
-This refers to the exclusion of a product or dish from the order at the request of the customer. To perform this operation on the tablet in POS, the user must have the access to these functions. You can configure access in the back office settings
+This refers to the removal of a product or dish from an order upon customer request. To perform this operation on the tablet in the POS, the user must have access to these functions. Access can be configured in the Back Office settings
 
 **Void reasons**&#x20;
 
-This refers to an explanation why item was deleted from the order. Waiter should indicate a reason why order will be cutted
+This refers to an explanation as to why an item was deleted from the order. The waiter is required to indicate a reason for cutting the order
 
 ## W
 
