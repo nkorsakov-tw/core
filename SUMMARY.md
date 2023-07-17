@@ -65,7 +65,8 @@
 * [Table Plan mode](pos/table-plan-mode.md)
 * [Combi deal](pos/combi-deal/README.md)
   * [Use a Combi deal in the POS](pos/combi-deal/use-a-combi-deal-in-the-pos.md)
-* [Reasons](pos/reasons.md)
+* [Reasons](pos/reasons/README.md)
+  * [Use a Reasons in the POS](pos/reasons/use-a-reasons-in-the-pos.md)
 
 ***
 
