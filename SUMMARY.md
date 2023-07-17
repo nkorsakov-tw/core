@@ -40,7 +40,7 @@
     * [Create modifiers and assign them to the 'Article'](back-office/products/modifiers/create-modifiers-and-assign-them-to-the-article.md)
     * [Use modifiers in the POS](back-office/products/modifiers/use-modifiers-in-the-pos.md)
   * [Menus](back-office/products/menus.md)
-  * [Combi deal](back-office/products/combi-deal/README.md)
+  * [Combi deal](back-office/products/combi-deal.md)
     * [Create a Combi deal](back-office/products/combi-deal/create-a-combi-deal.md)
   * [Courses](back-office/products/courses.md)
   * [Categories](back-office/products/categories.md)
