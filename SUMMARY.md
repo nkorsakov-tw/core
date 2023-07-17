@@ -63,6 +63,8 @@
 * [POS Intro](pos/pos-intro.md)
 * [Direct sales mode](pos/direct-sales-mode.md)
 * [Table Plan mode](pos/table-plan-mode.md)
+* [Combi deal](pos/combi-deal/README.md)
+  * [Use Combi deal in the POS](pos/combi-deal/use-combi-deal-in-the-pos.md)
 
 ***
 
