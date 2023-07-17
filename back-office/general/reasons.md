@@ -1,5 +1,9 @@
 # Reasons
 
+
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Who can use this feature?</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Owners</mark> in the Back Office</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td></tr></tbody></table>
+
 ### What are 'Reasons'?
 
 'Reasons' in unTill Air are brief reports that provide information about voids and discounts. POS users can utilize 'Reasons' to notify the manager about the reasons behind void or performed discounts.&#x20;
