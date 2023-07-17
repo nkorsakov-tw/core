@@ -38,7 +38,7 @@
   * [Departments](back-office/products/departments.md)
   * [Modifiers](back-office/products/modifiers/README.md)
     * [Create modifiers and assign them to the 'Article'](back-office/products/modifiers/create-modifiers-and-assign-them-to-the-article.md)
-    * [Use modifiers in POS](back-office/products/modifiers/use-modifiers-in-pos.md)
+    * [Use modifiers in the POS](back-office/products/modifiers/use-modifiers-in-the-pos.md)
   * [Menus](back-office/products/menus.md)
   * [Combi deal](back-office/products/combi-deal.md)
   * [Courses](back-office/products/courses.md)

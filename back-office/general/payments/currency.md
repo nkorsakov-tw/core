@@ -1,6 +1,6 @@
 # Currency
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners &#x26; Managers</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
 
 In unTill Air you feel free to add a currencies in Back Office and then implement them while accepting payments in POS. The default currency in unTill Air is Euro(€), but you are able to customize that and use other currencies which are needed in your business.&#x20;
 

@@ -4,7 +4,7 @@ description: Brief overview how to apply a discount in the POS
 
 # Apply a discount in the POS
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:orange;">Staff</mark> in the POS</li></ul></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:orange;">POS users</mark></li></ul></td><td></td></tr></tbody></table>
 
 ### Apply a discount
 
