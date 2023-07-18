@@ -1,2 +1,0 @@
-# Colours of the Course
-
