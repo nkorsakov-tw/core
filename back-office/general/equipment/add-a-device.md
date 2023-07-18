@@ -47,7 +47,7 @@ To add a tablet to the back office, you first need to install the **'unTil Runne
 This mode is intended for selling items without tables and designated spaces. It consists of a point of sale that directly sells products to customers. In this mode, you won't see spaces where orders are generated; instead, it will display a simple list of products and generate a bill for the client.
 {% endtab %}
 
-{% tab title="Table Overview" %}
+{% tab title="Table Plan" %}
 This mode is intended for businesses with tables and dining spaces where staff interact with clients. In this mode, you will have a specific space in the POS, which can be [set up in the Back Office](../../spaces/set-up-the-space.md). You will have access to lists of orders from different tables, allowing you to efficiently manage them.&#x20;
 {% endtab %}
 {% endtabs %}
