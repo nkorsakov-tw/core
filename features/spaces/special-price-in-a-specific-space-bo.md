@@ -1,4 +1,4 @@
-# Special price in a specific Space
+# Special price in a specific Space (BO)
 
 ### Characteristics of the 'Special price'
 
@@ -14,7 +14,7 @@ To set up the **'Special price'**, please follow these instructions:
 2. Create a new space or click on the settings of an existing space for editing.
 3. To indicate that you will be using the **'Special price'** feature specifically for this space, select the checkbox provided.
 
-<figure><img src="../.gitbook/assets/space (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/space (1).jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Continue'**.
 
@@ -26,7 +26,7 @@ To set up special price, please follow these steps:
 2. Create new or modify an existing article.
 3. Click **'Set prices'**.
 
-<figure><img src="../.gitbook/assets/special-price.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/special-price.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Set a new price for the specific space.
 5. Click **'Save'** button.

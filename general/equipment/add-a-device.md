@@ -48,7 +48,7 @@ This mode is intended for selling items without tables and designated spaces. It
 {% endtab %}
 
 {% tab title="Table Plan" %}
-This mode is intended for businesses with tables and dining spaces where staff interact with clients. In this mode, you will have a specific space in the POS, which can be [set up in the Back Office](../../spaces/set-up-the-space.md). You will have access to lists of orders from different tables, allowing you to efficiently manage them.&#x20;
+This mode is intended for businesses with tables and dining spaces where staff interact with clients. In this mode, you will have a specific space in the POS, which can be [set up in the Back Office](../../features/spaces/manage-spaces-bo.md). You will have access to lists of orders from different tables, allowing you to efficiently manage them.&#x20;
 {% endtab %}
 {% endtabs %}
 
