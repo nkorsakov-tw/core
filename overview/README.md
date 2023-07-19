@@ -4,7 +4,7 @@ unTill Air is a powerful software solution specifically designed to optimize res
 
 ### Back Office and POS services
 
-unTill Air is divided into two main parts: the Back Office and the POS (Point of Sale), which both help you to effectively manage your restaurant business.&#x20;
+unTill Air is divided into two main parts: the Back Office (BO) and the Point of Sale (POS), which both help you to effectively manage your restaurant business.&#x20;
 
 The Back Office is dedicated to internal operations such as creating articles, setting up prices and managing various aspects of the restaurant. In the Back Office you can make changes and track the operations of your restaurant. It's primarily designed for owners and managers who utilize it for comprehensive conducting and informed decision-making.
 
