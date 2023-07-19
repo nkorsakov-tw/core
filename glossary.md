@@ -184,7 +184,7 @@ This is the name of the button that allows the waiter to fulfill a customer's re
 
 **Table colour legend (POS)**&#x20;
 
-This refers to the table status, which can be influenced by factors such as customer occupancy time or the current course
+This refers to the table status, which can be influenced by factors such as customer occupancy time or the current 'Course'
 
 ## U
 
