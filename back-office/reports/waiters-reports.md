@@ -4,9 +4,7 @@
 
 Waiter reports provide the **Owner** with information about the total number of orders by a specific waiter, as well as voids and discounts associated with those orders. These reports enable analysis of each employee's contribution to the overall business.
 
-### 'Waiter' report
-
-To get a Waiter report, please follow these steps:
+To get a **'Waiters Reports'**, please follow these steps:
 
 1. Navigate to the **'Reports' > 'Waiters'**.
 2. Select the waiter.
@@ -22,8 +20,7 @@ You will see various sections containing essential information about the waiter,
 Do not forget: you can customize the period of the provided information.
 {% endhint %}
 
-### 'Bills per waiter' report
-
 1. Navigate to the **'Reports' > 'Bills per waiter'**.
+2. Select the period of the report.
 
 You'll see sections displaying the names of waiters, the amounts of total sales and payments, as well as the methods of payment that were used.
