@@ -4,7 +4,7 @@
 
 You have the capability to customize various characteristics of the tickets, including modifying their width, incorporating images, displaying or hiding VAT and entering text. This helps you to personalize the tickets according to your preferences and specific requirements.&#x20;
 
-<figure><img src="../../../.gitbook/assets/tickets.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tickets.jpg" alt=""><figcaption></figcaption></figure>
 
 1. Navigate to the **'Tickets'**.
 2. Click **'Add new tickets'**.

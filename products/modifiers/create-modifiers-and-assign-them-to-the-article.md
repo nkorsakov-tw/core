@@ -17,7 +17,7 @@ To create a modifiers, please follow these steps:
 5. Assign a modifier to a specific article or several articles.
 6. Choose between "optional" and "mandatory" display of the modifier in the POS during taking the order.
 
-<figure><img src="../../../.gitbook/assets/modifier2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/modifier2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Click **'Save'** button
 

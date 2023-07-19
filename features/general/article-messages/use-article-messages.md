@@ -1,2 +1,0 @@
-# Use Article messages (POS)
-

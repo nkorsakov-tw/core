@@ -17,12 +17,12 @@ This type of course allows the POS user to fire a specific course if requested b
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../../.gitbook/assets/Captura de pantalla (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de pantalla (8).png" alt=""><figcaption></figcaption></figure>
 
 5. Optional: Pick the colour for your course.
 
-_To understand how this functionality works in the POS, please_ [_refer to the provided manual_](../../../products/courses/colours-of-the-courses.md) _for detailed instructions and visual representations._
+_To understand how this functionality works in the POS, please_ [_refer to the provided manual_](colours-of-the-courses.md) _for detailed instructions and visual representations._
 
-<figure><img src="../../../.gitbook/assets/Captura de pantalla (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de pantalla (9).png" alt=""><figcaption></figcaption></figure>
 
 6. Click **'Continue'**.

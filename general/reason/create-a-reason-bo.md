@@ -10,10 +10,10 @@ To create **'Reasons'**, please follow these steps:
 2. Click **'Add new reason'**.
 3. Provide a name for this reason and select the reason type.
 
-<figure><img src="../../../.gitbook/assets/reason1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reason1.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Continue'**.
 
 {% hint style="info" %}
-Once you have created reasons for performing discounts and voids, you can now utilize them in the POS. To access a manual with detailed instructions on using these reasons, please [refer to the provided page](use-reasons.md).
+Once you have created reasons for performing discounts and voids, you can now utilize them in the POS. To access a manual with detailed instructions on using these reasons, please [refer to the provided page](use-reasons-pos.md).
 {% endhint %}

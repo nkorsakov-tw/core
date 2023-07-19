@@ -8,7 +8,7 @@ Here are a few steps to help you set up your **'Space'**:
 2. Click **'Add new space'**
 3. Give a name to your new space and specify the number of its tables.
 
-* [If you are using a **'Special price'**](special-price-bo.md) for your particular space, it needs to be mentioned
+* [If you are using a **'Special price'**](special-price-in-a-specific-space-bo.md) for your particular space, it needs to be mentioned
 
 <figure><img src="../../.gitbook/assets/space.jpg" alt=""><figcaption><p>Example of creating new space with a special price</p></figcaption></figure>
 

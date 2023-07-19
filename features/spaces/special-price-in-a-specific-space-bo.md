@@ -1,4 +1,4 @@
-# Special price in a specific Space (BO)
+# Special price (BO)
 
 ### Characteristics of the 'Special price'
 

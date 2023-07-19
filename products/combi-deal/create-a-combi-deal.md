@@ -14,7 +14,7 @@ To create a **'Combi deal'**, please follow these steps:
 * Set price for this;
 * Add a new component to your **'Combi deal'** by following all the previous steps.
 
-<figure><img src="../../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
 
 6. After creating all the desired components of the 'Combi deal', make sure to click the **'Save'** button.
 
@@ -29,5 +29,5 @@ To create a **'Combi deal'**, please follow these steps:
 
 
 {% hint style="info" %}
-Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](use-combi-deals.md).
+Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](use-a-combi-deal-in-the-pos.md).
 {% endhint %}
