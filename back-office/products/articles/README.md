@@ -1,6 +1,6 @@
 # Articles
 
-Articles are the fundamental building blocks in setting up your products. They represent the names of dishes and beverages listed in the products section. These articles are assigned to different departments and groups, forming the foundation for completing orders.&#x20;
+Articles are the fundamental components in the setting up your products. They represent the names of dishes and beverages listed in the products section. These articles are assigned to different departments and groups, forming the foundation for completing orders.&#x20;
 
 When a customer places an order, the POS user can easily access the list of articles and efficiently manage the order process using this list.&#x20;
 
