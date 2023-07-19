@@ -1,6 +1,6 @@
 # Quick Start (Food & Drinks mode)
 
-**Let's consider how to start working in** [**Table Plan**](../pos/table-plan-mode.md) **and** [**Direct Sales**](../pos/direct-sales-mode.md) **modes**
+**Let's consider how to start working in** [**Table Plan**](../table-plan-mode.md) **and** [**Direct Sales**](../direct-sales-mode.md) **modes**
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
@@ -72,4 +72,4 @@ Add a tablet in **'Direct Sales'** mode
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-You can learn more about the [Back Office](../back-office/back-office-intro.md), where you can create articles, and the [POS](../pos/pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).
+You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).

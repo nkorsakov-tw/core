@@ -1,4 +1,4 @@
-# Reasons
+# Reason
 
 'Reasons' in unTill Air are brief reports that provide information about voids and discounts. POS users can utilize 'Reasons' to notify the manager about the reasons behind void or performed discounts.&#x20;
 

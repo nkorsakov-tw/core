@@ -5,7 +5,7 @@
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-You can implement a 'Combi deal' once you have already created and set it up in the Back Office. [Refer to this manual](../../back-office/products/combi-deal/create-a-combi-deal.md) to create and set up 'Combi deal'.
+You can implement a 'Combi deal' once you have already created and set it up in the Back Office. [Refer to this manual](create-a-combi-deal.md) to create and set up 'Combi deal'.
 {% endhint %}
 
 To start using the 'Combi deal' in the POS, please follow these steps:
