@@ -12,5 +12,5 @@ To get the report, please follow these instructions:
 <figure><img src="../.gitbook/assets/voids.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-About the 'Reasons' that are included in this report, you can find more information by [referring to the provided manual](../general/reason/create-reasons.md).
+About the 'Reasons' that are included in this report, you can find more information by [referring to the provided manual](../general/reason/create-a-reason-bo.md).
 {% endhint %}

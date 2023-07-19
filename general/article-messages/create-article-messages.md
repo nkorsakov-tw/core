@@ -1,14 +1,6 @@
-# Article messages
+# Create Article messages
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners</mark> in the Back Office</li><li><mark style="color:orange;">POS users</mark></li></ul></td><td></td></tr></tbody></table>
-
-### What are 'Article messages'?
-
-In the Back Office 'Article messages' are used to specify customer needs. These messages play an important role when taking an order, as waiters may receive requests from clients regarding the preparation and service of a dish, along with additional clarifications.
-
-These article messages serve as a means of communication between the staff in the dining space and the kitchen, ensuring that the customer's specific requirements are understood. Waiters can transfer detailed instructions or preferences from the client, such as dietary restrictions, cooking preferences etc. This helps to ensure that the dish is prepared and served exactly as desired, enhancing the overall dining experience for the customer.
-
-### Create the 'Article messages' step by step&#x20;
 
 Please, follow these steps to create the 'Article messages':
 
@@ -18,8 +10,11 @@ Please, follow these steps to create the 'Article messages':
 
 <figure><img src="../../.gitbook/assets/ice-message.jpg" alt=""><figcaption></figcaption></figure>
 
+4. You can create several '**Article messages'** (e.g. 'Ice - '\[no ice] ; 'Ice +'\[more ice])
+5. Click **'Continue'.**
+
 {% hint style="info" %}
-You can create several 'Article messages' (e.g. 'Ice - '\[no ice] ; 'Ice +'\[more ice])
+Now you are able to use 'Article messages' in the POS. To learn about how it implements in the POS, please [refer to the provided manual](use-article-messages-in-the-pos.md).
 {% endhint %}
 
 4. Switch to application for the POS on the tablet.
