@@ -4,9 +4,11 @@ In unTill Air, the 'Products' section follows a hierarchical structure where dif
 
 ***
 
-```mermaid  fullWidth="true"
+```mermaid  fullWidth="false"
+
 erDiagram
-    Article |{--|| Department  : "belongs to"
-    Department |{--|| Group  : "belongs to"
-    Group |{--|| Category  : "belongs to"
+    Category ||--|{ Group  : "has"
+    Group ||--|{ Department  : "has"
+    Department ||--|{ Article  : "has"
+
 ```
