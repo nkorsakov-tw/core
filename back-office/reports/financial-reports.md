@@ -2,7 +2,7 @@
 
 **'Financial Reports'** in unTill Air offer a comprehensive overview of the essential financial data related to your restaurant's business.&#x20;
 
-While other reports may focus on specific financial points, such as 'Sales Reports' or 'Payments Reports', 'Financial Reports' provide a broader and more detailed view of all financial elements. This enables the owner to track and analyze various aspects of the restaurant's finances in one centralized location.
+While other reports may focus on specific financial points, such as 'Sales Reports' or 'Payments Reports', 'Financial Reports' provide a broader and more detailed view of all financial elements. This enables the owner to track and analyze various aspects of the restaurant's finances in one centralized spot.
 
 To get the **'Financial Report'**, please follow these steps:
 
@@ -18,6 +18,6 @@ This kind of reports includes information about:
 * Voids;&#x20;
 * Discounts;
 
-In other words, it's a brief summary of all the other reports.
+_In other words, it's a brief summary of all the other reports._
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla (11).png" alt=""><figcaption></figcaption></figure>
