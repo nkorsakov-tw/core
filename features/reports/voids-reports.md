@@ -9,7 +9,7 @@ To get the report, please follow these instructions:
 1. Navigate to the **'Reports' > 'Voids'**.
 2. Select specific period to get the information about voids.
 
-<figure><img src="../.gitbook/assets/voids.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/voids.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 About the 'Reasons' that are included in this report, you can find more information by [referring to the provided manual](../general/reason/create-a-reason-bo.md).

@@ -14,7 +14,7 @@ To create a **'Combi deal'**, please follow these steps:
 * Set price for this;
 * Add a new component to your **'Combi deal'** by following all the previous steps.
 
-<figure><img src="../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
 
 6. After creating all the desired components of the 'Combi deal', make sure to click the **'Save'** button.
 

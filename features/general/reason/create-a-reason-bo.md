@@ -10,7 +10,7 @@ To create **'Reasons'**, please follow these steps:
 2. Click **'Add new reason'**.
 3. Provide a name for this reason and select the reason type.
 
-<figure><img src="../../.gitbook/assets/reason1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reason1.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Continue'**.
 

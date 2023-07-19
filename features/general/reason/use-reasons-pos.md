@@ -26,8 +26,8 @@ To start using 'Reasons' in the POS, please follow these steps:
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../.gitbook/assets/reason2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reason2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 4. After performing the action and indicating the reason, you can verify that the price of the order has been updated accordingly.
 
-<figure><img src="../../.gitbook/assets/reason3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reason3.jpg" alt="" width="563"><figcaption></figcaption></figure>

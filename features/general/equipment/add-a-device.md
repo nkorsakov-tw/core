@@ -66,10 +66,10 @@ This mode is intended for businesses with tables and dining spaces where staff i
 
 <div>
 
-<figure><img src="../../.gitbook/assets/adding-device.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adding-device.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/adding-device2.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adding-device2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>

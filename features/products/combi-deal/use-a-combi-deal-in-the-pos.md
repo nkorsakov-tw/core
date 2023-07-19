@@ -15,10 +15,10 @@ To start using the 'Combi deal' in the POS, please follow these steps:
 3. Among the articles in a department to which you have assigned the 'Combi deal', you will see the name of your new 'Combi deal'; click on it.
 4. As a POS user you can select one from each line of items within 'Combi deal' regarding to a customer's preference.
 
-<figure><img src="../../.gitbook/assets/combi2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/combi2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 4. When you are finishing fulfilling the order, you will see that these articles are placed in an order with the price you indicated in the 'Combi deal'.
 
-<figure><img src="../../.gitbook/assets/combi3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/combi3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Now you can proceed to finish the order.
