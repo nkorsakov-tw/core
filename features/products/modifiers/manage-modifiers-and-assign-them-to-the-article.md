@@ -1,4 +1,4 @@
-# Create modifiers and assign them to the 'Article'
+# Manage Modifiers and assign them to the 'Article'
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners</mark> in the Back Office</li></ul></td><td></td></tr></tbody></table>
 
@@ -17,7 +17,7 @@ To create a modifiers, please follow these steps:
 5. Assign a modifier to a specific article or several articles.
 6. Choose between "optional" and "mandatory" display of the modifier in the POS during taking the order.
 
-<figure><img src="../../.gitbook/assets/modifier2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/modifier2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Click **'Save'** button
 

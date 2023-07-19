@@ -1,9 +1,9 @@
-# Use Reasons (POS)
+# Use Reasons
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-If you have not yet created 'Reasons', please [consult the provided manual](create-a-reason-bo.md) for instructions on how to do so.
+If you have not yet created 'Reasons', please [consult the provided manual](manage-reasons.md) for instructions on how to do so.
 {% endhint %}
 
 To start using 'Reasons' in the POS, please follow these steps:
@@ -26,8 +26,8 @@ To start using 'Reasons' in the POS, please follow these steps:
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../.gitbook/assets/reason2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reason2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 4. After performing the action and indicating the reason, you can verify that the price of the order has been updated accordingly.
 
-<figure><img src="../../.gitbook/assets/reason3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reason3.jpg" alt="" width="563"><figcaption></figcaption></figure>

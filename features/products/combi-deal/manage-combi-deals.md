@@ -1,4 +1,4 @@
-# Create a Combi deal
+# Manage Combi deals
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
@@ -14,7 +14,7 @@ To create a **'Combi deal'**, please follow these steps:
 * Set price for this;
 * Add a new component to your **'Combi deal'** by following all the previous steps.
 
-<figure><img src="../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
 
 6. After creating all the desired components of the 'Combi deal', make sure to click the **'Save'** button.
 
@@ -29,5 +29,5 @@ To create a **'Combi deal'**, please follow these steps:
 
 
 {% hint style="info" %}
-Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](use-a-combi-deal-in-the-pos.md).
+Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](use-combi-deals.md).
 {% endhint %}
