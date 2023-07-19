@@ -15,7 +15,7 @@ To join unTill Payments, please reach out to your reseller if you work with unTi
 1. Navigate to the **'Settings' > 'unTill Payments'.**
 2. If you do not yet have access to the Payments Portal, please submit a request.
 
-<figure><img src="../../.gitbook/assets/payment.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/payment.jpg" alt=""><figcaption></figcaption></figure>
 
 3. Navigate to the **'General' > 'Payment methods' .**
 4. Click **'Add new payments method'**.
