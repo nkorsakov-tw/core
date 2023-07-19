@@ -4,7 +4,7 @@ In unTill Air, we provide default VAT levels such as Standard, Reduced, and Zero
 
 To set up VAT levels, please follow these steps:
 
-1. Navigate to the 'General' > 'VAT levels'.
+1. Navigate to the **'General' > 'VAT levels'**.
 2. You are able to:
 
 * Edit the already existing VAT levels if needed;&#x20;
