@@ -1,4 +1,4 @@
-# Deleate a tablet
+# Delete a tablet
 
 \
 As you proceed with the subscription process, you may have noticed that the plan you selected comes with a limitation on the number of screens or devices you can connect. This becomes particularly relevant if you need to delete an active tablet, especially when dealing with limited screens.
