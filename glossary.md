@@ -178,7 +178,7 @@ This term refers to a group of devices that are connected to the unTill Air acco
 
 This term applies to templates used for generating receipts and reports. Additionally, in the 'Tickets' section, you have the ability to make minor adjustments to the final appearance of the ticket. You can customize the image or text displayed at the top or bottom of the receipt
 
-**Transfer of tables (POS)**&#x20;
+**Transfer table (POS)**&#x20;
 
 This is the name of the button that allows the waiter to fulfill a customer's request to change the table for an order. This action can be performed within the POS
 
