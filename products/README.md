@@ -64,38 +64,45 @@ flowchart LR
 
 
 
+
+
 ```mermaid
 graph TD
-
-  %% Entities =================================
+  %% Entities =================================
 
   Categories:::S
   subgraph Categories
-    Category1:::C
-    Category2:::C
+    Category1[Food]:::C
+    Category2[Drinks]:::C
   end
 
   Groups:::S
   subgraph Groups
-    Group1.1:::G
-    Group2.1:::G
-    Group2.2:::G
+    Group1.1[Starters]:::G
+    Group1.2[Main Dishes]:::G
+    Group1.3[Deserts]:::G
+    Group2.1[Alcohol]:::G
+    Group2.2[Non-Alcohol]:::G
   end
 
   Departments:::S
   subgraph Departments
-    Department1.1.1:::D
-    Department1.1.2:::D
-    Department2.1.1:::D
-    Department2.1.2:::D
-    Department2.2.1:::D
-    Department2.2.2:::D
+    Department1.1.1[Cold Starters]:::D
+    Department1.1.2[Salads]:::D
+    Department2.1.1[Beers]:::D
+    Department2.1.2[Vines]:::D
+    Department2.1.3[Long Drinks]:::D
+    Department2.2.1[Cold Drinks]:::D
+    Department2.2.2[Coctails]:::D
+    Department2.2.3[Hot Drinks]:::D
   end
   
   Articles:::S
   subgraph Articles
-    Article1.1.1.1:::A
-    Article1.1.1.2:::A
+    Article1.1.1.1(Gaspacho):::A
+    Article1.1.1.2(Cold Salmon):::A
+    Article2.2.1.1(Sparkling Water):::A
+    Article2.2.1.2(Orange Juice):::A
   end  
 
 
@@ -103,16 +110,22 @@ graph TD
   
   Category1 --- Group1.1
     Group1.1 --- Department1.1.1
-        Department1.1.1 --- Article1.1.1.1
-        Department1.1.1 --- Article1.1.1.2
+       Department1.1.1 --- Article1.1.1.1
+       Department1.1.1 --- Article1.1.1.2
     Group1.1 --- Department1.1.2
+  Category1 --- Group1.2
+  Category1 --- Group1.3
 
   Category2 --- Group2.1
     Group2.1 --- Department2.1.1
     Group2.1 --- Department2.1.2
+    Group2.1 --- Department2.1.3
   Category2 --- Group2.2
     Group2.2 --- Department2.2.1
+        Department2.2.1 --- Article2.2.1.1
+        Department2.2.1 --- Article2.2.1.2
     Group2.2 --- Department2.2.2
+    Group2.2 --- Department2.2.3
 
   classDef S fill:#FFFFFF,stroke:#000000, stroke-width:1px, stroke-dasharray: 5 5
   classDef C fill:#FFFFB5
