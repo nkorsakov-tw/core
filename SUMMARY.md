@@ -72,7 +72,6 @@
   * [X Reports](reports/x-reports.md)
 * [POS Users](features/pos-users/README.md)
   * [Add a new POS User](features/pos-users/add-a-new-pos-user.md)
-  * [Deactivate a POS User](features/pos-users/deactivate-a-pos-user.md)
 * [Sales modes](features/sales-modes/README.md)
   * [Table Plan mode](features/sales-modes/table-plan-mode.md)
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
