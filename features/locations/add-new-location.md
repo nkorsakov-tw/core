@@ -1,5 +1,9 @@
 # Add new location
 
+
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
+
 In unTill Air, you have the flexibility to create new locations within your existing account without any additional steps required. This means that you can easily add new spaces, restaurant articles, and more. With this user-friendly feature, setting up new locations becomes a straightforward process, allowing you to efficiently manage and organize your restaurant operations across multiple places.
 
 To **add new location**, please follow these steps:
