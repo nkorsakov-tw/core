@@ -1,6 +1,6 @@
 # Manage Article messages
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners</mark> in the Back Office</li><li><mark style="color:orange;">POS users</mark></li></ul></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><ul><li><mark style="color:green;">Owners</mark> in the Back Office</li><li><mark style="color:orange;">POS users</mark></li></ul></td><td></td></tr></tbody></table>
 
 Please, follow these steps to create the 'Article messages':
 
