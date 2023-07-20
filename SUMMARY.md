@@ -57,7 +57,7 @@
   * [Courses](products/courses/README.md)
     * [Manage Courses](products/courses/create-a-course.md)
     * [Use Courses](products/courses/use-a-courses-in-the-pos.md)
-    * [Colours of the Courses](products/courses/colours-of-the-courses.md)
+    * [Courses colours](features/products/courses/courses-colours.md)
   * [Categories](products/categories.md)
   * [Groups](products/groups.md)
 * [Reports](reports/README.md)
