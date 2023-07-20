@@ -1,5 +1,9 @@
 # Special price (BO)
 
+
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
+
 ### Characteristics of the 'Special price'
 
 When creating a new space, you may come across a checkbox that allows you to set a special price for that specific space. This feature enables you to have different prices for the same goods in each individual space. This customization allows for flexibility in pricing based on the particular area or section within your establishment, catering to varying needs and preferences.

@@ -68,7 +68,8 @@ flowchart LR
 
 ```mermaid
 graph TD
-  %% Entities =================================
+
+  %% Entities =================================
 
   Categories:::S
   subgraph Categories
@@ -103,6 +104,8 @@ graph TD
     Article1.1.1.2(Cold Salmon):::A
     Article2.2.1.1(Sparkling Water):::A
     Article2.2.1.2(Orange Juice):::A
+    Article2.2.3.1(Tea):::A
+    Article2.2.3.2(Coffee):::A
   end  
 
 
@@ -126,10 +129,15 @@ graph TD
         Department2.2.1 --- Article2.2.1.2
     Group2.2 --- Department2.2.2
     Group2.2 --- Department2.2.3
+        Department2.2.3 --- Article2.2.3.1
+        Department2.2.3 --- Article2.2.3.2
 
   classDef S fill:#FFFFFF,stroke:#000000, stroke-width:1px, stroke-dasharray: 5 5
   classDef C fill:#FFFFB5
   classDef G fill:#C9E7B7
   classDef D fill:#B5FFFF
   classDef A fill:#F5FFFF
+
+
+
 ```

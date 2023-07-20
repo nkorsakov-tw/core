@@ -25,7 +25,7 @@
     * [Currency](general/payments/currency.md)
   * [VAT levels](general/vat-levels/README.md)
     * [Manage VAT levels (BO)](features/general/vat-levels/manage-vat-levels-bo.md)
-    * [Assign VAT level to a Group](features/general/vat-levels/assign-vat-level-to-a-group.md)
+    * [Assign VAT level to a Group](features/general/vat-levels/assign-vat-level-to-a-group-bo.md)
     * [Add secondary VAT (BO)](features/general/vat-levels/add-secondary-vat-bo.md)
   * [Equipment](general/equipment/README.md)
     * [Add a device](general/equipment/add-a-device.md)
