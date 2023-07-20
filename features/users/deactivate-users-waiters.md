@@ -1,6 +1,6 @@
-# Deactivate user
+# Deactivate users (waiters)
 
-To **deactivate user** in the Back Office, please follow these steps:
+To **deactivate users** in the Back Office, please follow these steps:
 
 1. Navigate to the **'Users'**.
 2. Hover over the line of the user you want to deactivate and click the 'delete' sign.
