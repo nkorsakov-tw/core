@@ -12,12 +12,12 @@ The POS focuses on providing a seamless ordering and transactional experience fo
 
 ### User roles&#x20;
 
-Users of unTill Air can be assigned to different roles, including owners and POS users (waiters). Owners have the ability to configure and customize the main settings, as well as access comprehensive information about the workflow in the restaurant, including reports on sales, discounts and employee performance. POS users primarily work with devices that enable them to efficiently manage and fulfill orders, make changes to orders and provide customer service.
+Users of unTill Air can be assigned to different roles, including Location Owners and POS users (waiters). Location Owners have the ability to configure and customize the main settings, as well as access comprehensive information about the workflow in the restaurant, including reports on sales, discounts and employee performance. POS users primarily work with devices that enable them to efficiently manage and fulfill orders, make changes to orders and provide customer service.
 
-| Roles    | Work with                                                                                            |
-| -------- | ---------------------------------------------------------------------------------------------------- |
-| Owner    | Back Office: configuring the items and functionalities and monitoring the entire restaurant workflow |
-| POS user | POS: fulfilling orders, providing customer service and managing table assignments                    |
+| Roles          | Work with                                                                                            |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| Location Owner | Back Office: configuring the items and functionalities and monitoring the entire restaurant workflow |
+| POS user       | POS: fulfilling orders, providing customer service and managing table assignments                    |
 
 ### unTill Payments
 
