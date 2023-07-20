@@ -13,7 +13,7 @@ erDiagram
 
 ```
 
-```mermaid
+```mermaid  fullWidth="false"
 flowchart LR
   Category:::G
   subgraph Category
@@ -60,4 +60,63 @@ flowchart LR
 
   classDef G fill:#FFFFFF,stroke:#000000, stroke-width:1px, stroke-dasharray: 5 5  
 
+```
+
+
+
+```mermaid
+graph TD
+
+  %% Entities =================================
+
+  Categories:::S
+  subgraph Categories
+    Category1:::C
+    Category2:::C
+  end
+
+  Groups:::S
+  subgraph Groups
+    Group1.1:::G
+    Group2.1:::G
+    Group2.2:::G
+  end
+
+  Departments:::S
+  subgraph Departments
+    Department1.1.1:::D
+    Department1.1.2:::D
+    Department2.1.1:::D
+    Department2.1.2:::D
+    Department2.2.1:::D
+    Department2.2.2:::D
+  end
+  
+  Articles:::S
+  subgraph Articles
+    Article1.1.1.1:::A
+    Article1.1.1.2:::A
+  end  
+
+
+  %% Relations =================================
+  
+  Category1 --- Group1.1
+    Group1.1 --- Department1.1.1
+        Department1.1.1 --- Article1.1.1.1
+        Department1.1.1 --- Article1.1.1.2
+    Group1.1 --- Department1.1.2
+
+  Category2 --- Group2.1
+    Group2.1 --- Department2.1.1
+    Group2.1 --- Department2.1.2
+  Category2 --- Group2.2
+    Group2.2 --- Department2.2.1
+    Group2.2 --- Department2.2.2
+
+  classDef S fill:#FFFFFF,stroke:#000000, stroke-width:1px, stroke-dasharray: 5 5
+  classDef C fill:#FFFFB5
+  classDef G fill:#C9E7B7
+  classDef D fill:#B5FFFF
+  classDef A fill:#F5FFFF
 ```
