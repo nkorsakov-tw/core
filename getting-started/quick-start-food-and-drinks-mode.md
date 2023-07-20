@@ -15,19 +15,11 @@
 {% tab title="Table Plan" %}
 If you have tables, select to work with them, create a space, and specify the number of tables.
 
-<div>
-
 <figure><img src="../.gitbook/assets/tables.jpg" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/terrace.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../.gitbook/assets/retailer-mode-tables.jpg" alt=""><figcaption></figcaption></figure>
 
-</div>
 {% endtab %}
 
 {% tab title="Direct sales" %}
