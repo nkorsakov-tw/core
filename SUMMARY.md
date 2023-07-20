@@ -73,6 +73,7 @@
 * [Users](features/users/README.md)
   * [Add new user (waiter)](features/users/add-new-user-waiter.md)
   * [User Settings](features/users/user-settings.md)
+  * [Deactivate user](features/users/deactivate-user.md)
 * [Sales modes](features/sales-modes/README.md)
   * [Table Plan mode](features/sales-modes/table-plan-mode.md)
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
