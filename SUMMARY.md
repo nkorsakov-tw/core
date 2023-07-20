@@ -77,3 +77,7 @@
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
 * [Locations](features/locations/README.md)
   * [Add new location](features/locations/add-new-location.md)
+
+***
+
+* [Application to work in the POS](application-to-work-in-the-pos.md)

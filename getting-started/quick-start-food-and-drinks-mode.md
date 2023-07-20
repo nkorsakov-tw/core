@@ -14,12 +14,6 @@
 {% tabs %}
 {% tab title="Table Plan" %}
 If you have tables, select to work with them, create a space, and specify the number of tables.
-{% endtab %}
-
-{% tab title="Direct sales" %}
-If you don't work with tables, select that you're not and proceed.
-{% endtab %}
-{% endtabs %}
 
 <div>
 
@@ -34,6 +28,12 @@ If you don't work with tables, select that you're not and proceed.
 <figure><img src="../.gitbook/assets/retailer-mode-tables.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+{% endtab %}
+
+{% tab title="Direct sales" %}
+If you don't work with tables, select that you're not and proceed.
+{% endtab %}
+{% endtabs %}
 
 3. Create an article Non-Alcoholic Mojito: &#x20;
 
