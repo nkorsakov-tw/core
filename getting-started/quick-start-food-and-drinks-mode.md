@@ -2,6 +2,11 @@
 
 **Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode.md) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
 
+1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
+2. Sign Up.
+
+* Choose **'Food & Drinks'**;
+
 
 
 {% tabs %}
