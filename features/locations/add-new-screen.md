@@ -6,5 +6,10 @@ If you find the need to add a new tablet to your account and the current subscri
 
 To add a new screen to your account, please follow these steps:
 
-1.
+1. From any page in unTill Air, you can access your account-related options and settings by tapping on the user account icon located in the top-right corner.
 
+<figure><img src="../../.gitbook/assets/Screenshot (14).png" alt="" width="367"><figcaption></figcaption></figure>
+
+2. Select **'My profile'**.
+3. Under the title **'My profile'** click on **'Locations and subscriptions'**.
+4.
