@@ -14,10 +14,10 @@ The POS focuses on providing a seamless ordering and transactional experience fo
 
 Users of unTill Air can be assigned to different roles, including Location Owners and POS users (waiters). Location Owners have the ability to configure and customize the main settings, as well as access comprehensive information about the workflow in the restaurant, including reports on sales, discounts and employee performance. POS users primarily work with devices that enable them to efficiently manage and fulfill orders, make changes to orders and provide customer service.
 
-| Roles          | Work with                                                                                            |
-| -------------- | ---------------------------------------------------------------------------------------------------- |
-| Location Owner | Back Office: configuring the items and functionalities and monitoring the entire restaurant workflow |
-| POS users      | POS: fulfilling orders, providing customer service and managing table assignments                    |
+| Roles           | Work with                                                                                            |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| Location Owners | Back Office: configuring the items and functionalities and monitoring the entire restaurant workflow |
+| POS users       | POS: fulfilling orders, providing customer service and managing table assignments                    |
 
 ### unTill Payments
 
