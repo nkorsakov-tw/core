@@ -48,6 +48,7 @@
     * [Use Articles](features/products/articles/use-articles-pos.md)
   * [Departments](products/departments/README.md)
     * [Special Articles](products/departments/special-articles.md)
+    * [Manage Departments](features/products/departments/manage-departments.md)
   * [Modifiers](products/modifiers/README.md)
     * [Manage Modifiers and assign them to the 'Article'](products/modifiers/create-modifiers-and-assign-them-to-the-article.md)
     * [Use Modifiers](products/modifiers/use-modifiers-in-the-pos.md)
