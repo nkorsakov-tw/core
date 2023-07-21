@@ -28,13 +28,21 @@ _You have some options here:_
 {% tab title="Whole bill" %}
 Click on the :white\_check\_mark: button to complete a transfer.
 
-![](../../../.gitbook/assets/transfer-table2.jpeg)
+<div data-full-width="true">
+
+<figure><img src="../../../.gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 
 {% tab title="By item" %}
 Select the specific items which are needed to transfer and click :white\_check\_mark: button.
 
-![](../../../.gitbook/assets/transfer-table3.jpeg)
+<div data-full-width="true">
+
+<figure><img src="../../../.gitbook/assets/transfer-table3.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 {% endtabs %}
 
