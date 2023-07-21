@@ -20,3 +20,24 @@ To transfer a table, please follow these steps:
 * You can transfer the order to another table within the same 'Space';
 * You can transfer the order to another table in a different 'Space';
 
+6. Select whole bill or only specific items will be transfered to another table.
+
+<figure><img src=".gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% tabs %}
+{% tab title="Whole bill" %}
+Click on the :white\_check\_mark: button to complete a transfer.
+
+![](.gitbook/assets/transfer-table2.jpeg)
+{% endtab %}
+
+{% tab title="By item" %}
+Select the specific items which are needed to transfer and click :white\_check\_mark: button.
+
+![](.gitbook/assets/transfer-table3.jpeg)
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+Now the order has been transferred to another table.
+{% endhint %}
