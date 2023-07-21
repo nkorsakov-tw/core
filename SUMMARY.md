@@ -29,7 +29,8 @@
     * [Add secondary VAT (BO)](features/general/vat-levels/add-secondary-vat-bo.md)
   * [Equipment](general/equipment/README.md)
     * [Add a device](general/equipment/add-a-device.md)
-    * [Delete a tablet](features/general/equipment/delete-a-tablet.md)
+    * [Add a new screen](features/general/equipment/add-a-new-screen.md)
+    * [Replace a tablet](features/general/equipment/delete-a-tablet.md)
   * [Article messages](general/article-messages/README.md)
     * [Manage Article messages](general/article-messages/create-an-article-message-bo.md)
     * [Use Article messages](general/article-messages/use-article-messages-pos.md)
@@ -78,7 +79,6 @@
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
 * [Locations](features/locations/README.md)
   * [Add new location](features/locations/add-new-location.md)
-  * [Add new screen](features/locations/add-new-screen.md)
 
 ***
 
