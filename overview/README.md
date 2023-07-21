@@ -17,7 +17,7 @@ Users of unTill Air can be assigned to different roles, including Location Owner
 | Roles          | Work with                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
 | Location Owner | Back Office: configuring the items and functionalities and monitoring the entire restaurant workflow |
-| POS user       | POS: fulfilling orders, providing customer service and managing table assignments                    |
+| POS users      | POS: fulfilling orders, providing customer service and managing table assignments                    |
 
 ### unTill Payments
 
