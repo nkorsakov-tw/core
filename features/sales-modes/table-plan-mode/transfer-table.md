@@ -10,7 +10,7 @@ To **transfer a table**, please follow these steps:
 2. Create any order.
 3. Click on the **'Transfer table'** button located in the top right-corner of the POS interface.
 
-<figure><img src=".gitbook/assets/transfer-able.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/transfer-able.jpeg" alt=""><figcaption></figcaption></figure>
 
 4. Select the table to transfer.
 5. Click on the table on which you want to transfer the order.
@@ -22,19 +22,19 @@ _You have some options here:_
 
 6. Select what you want to transfer: whole bill or only specific items.
 
-<figure><img src=".gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Whole bill" %}
 Click on the :white\_check\_mark: button to complete a transfer.
 
-![](.gitbook/assets/transfer-table2.jpeg)
+![](../../../.gitbook/assets/transfer-table2.jpeg)
 {% endtab %}
 
 {% tab title="By item" %}
 Select the specific items which are needed to transfer and click :white\_check\_mark: button.
 
-![](.gitbook/assets/transfer-table3.jpeg)
+![](../../../.gitbook/assets/transfer-table3.jpeg)
 {% endtab %}
 {% endtabs %}
 

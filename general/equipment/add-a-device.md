@@ -40,7 +40,7 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 To add a tablet to the back office, you first need to install the **'unTil Runner'** application on your device.
 {% endhint %}
 
-1. Primarily, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../features/sales-modes/direct-sales-mode.md) mode or the ['Table Overview'](../../features/sales-modes/table-plan-mode.md) mode:
+1. Primarily, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../features/sales-modes/direct-sales-mode.md) mode or the ['Table Overview'](../../features/sales-modes/table-plan-mode/) mode:
 
 {% tabs %}
 {% tab title="Direct sales" %}

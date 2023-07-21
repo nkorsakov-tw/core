@@ -77,7 +77,8 @@
 * [POS Users](features/pos-users/README.md)
   * [Add a new POS User](features/pos-users/add-a-new-pos-user.md)
 * [Sales modes](features/sales-modes/README.md)
-  * [Table Plan mode](features/sales-modes/table-plan-mode.md)
+  * [Table Plan mode](features/sales-modes/table-plan-mode/README.md)
+    * [Transfer table](features/sales-modes/table-plan-mode/transfer-table.md)
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
 * [Locations](features/locations/README.md)
   * [Add new location](features/locations/add-new-location.md)
@@ -85,4 +86,3 @@
 ***
 
 * [Application to work in the POS](application-to-work-in-the-pos.md)
-* [Transfer table](transfer-table.md)

@@ -1,6 +1,6 @@
 # Quick Start (Food & Drinks mode)
 
-**Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode.md) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
+**Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode/) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
@@ -70,7 +70,7 @@ Add a tablet in **'Direct Sales'** mode
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-**Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode.md) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
+**Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode/) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
