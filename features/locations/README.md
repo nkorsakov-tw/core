@@ -4,7 +4,7 @@ In unTill Air we refer to the restaurant you manage as a **'Location'**, a term 
 
 A **'Location'** represents separate spaces where you have the freedom to modify and manage the various elements to suit your restaurant's needs. With this flexibility, you can efficiently run your business and set it up to your preferences within each individual location.
 
-When creating an account or adding a new location (For more information, please [refer to the designated page](add-new-location.md)), you will configure and accept a subscription plan. With the plan, you initially get one location with assigned screens (If you need to extend the number of screens within an existing location, you [can find the details on how to do so in the designated page](../general/equipment/add-a-new-screen.md).&#x20;
+When creating an account or adding a new location (For more information, please [refer to the designated page](add-new-location.md)), you will configure and accept a subscription plan. With the plan, you initially get one location with assigned screens (If you need to extend the number of screens within an existing location, you [can find the details on how to do so in the designated page](add-new-screen.md).&#x20;
 
 The subscription plan offers you a free trial of all features in unTill Air. During this trial period, which lasts for one month, you can explore and experience the full capabilities of unTill Air at no cost. This gives you the opportunity to decide whether you want to continue using unTill Air or discontinue after the trial.
 

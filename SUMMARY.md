@@ -29,7 +29,7 @@
     * [Add secondary VAT (BO)](features/general/vat-levels/add-secondary-vat-bo.md)
   * [Equipment](general/equipment/README.md)
     * [Add a device](general/equipment/add-a-device.md)
-    * [Add a new screen](features/general/equipment/add-a-new-screen.md)
+    * [Add a new screen](features/locations/add-new-screen.md)
     * [Replace a tablet](features/general/equipment/delete-a-tablet.md)
   * [Article messages](general/article-messages/README.md)
     * [Manage Article messages](general/article-messages/create-an-article-message-bo.md)
