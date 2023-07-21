@@ -62,7 +62,7 @@
     * [Courses colours](features/products/courses/courses-colours.md)
     * [Use Courses](products/courses/use-a-courses-in-the-pos.md)
   * [Categories](products/categories.md)
-  * [Groups](features/products/groups/README.md)
+  * [Groups](products/groups.md)
     * [Manage Groups](features/products/groups/manage-groups.md)
 * [Reports](reports/README.md)
   * [Discounts Reports](reports/discounts-reports.md)
