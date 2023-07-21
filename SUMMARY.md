@@ -85,3 +85,4 @@
 ***
 
 * [Application to work in the POS](application-to-work-in-the-pos.md)
+* [Transfer table](transfer-table.md)
