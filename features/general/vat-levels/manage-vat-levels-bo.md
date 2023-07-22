@@ -1,6 +1,4 @@
-# Manage VAT levels (BO)
-
-
+# Manage VAT levels
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
@@ -14,5 +12,4 @@ To set up VAT levels, please follow these steps:
 * Edit the already existing VAT levels if needed;&#x20;
 * Add new VAT level to your list;
 
-<figure><img src="../../../.gitbook/assets/Captura de pantalla (2).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/2023-07-22_13-57-59.png" alt=""><figcaption></figcaption></figure>
