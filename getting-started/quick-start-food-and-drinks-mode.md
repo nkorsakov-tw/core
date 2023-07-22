@@ -24,7 +24,7 @@ If you don't work with tables, select that you're not and proceed.
 {% endtab %}
 {% endtabs %}
 
-3. Create an article Non-Alcoholic Mojito:
+5. Create an article Non-Alcoholic Mojito:
 
 * Add new **'Category'** (Drinks)
 * Add new **'Group'** (Non-Alcoholic)
@@ -34,8 +34,8 @@ If you don't work with tables, select that you're not and proceed.
 
 <figure><img src="../.gitbook/assets/sequence (1).jpg" alt=""><figcaption></figcaption></figure>
 
-3. Navigate to the **'General' > 'Equipment'.**
-4. Add a printer.
+6. Navigate to the **'General' > 'Equipment'.**
+7. Add a printer.
 
 {% hint style="info" %}
 If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
@@ -43,7 +43,7 @@ If you don't have a printer yet, select **'Null printer'** feature to simulate t
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
 
-5. Add a tablet.
+8. Add a tablet.
 
 {% tabs %}
 {% tab title="Table Plan" %}
@@ -55,9 +55,9 @@ Add a tablet in **'Direct Sales'** mode
 {% endtab %}
 {% endtabs %}
 
-6. Install **'unTill Air'** on your tablet.
-7. Run and scan QR Code on your tablet to connect.
-8. Now you can make your first order on the tablet!
+9. Install **'unTill Air'** on your tablet.
+10. Run and scan QR Code on your tablet to connect.
+11. Now you can make your first order on the tablet!
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
 

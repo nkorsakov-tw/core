@@ -30,7 +30,7 @@
 If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/null-printer.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
 
 6. Add a tablet in 'Direct sales' mode
 
