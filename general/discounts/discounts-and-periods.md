@@ -36,15 +36,15 @@ You've added your new period succesfully.
 
 Please follow these steps to implement 'Period' for discount:
 
-1. Navigate to the **'General' > 'Discounts'**
-2. Click **'Add new discount'**
-3. Enter the requested information and pay the attention to **'Excluded period'**
-4. Select exactly the period that you have recently created
+1. Navigate to the **'General' > 'Discounts'.**
+2. Click **'Add new discount'.**
+3. Enter the requested information and pay the attention to **'Excluded period'.**
+4. Select exactly the period that you have recently created.
 
-<figure><img src="../../.gitbook/assets/discount-period.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/period-disc.png" alt=""><figcaption></figcaption></figure>
 
-5. Switch to application for the POS on the tablet
-6. Create any order and click **'Discounts'** on the left sidebar
+5. Switch to application for the POS on the tablet.
+6. Create any order and click **'Discounts'** on the left sidebar.
 
 <figure><img src="../../.gitbook/assets/disc.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
