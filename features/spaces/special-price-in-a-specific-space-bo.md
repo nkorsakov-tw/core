@@ -1,6 +1,4 @@
-# Special price (BO)
-
-
+# Special price
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
@@ -18,7 +16,7 @@ To set up the **'Special price'**, please follow these instructions:
 2. Create a new space or click on the settings of an existing space for editing.
 3. To indicate that you will be using the **'Special price'** feature specifically for this space, select the checkbox provided.
 
-<figure><img src="../../.gitbook/assets/space (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-start3.png" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Continue'**.
 
