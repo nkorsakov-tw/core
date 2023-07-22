@@ -12,6 +12,7 @@
 <figure><img src="../.gitbook/assets/quick-start.png" alt=""><figcaption></figcaption></figure>
 
 3. Select the appropriate subscription plan.
+4. Choose whether you will work with or without tables.
 
 {% tabs %}
 {% tab title="Table Plan" %}
@@ -54,7 +55,7 @@ Add a tablet in **'Direct Sales'** mode
 {% endtab %}
 {% endtabs %}
 
-6. Install **'unTill Runner'** on your tablet.
+6. Install **'unTill Air'** on your tablet.
 7. Run and scan QR Code on your tablet to connect.
 8. Now you can make your first order on the tablet!
 
