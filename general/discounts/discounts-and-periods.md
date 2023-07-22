@@ -41,10 +41,10 @@ Please follow these steps to implement 'Period' for discount:
 3. Enter the requested information and pay the attention to **'Excluded period'.**
 4. Select exactly the period that you have recently created.
 
-<figure><img src="../../.gitbook/assets/period-disc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-07-22_14-14-53.png" alt=""><figcaption></figcaption></figure>
 
-5. Switch to application for the POS on the tablet.
-6. Create any order and click **'Discounts'** on the left sidebar.
+1. Switch to application for the POS on the tablet.
+2. Create any order and click **'Discounts'** on the left sidebar.
 
 <figure><img src="../../.gitbook/assets/disc.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
