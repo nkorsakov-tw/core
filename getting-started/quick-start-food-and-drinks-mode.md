@@ -2,12 +2,16 @@
 
 **Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode/) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
 
+**To start working in 'Food & Drinks'**
+
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
 
 * Choose **'Food & Drinks'**;
 
+<figure><img src="../.gitbook/assets/quick-start.png" alt=""><figcaption></figcaption></figure>
 
+3. Select the appropriate subscription plan.
 
 {% tabs %}
 {% tab title="Table Plan" %}
@@ -19,7 +23,7 @@ If you don't work with tables, select that you're not and proceed.
 {% endtab %}
 {% endtabs %}
 
-3. Create an article Non-Alcoholic Mojito: &#x20;
+3. Create an article Non-Alcoholic Mojito:
 
 * Add new **'Category'** (Drinks)
 * Add new **'Group'** (Non-Alcoholic)
@@ -36,9 +40,9 @@ If you don't work with tables, select that you're not and proceed.
 If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/null-printer (1).jpg" alt=""><figcaption><p>Null printer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
 
-5. Add a tablet
+5. Add a tablet.
 
 {% tabs %}
 {% tab title="Table Plan" %}
@@ -55,6 +59,5 @@ Add a tablet in **'Direct Sales'** mode
 8. Now you can make your first order on the tablet!
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
 
 You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).
