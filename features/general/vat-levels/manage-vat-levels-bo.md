@@ -12,4 +12,4 @@ To set up VAT levels, please follow these steps:
 * Edit the already existing VAT levels if needed;&#x20;
 * Add new VAT level to your list;
 
-<figure><img src="../../../.gitbook/assets/2023-07-22_13-57-59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/vat-gif.gif" alt=""><figcaption></figcaption></figure>

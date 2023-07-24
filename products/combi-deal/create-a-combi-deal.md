@@ -7,7 +7,7 @@ To create a **'Combi deal'**, please follow these steps:
 1. Navigate to the **'Products' > 'Combi deal'**.
 2. Click **'Add new combi deal'**.
 3. Provide a name to your combi deal.
-4. Assign your 'Combi deal' to the relevant department and spaces.
+4. Assign your **'Combi deal'** to the relevant department and spaces.
 5. Select the items.
 
 * Provide a name to the component of your combi deal;
@@ -25,8 +25,6 @@ To create a **'Combi deal'**, please follow these steps:
 | Starter   | 1.50 € | Fries; Boiled potato                     |
 | Main dish | 3 €    | Burger; Fish roll                        |
 | Drink     | 3 €    | Non-Alcoholic Mojito; Orange juice fresh |
-
-
 
 {% hint style="info" %}
 Now that you have created a 'Combi deal', you can now use it in the POS. For detailed instructions on how to utilize the 'Combi deal' in the POS, please [refer to the dedicated manual](use-a-combi-deal-in-the-pos.md).
