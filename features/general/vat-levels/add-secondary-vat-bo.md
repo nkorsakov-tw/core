@@ -1,4 +1,4 @@
-# Add secondary VAT (BO)
+# Add secondary VAT
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
@@ -8,15 +8,14 @@ This manual will provide you with a step-by-step guide on how to add a second VA
 
 To add secondary VAT, please follow these steps:
 
-1. Navigate to the **'Products' > 'Groups'**&#x20;
-2. Add a new group or edit an existing one
-3. Add a secondary VAT below the first VAT field
+1. Navigate to the **'Products' > 'Groups'.**
+2. Add a new group or edit an existing one.
+3. Add a secondary VAT below the first VAT field.
 
 <figure><img src="../../../.gitbook/assets/secondary-vat.jpg" alt=""><figcaption></figcaption></figure>
 
-4. Click 'Continue'
+4. Click **'Continue'**.
 
 {% hint style="success" %}
 You have successfully created a group with a secondary VAT.
 {% endhint %}
-

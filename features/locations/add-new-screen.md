@@ -13,7 +13,7 @@ To **add a new screen** to your account, please follow these steps:
 <figure><img src="../../.gitbook/assets/Screenshot (14).png" alt="" width="367"><figcaption></figcaption></figure>
 
 2. Select **'My profile'**.
-3. Under the title **'My profile'** click on **'Locations and subscriptions'**.
+3. Under the title **'My profile'** click on the **'Locations and subscriptions'**.
 4. &#x20;Hover over the location's line and click the respective 'edit' sign.
 
 <figure><img src="../../.gitbook/assets/Screenshot (21).png" alt=""><figcaption></figcaption></figure>

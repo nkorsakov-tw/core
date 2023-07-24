@@ -2,11 +2,11 @@
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
-To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals, and tablets.
+To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals and tablets.
 
-To learn how to establish these devices, please refer to the manual specifically dedicated to device connectivity. This manual will provide you with clear instructions and guidance on adding your devices for operation within the unTill Air system.
+To learn how to connect these devices with an account, please refer to the manual specifically dedicated to device connectivity. This manual will provide you with clear instructions and guidance on adding your devices for operation within the unTill Air system.
 
-A few steps to add a device:
+To **add a new device**, please follow these steps:
 
 1. Navigate to the **'General' > 'Equipment'.**
 2. Click **'Add new equipment'**.
@@ -32,12 +32,12 @@ If you don't have a printer yet, select 'Null printer' feature to simulate the w
 
 1. Give a name for your new terminal.
 2. Enter the POIID for your terminal.
-3. Click **'Continue'**
+3. Click **'Continue'.**
 
 ### Add new tablet
 
 {% hint style="info" %}
-To add a tablet to the back office, you first need to install the **'unTil Runner'** application on your device.
+To add a tablet to the back office, you first need to install the **'unTil Air'** application on your device.
 {% endhint %}
 
 1. Primarily, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../features/sales-modes/direct-sales-mode.md) mode or the ['Table Overview'](../../features/sales-modes/table-plan-mode/) mode:
@@ -48,7 +48,7 @@ This mode is intended for selling items without tables and designated spaces. It
 {% endtab %}
 
 {% tab title="Table Plan" %}
-This mode is intended for businesses with tables and dining spaces where staff interact with clients. In this mode, you will have a specific space in the POS, which can be [set up in the Back Office](../../features/spaces/manage-spaces-bo.md). You will have access to lists of orders from different tables, allowing you to efficiently manage them.&#x20;
+This mode is intended for businesses with tables and dining spaces where staff members interact with clients. In this mode, you will have a specific space in the POS, which can be [set up in the Back Office](../../features/spaces/manage-spaces-bo.md). You will have access to lists of orders from different tables, allowing you to efficiently manage them.&#x20;
 {% endtab %}
 {% endtabs %}
 
