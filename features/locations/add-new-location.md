@@ -23,9 +23,7 @@ To **add new location**, please follow these steps:
 
 You can easily switch between different locations in your account by clicking on the option located in the top left corner of the page.
 
-<figure><img src="../../.gitbook/assets/Screenshot (16).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot (16).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 You have successfully added a new location to your account!
