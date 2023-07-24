@@ -7,3 +7,5 @@ To **use 'Menu' in the POS**, please follow these steps:
 3. Select the dishes from the 'Item groups'.
 
 <figure><img src="../../../.gitbook/assets/menu3.jpg" alt=""><figcaption></figcaption></figure>
+
+You can only skip the 'Item group' designated as 'allowing to skip'.
