@@ -26,7 +26,7 @@ _Now, you can proceed directly to creating a 'Modifier'._
 
 <table><thead><tr><th width="308">Type of Modifier</th><th>Description</th></tr></thead><tbody><tr><td>Optional</td><td>In this case, the 'Modifier' will be available, but the POS user must select it when the customer requests to add a modifier.</td></tr><tr><td>Mandatory</td><td>In this case, the 'Modifier' will be automatically included as a default option, and the 'Article' will be sold with the 'Modifier' already applied.</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/modifier2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/modifier2.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Save'** button
 
