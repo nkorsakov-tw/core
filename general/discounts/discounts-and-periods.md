@@ -6,13 +6,13 @@ When setting up discounts, you have the opportunity to flexibly adjust the valid
 
 ### Set up the 'Period'
 
-Please follow these steps to set up a specific period:
+To **set up a specific period**, please follow these steps:
 
-1. Navigate to the **'General' > 'Periods'**&#x20;
-2. Click **'Add new period'**
-3. Give a name to 'General' and click **'Add new period'** again on this page
-4. Give a name to your new period
-5. Select **'Periods type'**
+1. Navigate to the **'General' > 'Periods'.**&#x20;
+2. Click **'Add new period'.**
+3. Give a name to **'General'** and click **'Add new period'** again on this page.
+4. Give a name to your new period.
+5. Select **'Periods type'.**
 
 | Periods type        | Description                                                                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -25,8 +25,8 @@ Please follow these steps to set up a specific period:
 
 <figure><img src="../../.gitbook/assets/periods.jpg" alt=""><figcaption><p>Example of creating the 'Weekly time' period for discount</p></figcaption></figure>
 
-6. Click **'Continue'**
-7. Click **'Save'**
+7. Click **'Continue'**
+8. Click **'Save'**
 
 {% hint style="success" %}
 You've added your new period succesfully.
@@ -43,20 +43,20 @@ Please follow these steps to implement 'Period' for discount:
 
 <figure><img src="../../.gitbook/assets/2023-07-22_14-14-53.png" alt=""><figcaption></figcaption></figure>
 
-1. Switch to application for the POS on the tablet.
-2. Create any order and click **'Discounts'** on the left sidebar.
+5. Switch to application for the POS on the tablet.
+6. Create any order and click **'Discounts'** on the left sidebar.
 
-<figure><img src="../../.gitbook/assets/disc.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/discounts-periods.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the period which you specified in previous steps is available right now, the discount with a specific period will appear on the tablet in the section 'Discounts'.&#x20;
 {% endhint %}
 
-7. Select period discount and complete the order
+7. Select period discount and complete the order.
 
-<figure><img src="../../.gitbook/assets/disc2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/periods (1).jpg" alt=""><figcaption></figcaption></figure>
 
-8. As a result, you will see a reduction in the invoice, taking into account discounts
+8. As a result, you will see a reduction in the invoice, taking into account discounts.
 
 {% hint style="success" %}
 Now you have successfully created a Period discount and found out how it can be implemented in POS.

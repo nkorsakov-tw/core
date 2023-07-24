@@ -8,7 +8,7 @@ If you have not yet created 'Reasons', please [consult the provided manual](crea
 
 To start using 'Reasons' in the POS, please follow these steps:
 
-1. Open the application **'unTill Runner'** on your tablet.
+1. Open the application **'unTill Air'** on your tablet.
 2. Create any order and click :white\_check\_mark:
 3. Return to previous order by clicking on the table.
 
@@ -26,8 +26,8 @@ To start using 'Reasons' in the POS, please follow these steps:
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../.gitbook/assets/reason2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reason2.jpg" alt=""><figcaption></figcaption></figure>
 
 4. After performing the action and indicating the reason, you can verify that the price of the order has been updated accordingly.
 
-<figure><img src="../../.gitbook/assets/reason3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reason3.jpg" alt=""><figcaption></figcaption></figure>
