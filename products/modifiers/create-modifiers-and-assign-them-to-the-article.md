@@ -17,25 +17,19 @@ _Now, you can proceed directly to creating a 'Modifier'._
 2. Click **'Add new modifier'.**
 3. Give a name to a new **'Modifier'** and select **'Option category'.**
 
-| Option category | Meaning                                                                                                                                                    |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Paid add-ons    | These modifiers are provided to customers with an associated price since paid add-ons are intended to require customers to pay for additional ingredients. |
-| Free add-ons    | These modifiers are provided to customers for free as they do not require any additional fees from the client.                                             |
+<table><thead><tr><th width="287">Option category</th><th>Meaning</th></tr></thead><tbody><tr><td>Paid add-ons</td><td>These modifiers are provided to customers with an associated price since paid add-ons are intended to require customers to pay for additional ingredients.</td></tr><tr><td>Free add-ons</td><td>These modifiers are provided to customers for free as they do not require any additional fees from the client.</td></tr></tbody></table>
 
 4. Select items which will be used as a **'Modifier'**.
 5. Assign a **'Modifier'** to a specific article or several articles.
 6. Set a price for the **'Article'** to **'Modifier'**.
 7. Choose between 'optional' and 'mandatory' display of the **'Modifier'** in the POS during taking the order.
 
-| Type of Modifier | Description                                                                                                                                           |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Optional         | In this case, the 'Modifier' will be available, but the POS user must select it when the customer requests to add a modifier.                         |
-| Mandatory        | In this case, the 'Modifier' will be automatically included as a default option, and the 'Article' will be sold with the 'Modifier' already applied.  |
+<table><thead><tr><th width="308">Type of Modifier</th><th>Description</th></tr></thead><tbody><tr><td>Optional</td><td>In this case, the 'Modifier' will be available, but the POS user must select it when the customer requests to add a modifier.</td></tr><tr><td>Mandatory</td><td>In this case, the 'Modifier' will be automatically included as a default option, and the 'Article' will be sold with the 'Modifier' already applied. </td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/modifier2.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Save'** button
 
 {% hint style="success" %}
-You have successfully created a new modifierб you are able to use it within the POS system. Please, read the next manual to learn how to effectively use the modifier in your POS operations.
+You have successfully created a new 'Modifier'. Now, you can start using it within the POS system. To make the most of this 'Modifier' and efficiently incorporate it into your POS operations.
 {% endhint %}
