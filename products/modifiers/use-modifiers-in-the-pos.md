@@ -13,7 +13,7 @@ To **start using 'Modifier' in the POS**, please follow these steps:
 * You'll see initially the item which you've ordered without a 'Modifier';
 * If a customer requests to add a 'Modifier', simply tap on the item in the order list to include the desired 'Modifier';
 
-<figure><img src="../../.gitbook/assets/modifier (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/modifier.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you set a price for the modifier, it will be applied regardless of any other settings or options.&#x20;

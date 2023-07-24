@@ -1,2 +1,5 @@
 # Menus
 
+In unTill Air, 'Menus' serve as selections of dishes that belong to a specific range of items sharing common traits. These traits can vary from belonging to the same cuisine, sharing similar ingredients, or aligning with a particular theme. Menus provide customers with suggestions to order a dish that fits their preferences or complements the restaurant's specialty. By grouping related items together, menus simplify the ordering process.
+
+In addition to the possibility of more efficiently managing the ordering process, 'Menus' allow restaurants to demonstrate their most valuable dishes and seasonal specials. This strategic presentation entices customers to explore and try new culinary delights, ultimately leading to increased sales and higher customer satisfaction. Moreover, menus can be easily customized and updated, offering the flexibility to adapt to changing culinary trends or seasonal offerings.
