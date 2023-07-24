@@ -23,8 +23,8 @@
 
 <figure><img src="../.gitbook/assets/sequence.jpg" alt=""><figcaption></figcaption></figure>
 
-4. Navigate to the 'General' > 'Equipment'
-5. Add a printer
+4. Navigate to the **'General' > 'Equipment'**.
+5. Add a printer.
 
 {% hint style="info" %}
 If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
@@ -32,11 +32,11 @@ If you don't have a printer yet, select **'Null printer'** feature to simulate t
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
 
-6. Add a tablet in 'Direct sales' mode
+6. Add a tablet in **'Direct sales'** mode.
 
 <figure><img src="../.gitbook/assets/direct sales.jpg" alt=""><figcaption></figcaption></figure>
 
-7. Install **'unTill Runner'** on your tablet.
+7. Install **'unTill Air'** on your tablet.
 8. Run and scan QR Code on your tablet to connect.
 9. Now you can make your first order on the tablet!&#x20;
 
