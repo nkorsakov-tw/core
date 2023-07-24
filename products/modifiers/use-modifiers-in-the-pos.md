@@ -2,9 +2,7 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
-![2023-07-24_16-41-37](https://github.com/nkorsakov-tw/core/assets/131404017/9a8e0898-5b73-4bd7-9913-f41740b289c0)
-
-
+<figure><img src="[../../.gitbook/assets/modifier2.jpg](https://github.com/nkorsakov-tw/core/assets/131404017/9a8e0898-5b73-4bd7-9913-f41740b289c0)" alt=""><figcaption></figcaption></figure>
 
 To **start using 'Modifier' in the POS**, please follow these steps:
 
