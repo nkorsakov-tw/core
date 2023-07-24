@@ -168,6 +168,10 @@ This refers to the area where tables are placed and where the staff receives cus
 
 It means that the manager is able to set a specific price for a product in a particular space. It can be the same articles but in different spaces, so the price will vary depending on the space
 
+**Special Articles (Back Office)**
+
+'Special Article' can be assigned to not only one, but two 'Departments' simultaneously, unlike a regular 'Article' which is used within a single 'Department'
+
 **Screens (Back Office)**&#x20;
 
 This term refers to a group of devices that are connected to the unTill Air account and can manage orders and monitor the process
