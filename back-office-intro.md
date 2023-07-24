@@ -6,11 +6,11 @@ The Back Office serves as the central hub for managing your business. From the B
 
 ### Features in the Back Office
 
-Within the Back Office you have the ability to modify and add products to your inventory, create menus and set up discounts. It also enables you to add users (staff members) to your account, allowing for collaboration and user-specific access levels. Additionally, you can connect and manage various devices associated with your account.
+Within the Back Office you have the ability to modify and add products to your inventory, create menus and set up discounts. It also enables you to add POS users (waiters) to your account, allowing for collaboration and user-specific access levels. Additionally, you can connect and manage various devices associated with your account.
 
 ### Spaces in the Back Office
 
-One of the key features of the Back Office is the capability to create and customize spaces. These spaces provide a visual representation of your table areas, where your staff can efficiently receive and serve clients. By customizing these spaces, you can optimize the layout and organization of your establishment.
+One of the key features of the Back Office is the capability to create and customize spaces. These spaces provide a visual representation of your table areas, where your staff can efficiently receive and serve clients. By customizing these spaces, you can optimize the layout and organization of your restaurant.
 
 ### Standard functions on a page in the Back Office
 
