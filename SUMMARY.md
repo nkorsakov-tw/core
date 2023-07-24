@@ -55,6 +55,7 @@
     * [Use Modifiers](products/modifiers/use-modifiers-in-the-pos.md)
   * [Menus](features/products/menus/README.md)
     * [Manage Menus](features/products/menus/manage-menus.md)
+    * [Use Menus](features/products/menus/use-menus.md)
   * [Combi deal](products/combi-deal/README.md)
     * [Manage Combi deals](products/combi-deal/create-a-combi-deal.md)
     * [Use Combi deals](products/combi-deal/use-a-combi-deal-in-the-pos.md)
