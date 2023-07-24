@@ -23,3 +23,4 @@ Continue to the next sections of the manual, and when the need arises, select on
 2. Click 'Add new menu'.
 3. Provide a name to your new 'Menu'.
 4. Assign a 'Menu' to a 'Department'.&#x20;
+5.
