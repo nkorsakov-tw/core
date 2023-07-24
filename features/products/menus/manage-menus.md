@@ -1,6 +1,6 @@
 # Manage Menus
 
-To create a 'Menu', please follow these steps:&#x20;
+To **create a 'Menu'**, please follow these steps:&#x20;
 
 {% hint style="info" %}
 While creating a 'Menu', you have the option to either assign it to an already existing 'Department' or create a new 'Department' and assign your 'Menu' to it.
@@ -19,8 +19,24 @@ Continue to the next sections of the manual, and when the need arises, select on
 {% endtab %}
 {% endtabs %}
 
-1. Navigate to the 'Products' > 'Menus'.
-2. Click 'Add new menu'.
-3. Provide a name to your new 'Menu'.
-4. Assign a 'Menu' to a 'Department'.&#x20;
-5.
+1. Navigate to the **'Products' > 'Menus'**.
+2. Click **'Add new menu'**.
+3. Provide a name to your new **'Menu'**.
+4. Assign a **'Menu'** to a **'Department'** and **'Spaces'**.
+5. Click **'New item group'**.
+
+<figure><img src="../../../.gitbook/assets/menu2.jpg" alt=""><figcaption></figcaption></figure>
+
+6. Provide a name to your new 'Item group' and select 'Course'.
+7. Select 'Articles' to include within your 'Item group'.
+8. Pay attention to the **'Allow to skip'** feature, which allows your customers to skip one 'Item group' within your menu without any additional charges.&#x20;
+
+<figure><img src="../../../.gitbook/assets/menu1.jpg" alt=""><figcaption></figcaption></figure>
+
+9. Create other **'Item groups'**.
+10. Optional: POS Display Sequence
+
+_This feature allows you to customize the sequence in which 'Item groups' are displayed in the POS. By default, the 'Item groups' are arranged in a certain order, but you have the flexibility to modify this sequence according to your preferences and needs._
+
+9. Click **'Save'**.
+
