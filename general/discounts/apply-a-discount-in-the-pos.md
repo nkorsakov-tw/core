@@ -6,9 +6,7 @@ description: Brief overview how to apply a discount in the POS
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
-### Apply a discount
-
-To provide your discounts to your customers, follow these instructions:
+To **provide your discounts to your customers**, follow these instructions:
 
 1. To access the **'Discounts'** feature, navigate to the **'Discounts'** section on your tablet connected to the Back Office system (instructions on how to connect a tablet can be found [here](../equipment/add-a-device.md)). You can find this option from the order page.
 2. Select the discount which is appropriate to your case.

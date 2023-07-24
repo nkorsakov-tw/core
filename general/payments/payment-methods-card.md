@@ -29,7 +29,7 @@ To join unTill Payments, please reach out to your reseller if you work with unTi
 2. Create any order on the tablet.
 3. Verify the capability of using a card to submit a payment in the POS on the tablet.
 
-<figure><img src="../../.gitbook/assets/card.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/card.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Now you have the option to make cashless payments.

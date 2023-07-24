@@ -19,7 +19,7 @@ To **start using 'Modifier' in the POS**, please follow these steps:
 If you set a price for the modifier, it will be applied regardless of any other settings or options.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/modifier2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/modifier2.jpg" alt=""><figcaption></figcaption></figure>
 
 **Mandatory 'Modifier'**
 

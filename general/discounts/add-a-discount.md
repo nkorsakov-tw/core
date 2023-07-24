@@ -10,9 +10,7 @@ description: Brief overview how to create discounts
 This manual is intended for users who have already registered some product articles. If you need guidance on creating your first articles, please refer to the ['Quick Start'](../../getting-started/quick-start-food-and-drinks-mode.md) manual. Once you have set up your articles, you can start taking orders and apply discounts when finalizing the bill.
 {% endhint %}
 
-### Add a discount
-
-To add discounts to your list, follow these instructions:
+To **add discounts to your list**, follow these instructions:
 
 1. Navigate to the **'Discounts' > 'General'.**
 2. Click **'Add new discount'.**

@@ -59,6 +59,6 @@ Add a tablet in **'Direct Sales'** mode
 10. Run and scan QR Code on your tablet to connect.
 11. Now you can make your first order on the tablet!
 
-<figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt=""><figcaption></figcaption></figure>
 
 You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).

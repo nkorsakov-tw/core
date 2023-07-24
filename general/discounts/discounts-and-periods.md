@@ -34,7 +34,7 @@ You've added your new period succesfully.
 
 ### Implement 'Period' for discount
 
-Please follow these steps to implement 'Period' for discount:
+To **implement 'Period' for discount**, please follow these steps:
 
 1. Navigate to the **'General' > 'Discounts'.**
 2. Click **'Add new discount'.**
