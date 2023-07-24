@@ -4,7 +4,7 @@
 
 Since the launch you already have at least one user (waiter), but let's look at how to add or remove other users.
 
-To add new users follow these steps:
+To **add new POS user** follow these steps:
 
 1. Navigate to the **'Users'** on the left sidebar.
 2. Click **'Add new user'.**
@@ -14,7 +14,7 @@ To add new users follow these steps:
 * **Allow void**
 * **Allow transfer**
 
-<figure><img src="../../.gitbook/assets/new-user.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new-user.jpg" alt=""><figcaption></figcaption></figure>
 
 If you trust your stuff and can afford them making a voids and transfers, you are able to give the access for waiters to these features.
 
