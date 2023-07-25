@@ -1,7 +1,5 @@
 # Financial Reports
 
-
-
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
 **'Financial Reports'** in unTill Air offer a comprehensive overview of the essential financial data related to your restaurant's business.&#x20;
@@ -22,6 +20,6 @@ This kind of reports includes information about:
 * Voids;&#x20;
 * Discounts;
 
-_In other words, it's a brief summary of all the other reports._
+<figure><img src="../.gitbook/assets/financial-report.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Captura de pantalla (11).png" alt=""><figcaption></figcaption></figure>
+_In other words, it's a brief summary of all the other reports._
