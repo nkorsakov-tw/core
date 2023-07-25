@@ -28,7 +28,7 @@ To set up special price, please follow these steps:
 2. Create new or modify an existing article.
 3. Click **'Set prices'**.
 
-<figure><img src="../../.gitbook/assets/special-price.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/special-price (1).jpg" alt=""><figcaption></figcaption></figure>
 
-4. Set a new price for the specific space.
-5. Click **'Save'** button.
+1. Set a new price for the specific space.
+2. Click **'Save'** button.
