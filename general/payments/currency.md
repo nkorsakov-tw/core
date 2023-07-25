@@ -4,9 +4,7 @@
 
 In unTill Air you feel free to add a currencies in Back Office and then implement them while accepting payments in POS. The default currency in unTill Air is Euro(€), but you are able to customize that and use other currencies which are needed in your business.&#x20;
 
-### Add a currency
-
-Please, follow these instructions to add new currencies to your list:
+To add new currencies to your list, please, follow these steps:
 
 1. Navigate to the **'General' > 'Currency'**.
 2. Click **'Add new currency'**.
@@ -21,6 +19,3 @@ Please, follow these instructions to add new currencies to your list:
 <figure><img src="../../.gitbook/assets/currency2.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Click **'Continue'.**
-
-&#x20;
-
