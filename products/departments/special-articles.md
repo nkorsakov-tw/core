@@ -22,6 +22,6 @@ To create a **'Special Article'**, please follow these steps:
 
 After assigning articles to two different departments, they will be visible in both departments in the POS.&#x20;
 
-<figure><img src="../../.gitbook/assets/6065c780-8e98-40fb-8bfa-0ecf94ed65bf.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6065c780-8e98-40fb-8bfa-0ecf94ed65bf (1).jpg" alt=""><figcaption></figcaption></figure>
 
 In this case, the article 'Orange juice fresh' is available in two departments: 'Lemonades' and 'Juices'. It was initially assigned to the 'Lemonades' department, but later it was also assigned to the 'Juices' department. As a result, in the POS, this article can be accessed and interacted with in both departments.

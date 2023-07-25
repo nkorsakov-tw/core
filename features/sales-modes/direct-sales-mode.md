@@ -8,7 +8,7 @@ This mode is specifically designed for Point of Sale businesses that do not have
 
 This advantage becomes particularly clear for direct sales organizations where the focus is on quick operations. Without the need to manage tables, you can concentrate exceptionally on serving customers and processing their orders seamlessly.&#x20;
 
-<figure><img src="../../.gitbook/assets/6065c780-8e98-40fb-8bfa-0ecf94ed65bf (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6065c780-8e98-40fb-8bfa-0ecf94ed65bf.jpg" alt=""><figcaption></figcaption></figure>
 
 ### POS user and Direct Sales mode
 
