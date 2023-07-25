@@ -26,10 +26,10 @@ If you don't work with tables, select that you're not and proceed.
 
 5. Create an article Non-Alcoholic Mojito:
 
-* Add new **'Category'** (Drinks)
-* Add new **'Group'** (Non-Alcoholic)
-* Add new **'Department'** (Lemonades)
-* Add new **'Course'** (Main)
+* Add a new **'Category'** (Drinks)
+* Add a new **'Group'** (Non-Alcoholic)
+* Add a new **'Department'** (Lemonades)
+* Add a new **'Course'** (Main)
 * Add a new **'Article'** (Non-Alcoholic Mojito)
 
 <figure><img src="../.gitbook/assets/numbers.jpg" alt=""><figcaption></figcaption></figure>
@@ -38,7 +38,7 @@ If you don't work with tables, select that you're not and proceed.
 7. Add a printer.
 
 {% hint style="info" %}
-If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
+If you don't have a printer yet, select **'Null printer'** feather ture to simulate the working process without printing actual receipts.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
