@@ -6,7 +6,7 @@ This mode is specifically designed for restaurant businesses with various dining
 
 In the **'Table Plan'** mode, you can create a visual representation of the tables in a designated **'Space'** within your restaurant. This mode is designed to facilitate the seamless accommodation of customers by waiters in different dining areas.
 
-<figure><img src="../../../.gitbook/assets/display-pos (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/display-pos.jpg" alt=""><figcaption></figcaption></figure>
 
 ### POS user and Table Plan
 
