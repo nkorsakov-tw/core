@@ -16,4 +16,4 @@ The 'Direct Sales mode' in unTill Air offers an efficient way for the POS users 
 
 ### Standard functions in the POS Direct Sales mode
 
-All the basic features to the POS work in the Direct Sales mode.&#x20;
+In the 'Direct Sales mode' of unTill Air, all the essential features of the POS function as usual. You have the freedom to create orders and efficiently process them by navigating through 'Departments' and utilizing the 'Search' button for quick access to specific items. Moreover, you retain the ability to implement familiar features, including 'Discounts,' 'Void', and other common functions that you are accustomed to.
