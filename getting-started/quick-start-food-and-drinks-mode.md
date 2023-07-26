@@ -32,7 +32,7 @@ If you don't work with tables, select that you're not and proceed.
 * Add a new **'Course'** (Main)
 * Add a new **'Article'** (Non-Alcoholic Mojito)
 
-<figure><img src="../.gitbook/assets/numbers.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sequence-tablet.png" alt=""><figcaption></figcaption></figure>
 
 6. Navigate to the **'General' > 'Equipment'.**
 7. Add a printer.
