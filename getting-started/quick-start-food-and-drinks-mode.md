@@ -9,7 +9,7 @@
 
 * Choose **'Food & Drinks'**;
 
-<figure><img src="../.gitbook/assets/2023-07-25_15-54-43 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/quick-start5.png" alt=""><figcaption></figcaption></figure>
 
 3. Select the appropriate subscription plan.
 4. Choose whether you will work with or without tables.
