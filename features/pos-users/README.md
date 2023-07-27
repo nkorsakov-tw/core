@@ -8,9 +8,16 @@ The unTill Air application serves as a valuable tool for POS users, offering a c
 
 ### Distinctions of working for POS users in the different modes
 
-In unTill Air, POS users can work with 'Spaces' and tables in the 'Table Plan' mode, allowing them to efficiently manage orders and assign them to specific tables for a more organized working process. Conversely, in the 'Direct Sales' mode, POS users can quickly process orders without the need for table assignments, making it ideal for businesses that don't have physical 'Spaces'.
+In unTill Air, POS users can work with **'Spaces'** and tables in the **'Table Plan'** mode, allowing them to efficiently manage orders and assign them to specific tables for a more organized working process. Conversely, in the **'Direct Sales'** mode, POS users can quickly process orders without the need for table assignments, making it ideal for businesses that don't have physical **'Spaces'**.
 
 {% hint style="info" %}
 To learn more about the differences between working in the two POS modes, please r[efer to the dedicated page](../sales-modes/).
 {% endhint %}
 
+### POS user performance
+
+As a Location Owner, you have the valuable ability to track and evaluate your waiter's performance in the Back Office. Detailed reports offer insights into various aspects of their interactions with clients, such as discounts, voids, and more. This information empowers you to make informed decisions and configure an efficient system to enhance the overall service quality.&#x20;
+
+{% hint style="info" %}
+To learn more about 'Reports' including reports about POS user's performance, please [refer to the designated page](../../reports/waiters-reports.md).&#x20;
+{% endhint %}
