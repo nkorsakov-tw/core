@@ -21,11 +21,11 @@ Users of unTill Air can be assigned to different roles, including Location Owner
 
 ### unTill Payments
 
-In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments, you can accept payments internally and take advantage of its features. In particular, with unTill Payment, you'll get a daily payout based on your turnover. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [<mark style="color:blue;">refer to the designated page</mark>](../untill-payments.md).&#x20;
+In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments, you can accept payments internally and take advantage of its features. In particular, with unTill Payment, you'll get a daily payout based on your turnover. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [refer to the designated page](../untill-payments.md).&#x20;
 
 ### Locations (Restaurants)
 
-An important feature that you should know is the ability to create several locations within your existing unTill Air account. There is no need to sign up again to establish a new location in unTill Air. When you subscribe to a new location, you gain the full capacity to set up and manage your restaurant. This includes creating new spaces and articles, just as you would with a standard new location. For more detailed instructions on how to add a new location, please [<mark style="color:blue;">refer to the designated page</mark>.](../features/locations/add-new-location.md)
+An important feature that you should know is the ability to create several locations within your existing unTill Air account. There is no need to sign up again to establish a new location in unTill Air. When you subscribe to a new location, you gain the full capacity to set up and manage your restaurant. This includes creating new spaces and articles, just as you would with a standard new location. For more detailed instructions on how to add a new location, please [refer to the designated page.](../features/locations/add-new-location.md)
 
 ### Devices
 

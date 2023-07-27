@@ -2,7 +2,7 @@
 
 **Let's consider how to start working in Retail mode**
 
-1. Open [<mark style="color:blue;">https://air.untill.com/</mark>](https://air.untill.com/) in your browser.
+1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
 
 * Choose **'Retail'**
@@ -42,4 +42,4 @@ If you don't have a printer yet, select **'Null printer'** feature to simulate t
 
 <figure><img src="../.gitbook/assets/order-on-tablet (1).jpg" alt=""><figcaption></figcaption></figure>
 
-_You can learn more about the_ [_<mark style="color:blue;">Back Office</mark>_](../back-office-intro.md)_, where you can create articles, and the_ [_<mark style="color:blue;">POS</mark>_](../pos-intro.md)_, where you can place orders. Additionally, we recommend exploring the essential feature of_ [_unTill Payments_](../untill-payments.md)_._
+_You can learn more about the_ [_Back Office_](../back-office-intro.md)_, where you can create articles, and the_ [_POS_](../pos-intro.md)_, where you can place orders. Additionally, we recommend exploring the essential feature of_ [_unTill Payments_](../untill-payments.md)_._
