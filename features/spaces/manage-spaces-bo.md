@@ -2,11 +2,11 @@
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
-Here are a few steps to help you set up your **'Space'**:
+To set up your 'Space', please follow these steps:
 
-1. Navigate to the **'Space'** on your left side bar.
+1. Navigate to the **'Space'** on your left sidebar.
 2. Click **'Add new space'**
-3. Give a name to your new space and specify the number of its tables.
+3. Provide a name to your new 'Space' and specify the number of its tables.
 
 * [If you are using a **'Special price'**](special-price-in-a-specific-space-bo.md) for your particular space, it needs to be mentioned
 
@@ -23,4 +23,4 @@ Here are a few steps to help you set up your **'Space'**:
 
 6. Click the **'Save'** button after the configuration is completed.
 
-_At the top left corner of the page you can switch between different spaces._
+_At the top left corner of the page, you can switch between different spaces._

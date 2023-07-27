@@ -17,5 +17,5 @@ To **assign** **VAT levels to a group**, please follow these steps:
 Additionally, you have the option to add a secondary VAT to your group. This allows you to assign the group of articles to a new space where a different VAT level may be applicable. For detailed instructions on adding a secondary VAT to your group, please [refer to the provided manual](add-secondary-vat-bo.md).
 
 {% hint style="success" %}
-Now that your group has been assigned the new VAT level, you can utilize it in the spaces based on its association with each group.
+Now that the group has the new VAT level assigned, you can use it in the 'Spaces' associated with each group.
 {% endhint %}
