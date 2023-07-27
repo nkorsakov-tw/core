@@ -82,7 +82,9 @@ This is a subset of the 'Categories' (e.g. Starter)
 
 ## H
 
-_No items_
+**Happy hours (Back Office)**
+
+This type of 'Discount' assumes the presence of a specific period and has the same functionality. With 'Happy Hours', the 'Discount' will only be available if the date of the order matches the specified discount period
 
 ## I
 
