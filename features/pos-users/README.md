@@ -8,7 +8,7 @@ The unTill Air application serves as a valuable tool for POS users, offering a c
 
 ### Distinctions of working for POS users in the different modes
 
-In unTill Air, POS users can work with **'Spaces'** and tables in the **'Table Plan'** mode, allowing them to efficiently manage orders and assign them to specific tables for a more organized working process. Conversely, in the **'Direct Sales'** mode, POS users can quickly process orders without the need for table assignments, making it ideal for businesses that don't have physical **'Spaces'**.
+In unTill Air, POS users can work with 'Spaces' and tables in the 'Table Plan' mode, allowing them to efficiently manage orders and assign them to specific tables for a more organized working process. Conversely, in the 'Direct Sales' mode, POS users can quickly process orders without the need for table assignments, making it ideal for businesses that don't have physical 'Spaces'.
 
 {% hint style="info" %}
 To learn more about the differences between working in the two POS modes, please [refer to the dedicated page.](../sales-modes/)

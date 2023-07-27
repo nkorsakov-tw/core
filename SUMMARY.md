@@ -76,6 +76,7 @@
   * [Waiters Reports](reports/waiters-reports.md)
   * [Z Reports](reports/z-reports.md)
   * [X Reports](reports/x-reports.md)
+* [Location Owners](features/location-owners.md)
 * [POS Users](features/pos-users/README.md)
   * [Add a new POS User](features/pos-users/add-a-new-pos-user.md)
 * [Sales modes](features/sales-modes/README.md)
