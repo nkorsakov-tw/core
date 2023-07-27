@@ -4,7 +4,7 @@
 
 **To start working in the 'Food & Drinks'**
 
-1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
+1. Open [<mark style="color:blue;">https://air.untill.com/</mark>](https://air.untill.com/) in your browser.
 2. Sign Up.
 
 * Choose **'Food & Drinks'**;
@@ -61,4 +61,4 @@ Add a tablet in **'Direct Sales'** mode
 
 <figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt=""><figcaption></figcaption></figure>
 
-You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).
+You can learn more about the [<mark style="color:blue;">Back Office</mark>](../back-office-intro.md), where you can create articles, and the [<mark style="color:blue;">POS</mark>](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [<mark style="color:blue;">unTill Payments</mark>](../untill-payments.md).
