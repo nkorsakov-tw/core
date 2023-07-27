@@ -34,7 +34,7 @@ This is the widest segment in the 'Products' list, so you need to fill in this s
 
 **Currency** **(Back Office)**
 
-This refers to the capability to add currencies which you use to the list. Default currency in unTill Air is Euro but you can add other currencies as well
+This refers to the capability to add currencies which you use to the list. The default currency in unTill Air is Euro, but you can add other currencies as well
 
 **Change course (POS)**
 
@@ -58,7 +58,7 @@ This is less wide than 'Categories' or 'Groups' and incorporates more precise in
 
 **Equipment (Back Office)**
 
-This refers to a technical base of your work including printers, terminals and tablets which allow you to use unTill Air. You can add and customize this equipment in the settings
+This refers to a technical base of your work including printers, terminals, and tablets which allow you to use unTill Air. You can add and customize this equipment in the settings
 
 ## F
 
@@ -100,7 +100,11 @@ _No items_
 
 **Location (Back Office)**&#x20;
 
-This is a restaurant that you manage. In unTill Air, the owner has the ability to add new locations within the same account. Each location serves as a separate area where you can create spaces and add new articles. These locations are not interconnected, but you can easily switch between them using the display
+This is a restaurant that you manage. In unTill Air, the owner can add new locations within the same account. Each location serves as a separate area where you can create spaces and add new articles. These locations are not interconnected, but you can easily switch between them using the display
+
+**Location Owner**
+
+Location Owner is a person who manages all features of unTill Air in the Back Office. It means that he is free to configure the system of 'Products' with its 'Articles', 'Departments', etc. Also, Location Owner can customize 'Spaces', devices and add POS users to let them work in unTill Air. Additionally, Location Owner constantly receives reports about running his restaurant&#x20;
 
 ## M
 
@@ -110,7 +114,7 @@ Modifiers are changeable ingredients that can be added to a dish according to th
 
 **Menus (Back Office & POS)**&#x20;
 
-This is a group of dishes from the same department that are offered to the client together, and this group of items is united by one specific feature
+'Group' in unTill Air is a collection of dishes from the same department offered together to the client, sharing a specific feature
 
 ## N
 
@@ -140,9 +144,13 @@ This refers to the process of paying the amount according to the client's restau
 
 This is a service where POS users can create customer orders, assist throughout the process and accept payments
 
+**POS user**
+
+POS user is an employee who interacts with the Point of Sale system and handles various tasks associated with sales, payments, and transactions
+
 **Paid add-on (Back Office & POS)**&#x20;
 
-This feature allows you to offer your client to have an addtional paid ingredient
+This feature allows you to offer your client to have an additional paid ingredient
 
 ## Q
 
@@ -166,7 +174,7 @@ This refers to the area where tables are placed and where the staff receives cus
 
 **Special price (Back Office)**&#x20;
 
-It means that the manager is able to set a specific price for a product in a particular space. It can be the same articles but in different spaces, so the price will vary depending on the space
+It means that the manager can set a specific price for a product in a particular space. It can be the same articles but in different spaces, so the price will vary depending on the space
 
 **Special Articles (Back Office)**
 
@@ -186,7 +194,7 @@ This term applies to templates used for generating receipts and reports. Additio
 
 This is the name of the button that allows the waiter to fulfill a customer's request to change the table for an order. This action can be performed within the POS
 
-**Table colour legend (POS)**&#x20;
+**Table color legend (POS)**&#x20;
 
 This refers to the table status, which can be influenced by factors such as customer occupancy time or the current 'Course'
 
