@@ -2,9 +2,9 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owner</mark> in the Back Office</td><td></td></tr></tbody></table>
 
-The 'Articles' play a crucial role in the configuration process within the Back Office, serving as the foundational elements before their implementation in the POS. That's a reason why creating the articles is one of the most common operations in unTill Air.
+The **'Articles'** play a crucial role in the configuration process within the Back Office, serving as the foundational elements of the entire **'Products'** system. That's a reason why creating **'Articles'** is one of the most common operations in unTill Air.
 
-To create an **'Article'**, please follow these steps:
+To **create an 'Article'**, please follow these steps:
 
 1. Navigate to the **'Products' > 'Articles'**.
 2. Click **'Add new article'**.
@@ -16,7 +16,7 @@ If you have a space with the 'Special price' feature and you want to set non-ide
 {% endhint %}
 
 5. Select a **'Department'** and **'Course'**.
-6. Assign new article to the needed **'Spaces'**.
+6. Assign a new **'Article'** to the needed **'Spaces'**.
 
 <figure><img src="../../../.gitbook/assets/articles-gif.gif" alt=""><figcaption></figcaption></figure>
 
