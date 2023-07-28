@@ -1,6 +1,6 @@
 # Payments
 
-The Payments section in unTill Air provides a comprehensive platform for managing all aspects of transactions in your restaurant. With this powerful feature, you can accept various payment methods, such as cash and card payments. The system offers flexibility in setting up payment options.&#x20;
+The Payments section in unTill Air provides a comprehensive platform for managing all aspects of transactions in your restaurant. With this powerful feature, you can accept various payment methods, such as cash and card payments. The system offers flexibility in setting up payment methods.&#x20;
 
 In the Payments section of the Back Office, you gain full control over the setup and management of payment methods, ensuring a seamless and convenient payment experience for your customers in the restaurant.
 

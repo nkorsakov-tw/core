@@ -4,6 +4,8 @@
 
 When you work with tables in the 'Space', you can access the 'Table Color Legend' button in the POS. This button displays different colours that represent the allocation of 'Courses' in the POS. These colours are visible in the POS interface when customers order items that are part of a particular 'Course'.&#x20;
 
+<figure><img src="../../../.gitbook/assets/colour-legend-button.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 To learn more about the colour legend for 'Courses' and how it helps POS users understand the needs of customers when ordering dishes, please [refer to the designated page](../../products/courses/courses-colours.md).
 {% endhint %}
