@@ -2,15 +2,15 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td></tr></tbody></table>
 
-When working with the tables 'Space' in the POS, you can access the 'Table Color Legend' button. This button displays different colors that represent the allocation of 'Courses' in the POS. These colors are visible in the POS interface when customers order items that are part of a particular 'Course'.&#x20;
+When you work with tables in the 'Space', you can access the 'Table Color Legend' button in the POS. This button displays different colours that represent the allocation of 'Courses' in the POS. These colours are visible in the POS interface when customers order items that are part of a particular 'Course'.&#x20;
 
 {% hint style="info" %}
-To learn more about the color legend for 'Courses' and how it helps POS users understand the needs of customers when ordering dishes, please refer to the designated page.
+To learn more about the colour legend for 'Courses' and how it helps POS users understand the needs of customers when ordering dishes, please [refer to the designated page](../../products/courses/courses-colours.md).
 {% endhint %}
 
-You have the flexibility to customize the color legend for specific 'Articles.' When these 'Articles' are displayed in the POS, they will be shown in the color you have selected in the Back Office, making it easier for POS users to identify and manage different items.
+You have the flexibility to customize the colour legend for specific 'Articles.' When these 'Articles' are displayed in the POS, they will be shown in the colour you have selected in the Back Office, making it easier for POS users to identify and manage different items.
 
-To create a color legend for 'Articles' and use it in the POS, please follow these steps:
+To create a colour legend for 'Articles' and use it in the POS, please follow these steps:
 
 1. Navigate to the 'Products' > 'Articles' in the Back Office.
 2. Create a new 'Article' with a colour or edit an existing one.
@@ -24,5 +24,5 @@ To create a color legend for 'Articles' and use it in the POS, please follow the
 <figure><img src="../../../.gitbook/assets/colour-tablet.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-You have successfully created and implemented the color legend for your 'Articles'!
+You have successfully created and implemented the colour legend for your 'Articles'!
 {% endhint %}
