@@ -12,8 +12,8 @@ This advantage becomes particularly clear for direct sales organizations where t
 
 ### POS user and Direct Sales mode
 
-The **'Direct Sales mode'** in unTill Air offers an efficient way for the POS users to configure orders quickly and directly. Instead of working with table layouts, the POS user can access the order list directly, allowing for faster order processing. Additionally, the mode includes powerful search functionality, enabling the POS user to easily find specific '**Articles'** within their designated **'Departments'**. This means that the user can quickly navigate through the menu, locate items, and add them to the order without the need for table assignments.
+The 'Direct Sales mode' in unTill Air offers an efficient way for the POS users to configure orders quickly and directly. Instead of working with table layouts, the POS user can access the order list directly, allowing for faster order processing. Additionally, the mode includes powerful search functionality, enabling the POS user to easily find specific 'Articles' within their designated 'Departments'. This means that the user can quickly navigate through the menu, locate items, and add them to the order without the need for table assignments.
 
 ### Standard functions in the POS Direct Sales mode
 
-In the **'Direct Sales mode'** of unTill Air, all the essential features of the POS function as usual. You have the freedom to create orders and efficiently process them by navigating through **'Departments'** and utilizing the **'Search'** button for quick access to specific items. Moreover, you retain the ability to implement familiar features, including **'Discounts'**, **'Void'**, and other common functions that you are accustomed to.
+In the 'Direct Sales mode' of unTill Air, all the essential features of the POS function as usual. You have the freedom to create orders and efficiently process them by navigating through 'Departments' and utilizing the 'Search' button for quick access to specific items. Moreover, you retain the ability to implement familiar features, including 'Discounts', 'Void', and other common functions that you are accustomed to.
