@@ -4,7 +4,7 @@
 
 ### What's a Z Report?
 
-It's an overall total report for one day that is issued at the end of a business day. POS users send this type of report to Location Owners for review. 'Z Reports' play a vital role in providing tax returns of the restaurant, as they serve as comprehensive and uninterrupted reports of all sales. Due to their significance for financial record-keeping, 'Z Reports' always have a default period, ensuring they cover all transactions within a specific timeframe.&#x20;
+At the end of a shift or business day, 'Z Reports' are generated to serve as comprehensive and uninterrupted sales reports, functioning as tax returns for the restaurant. These reports always cover all transactions within a specific timeframe and cannot be customized.
 
 Additionally, 'Z Reports' provide an opportunity for the Location Owners to analyze the current turnover of the restaurant.
 
