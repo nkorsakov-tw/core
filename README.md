@@ -12,6 +12,6 @@ To get started, we recommend reading our ['Quick Start'](getting-started/quick-s
 
 We have dedicated manuals that focus on specific topics, conveniently organized in sections such as [Back Office](back-office-intro.md) and [<mark style="color:blue;">POS</mark>](pos-intro.md). These manuals help you to customize and regulate unTill Air according to your needs and preferences.
 
-With this comprehensive manual, you have everything you need to fully explore and utilize unTill Air.
+With this comprehensive manual, you have everything you need to fully explore and make the most of unTill Air!
 
-**Let's begin this journey together and ensure your experience with unTill Air is a success!**
+Let's begin this journey together and ensure your experience with unTill Air is a success!
