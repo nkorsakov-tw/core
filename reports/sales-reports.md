@@ -15,14 +15,10 @@ To get a **'Sales report'**, please follow these steps:
 1. Navigate to the **'Reports' > 'Sales'**.
 2. Specify the period of the report and explore the data.
 
-<figure><img src="../.gitbook/assets/sales-reports.jpg" alt=""><figcaption><p>Example of 'Sales Reports'</p></figcaption></figure>
-
 To get a **'Sales per hour report'**, please follow these steps:
 
 1. Navigate to the **'Reports' > 'Sales per hour'**.
 2. Specify the period of the report and explore the data.
-
-<figure><img src="../.gitbook/assets/sales-rer-hour (1).jpg" alt=""><figcaption></figcaption></figure>
 
 To get a 'Sold Articles report', please follow these steps:
 
