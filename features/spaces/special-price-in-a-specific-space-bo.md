@@ -4,16 +4,16 @@
 
 ### Characteristics of the 'Special price'
 
-When creating a new space, you may come across a checkbox that allows you to set a special price for that specific space. This feature enables you to have different prices for the same goods in each individual space. This customization allows for flexibility in pricing based on the particular area or section within your establishment, catering to varying needs and preferences.
+When creating a new 'Space', you may come across a checkbox that allows you to set a 'Special price' for that specific 'Space'. This feature enables you to have different prices for the same goods in each individual 'Space'. This customization allows for flexibility in pricing based on the particular area or section within your restaurant, catering to varying needs and preferences.
 
-In this example, suppose you intend to establish different prices for beverages in distinct spaces such as a terrace and the first floor. Your preference is to have lower prices for beverages on the terrace compared to the first floor space. unTill Air offers you the ability to achieve this through its 'Special price' feature. This feature empowers you to set unique prices for specific spaces, allowing you to use different pricing strategies based on the space within your restaurant.
+In this example, suppose you intend to establish different prices for beverages in distinct spaces such as a terrace and the first floor. Your preference is to have lower prices for beverages on the terrace compared to the first-floor 'Space'. unTill Air offers you the ability to achieve this through its 'Special price' feature. This feature empowers you to set unique prices for specific spaces, allowing you to use different pricing strategies based on the space within your restaurant.
 
 ### Create a 'Special price'
 
 To set up the **'Special price'**, please follow these instructions:
 
 1. Navigate to the **'Spaces'**.
-2. Create a new space or click on the settings of an existing space for editing.
+2. Create a new 'Space' or click on the settings of an existing 'Space' for editing.
 3. To indicate that you will be using the **'Special price'** feature specifically for this space, select the checkbox provided.
 
 <figure><img src="../../.gitbook/assets/quick-start3.png" alt=""><figcaption></figcaption></figure>
@@ -22,13 +22,13 @@ To set up the **'Special price'**, please follow these instructions:
 
 ### Set up a 'Special price'
 
-To set up special price, please follow these steps:
+To set up a special price, please follow these steps:
 
 1. Navigate to the **'Products' > 'Articles'**.
-2. Create new or modify an existing article.
+2. Create a new or modify an existing 'Article'.
 3. Click **'Set prices'**.
 
 <figure><img src="../../.gitbook/assets/special-price (1).jpg" alt=""><figcaption></figcaption></figure>
 
-1. Set a new price for the specific space.
+1. Set a new price for the specific 'Space'.
 2. Click **'Save'** button.
