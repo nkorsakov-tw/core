@@ -74,7 +74,6 @@
   * [Sales Reports](reports/sales-reports.md)
   * [Voids Reports](reports/voids-reports.md)
   * [Waiters Reports](reports/waiters-reports.md)
-  * [Location Reports](features/reports/location-reports.md)
   * [Z Reports](reports/z-reports.md)
   * [X Reports](reports/x-reports.md)
 * [Location Owners](features/location-owners.md)
