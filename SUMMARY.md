@@ -82,6 +82,7 @@
 * [Sales modes](features/sales-modes/README.md)
   * [Table Plan mode](features/sales-modes/table-plan-mode/README.md)
     * [Transfer table](features/sales-modes/table-plan-mode/transfer-table.md)
+    * [Table colour legend](features/sales-modes/table-plan-mode/table-colour-legend.md)
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
 * [Locations](features/locations/README.md)
   * [Add new location](features/locations/add-new-location.md)
