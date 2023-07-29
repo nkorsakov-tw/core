@@ -1,5 +1,5 @@
 # Modifiers
 
-Modifiers are necessary for users to enable their customers to add certain ingredients or make changes to a dish or drink. This feature significantly increases flexibility and customer satisfaction by allowing them to personalize their orders. This helps to create a more delicious and individual product that meets the specific preferences of each individual customer.
+Modifiers play a crucial role in a restaurant as they offer customers the opportunity to customize their dishes or drinks by adding specific ingredients or making alterations.&#x20;
 
-Implementing a system of modifiers provides a useful tool for users to accommodate various dietary restrictions, preferences, and individual tastes.
+This highly valuable feature enhances flexibility and customer satisfaction, ensuring that each order is personalized according to individual preferences. By accommodating customizations, restaurants can cater to diverse tastes and dietary requirements.
