@@ -2,7 +2,7 @@
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
-To efficiently manage restaurant orders, it is crucial to establish key devices such as printers, terminals and tablets.
+To efficiently manage restaurant orders within the unTill Air system, it is crucial to establish key devices such as printers, terminals, and tablets.
 
 To learn how to connect these devices with an account, please refer to the manual specifically dedicated to device connectivity. This manual will provide you with clear instructions and guidance on adding your devices for operation within the unTill Air system.
 
@@ -16,25 +16,25 @@ To **add a new device**, please follow these steps:
 Note: If you have not yet added a printer and terminal to your device list, you will not be able to add a tablet. Therefore, it's necessary to first add a printer and terminal before proceeding to add a tablet.
 {% endhint %}
 
-### Add new printer
+### Add a new printer
 
 1. Give a name for your new printer.
 2. Please select the aim of using it.
 3. Enter the technical information about your printer or choose **'Null printer'**.
 
 {% hint style="info" %}
-If you don't have a printer yet, select 'Null printer' feature to simulate the working process without printing actual receipts.
+If you don't have a printer yet, select the 'Null printer' feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
 4. Click **'Save'**.
 
-### Add new terminal
+### Add a new terminal
 
 1. Give a name for your new terminal.
 2. Enter the POIID for your terminal.
 3. Click **'Continue'.**
 
-### Add new tablet
+### Add a new tablet
 
 {% hint style="info" %}
 To add a tablet to the back office, you first need to install the **'unTil Air'** application on your device.
@@ -52,14 +52,14 @@ This mode is intended for businesses with tables and dining spaces where staff m
 {% endtab %}
 {% endtabs %}
 
-**If you have 'Direct sales' mode:**
+#### If you have 'Direct sales' mode:
 
 * Specify the number of tables;
 * Select the space which you'll use;
 * Select the printer;
 * Scan the QR Code using your tablet.
 
-**If you have 'Table Overview':**
+#### If you have 'Table Plan':
 
 * Select the printer;
 * Scan the QR Code using your tablet.
