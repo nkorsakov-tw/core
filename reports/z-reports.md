@@ -4,7 +4,7 @@
 
 ### What's a Z Report?
 
-At the end of a shift or working day, "Z-reports" are generated, which serve as continuous sales reports that function as tax returns for the restaurant. These reports always cover all transactions within a certain time period and cannot be customized individually.
+At the end of a shift or working day, 'Z-reports' are generated, which serve as continuous sales reports that function as tax returns for the restaurant. These reports always cover all transactions within a certain time period and cannot be customized individually.
 
 Additionally, 'Z Reports' provide an opportunity for the Location Owners to analyze the current turnover of the restaurant.
 
