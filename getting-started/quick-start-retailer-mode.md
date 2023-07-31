@@ -5,15 +5,15 @@
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
 
-* Choose **'Retail'**
+* Choose 'Retail' mode.
 
 <figure><img src="../.gitbook/assets/retailer-mode.jpg" alt=""><figcaption></figcaption></figure>
 
-* Choose that you don't use tables and **'Happy hours'**.
+* Choose that you don't use tables and 'Happy hours'.
 
 <figure><img src="../.gitbook/assets/retailer-mode-with-nables.jpg" alt=""><figcaption></figcaption></figure>
 
-3. Create an article Non-Alcoholic Mojito: &#x20;
+3. Create an 'Article' Non-Alcoholic Mojito: &#x20;
 
 * Add new **'Category'** (Drinks)
 * Add new **'Group'** (Non-Alcoholic)
@@ -27,16 +27,16 @@
 5. Add a printer.
 
 {% hint style="info" %}
-If you don't have a printer yet, select **'Null printer'** feature to simulate the working process without printing actual receipts.
+If you don't have a printer yet, select the 'Null printer' feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
 
-6. Add a tablet in **'Direct sales'** mode.
+6. Add a tablet in 'Direct sales' mode.
 
 <figure><img src="../.gitbook/assets/direct sales.jpg" alt=""><figcaption></figcaption></figure>
 
-7. Install **'unTill Air'** on your tablet.
+7. Install 'unTill Air' on your tablet.
 8. Run and scan QR Code on your tablet to connect.
 9. Now you can make your first order on the tablet!&#x20;
 

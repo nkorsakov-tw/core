@@ -16,7 +16,7 @@
 
 {% tabs %}
 {% tab title="Table Plan" %}
-If you have tables, select to work with them, create a space, and specify the number of tables.
+If you have tables, select to work with them, create a 'Space', and specify the number of tables.
 {% endtab %}
 
 {% tab title="Direct sales" %}
@@ -24,7 +24,7 @@ If you don't work with tables, select that you're not and proceed.
 {% endtab %}
 {% endtabs %}
 
-5. Create an article Non-Alcoholic Mojito:
+5. Create an 'Article' Non-Alcoholic Mojito:
 
 * Add a new **'Category'** (Drinks)
 * Add a new **'Group'** (Non-Alcoholic)
@@ -38,7 +38,7 @@ If you don't work with tables, select that you're not and proceed.
 7. Add a printer.
 
 {% hint style="info" %}
-If you don't have a printer yet, select 'Null printer' feather ture to simulate the working process without printing actual receipts.
+If you don't have a printer yet, select the 'Null printer' feature to simulate the working process without printing actual receipts.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
