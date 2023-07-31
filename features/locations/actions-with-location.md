@@ -1,5 +1,7 @@
 # Actions with location
 
+***
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
 When you create a location in unTill Air, you get a trial version for the first month allowing you to test the system's capabilities. After the end of the trial period, the payment will be automatically deducted from your indicated account.&#x20;
@@ -10,7 +12,7 @@ As per the specified requirements, you are presented with several options to man
 
 ### Change subscription
 
-In unTill Air, you have the option to change your current subscription plan, allowing you to modify the conditions of your subscription. These conditions include the payment terms (offering options for annual or monthly payments) and the number of screens (tablets) included in the plan. To change the payment terms, simply indicate the opposite payment frequency in the checkbox provided.
+In unTill Air, you have the option to change your current subscription plan, allowing you to modify the conditions of your subscription. These conditions include the payment terms (offering options for annual or monthly payments) and the number of screens (tablets) incorporated by the plan. To change the payment terms, simply indicate the opposite payment frequency in the checkbox provided.
 
 {% hint style="info" %}
 For more information on changing your subscription to add a new screen, please [refer to the designated page](add-new-screen.md).
