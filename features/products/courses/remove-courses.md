@@ -17,6 +17,6 @@ To learn more about these customizable settings, including work start time, logo
 2. Ensure that there is no corresponding sign (checkmark) present in the 'Courses available' checkbox.
 3. Click the 'Save' button.
 
-<figure><img src="../../../.gitbook/assets/removing-courses.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/removing-courses.gif" alt=""><figcaption><p>Navigating to the Settings section</p></figcaption></figure>
 
 There are currently no 'Courses' presented in the Back Office.

@@ -6,7 +6,7 @@
 
 Within unTill Air you are free to manage location settings while you work.&#x20;
 
-<figure><img src="../../.gitbook/assets/settings-location.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-location.gif" alt=""><figcaption><p>Navigating to the Settings section</p></figcaption></figure>
 
 These settings allow you to manage:
 
