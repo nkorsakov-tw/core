@@ -6,6 +6,8 @@ When you create a location in unTill Air, you get a trial version for the first 
 
 As per the specified requirements, you are presented with several options to manage the status of your location. These options provide you with the flexibility to tailor the configuration and functioning of your restaurant to suit your specific needs. You can adjust your location's status per different scenarios, including during trial periods.&#x20;
 
+<figure><img src="../../.gitbook/assets/location-actions.gif" alt=""><figcaption><p>Navigating to the My profile section where you can edit locations</p></figcaption></figure>
+
 ### Change subscription
 
 In unTill Air, you have the option to change your current subscription plan, allowing you to modify the conditions of your subscription. These conditions include the payment terms (offering options for annual or monthly payments) and the number of screens (tablets) included in the plan. To change the payment terms, simply indicate the opposite payment frequency in the checkbox provided.
