@@ -63,6 +63,7 @@
     * [Manage Courses](products/courses/create-a-course.md)
     * [Courses colours](features/products/courses/courses-colours.md)
     * [Use Courses](products/courses/use-a-courses-in-the-pos.md)
+    * [Remove Courses](features/products/courses/remove-courses.md)
   * [Categories](features/products/categories/README.md)
     * [Manage Categories](features/products/categories/manage-categories.md)
   * [Groups](products/groups.md)
