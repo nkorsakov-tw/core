@@ -19,4 +19,4 @@ To learn more about these customizable settings, including work start time, logo
 
 <figure><img src="../../../.gitbook/assets/removing-courses.gif" alt=""><figcaption><p>Navigating to the Settings section</p></figcaption></figure>
 
-There are currently no 'Courses' presented in the Back Office.
+Currently, the 'Courses' feature is not available in the Back Office, and as a result, related features in the POS, such as 'Fire next course' and 'Change course,' have disappeared.
