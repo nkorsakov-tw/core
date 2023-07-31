@@ -20,7 +20,7 @@ If you have a space with the 'Special price' feature and you want to set non-ide
 5. Select a 'Department' and 'Course'.
 6. Assign a new 'Article' to the needed 'Spaces'.
 
-<figure><img src="../../../.gitbook/assets/articles-gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/articles2.gif" alt=""><figcaption></figcaption></figure>
 
 **Optional**:
 
