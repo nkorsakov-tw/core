@@ -14,7 +14,7 @@ To create an 'Article', please follow these steps:
 4. Set the price for this article.
 
 {% hint style="info" %}
-If you have a space with the 'Special price' feature and you want to set non-identical prices for one article in different spaces, you can [refer to the designated manual](../../spaces/special-price-in-a-specific-space-bo.md) for instructions on how to do so.
+If you have a 'Space' with a 'Special price' feature and you want to set non-identical prices for one article in different spaces, you can [refer to the designated manual](../../spaces/special-price-in-a-specific-space-bo.md) for instructions on how to do so.
 {% endhint %}
 
 5. Select a 'Department' and 'Course'.
