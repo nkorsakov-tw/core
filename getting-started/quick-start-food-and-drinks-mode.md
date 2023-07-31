@@ -38,7 +38,7 @@ If you don't work with tables, select that you're not and proceed.
 7. Add a printer.
 
 {% hint style="info" %}
-If you don't have a printer yet, select **'Null printer'** feather ture to simulate the working process without printing actual receipts.
+If you don't have a printer yet, select 'Null printer' feather ture to simulate the working process without printing actual receipts.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
@@ -59,6 +59,6 @@ Add a tablet in **'Direct Sales'** mode
 10. Run and scan QR Code on your tablet to connect.
 11. Now you can make your first order on the tablet!
 
-<figure><img src="../.gitbook/assets/order-on-tablet.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/quick-start-on-tablet.jpg" alt=""><figcaption></figcaption></figure>
 
 You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).
