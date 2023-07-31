@@ -1,12 +1,14 @@
 # Table Plan mode
 
+***
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
 ### What's the Plan mode?
 
 This mode is specifically designed for a restaurant business with various dining spaces, such as a terrace, first floor, or any other distinct areas. It allows you to efficiently manage and organize orders in different spaces within your restaurant.
 
-In the **'Table Plan'** mode, you can create a visual representation of the tables in a designated 'Space' within your restaurant. This mode is designed to facilitate the seamless accommodation of customers by waiters in different dining areas.
+In the 'Table Plan' mode, you can create a visual representation of the tables in a designated 'Space' within your restaurant. This mode is designed to facilitate the seamless accommodation of customers by waiters in different dining areas.
 
 <figure><img src="../../../.gitbook/assets/display-pos.jpg" alt=""><figcaption></figcaption></figure>
 
