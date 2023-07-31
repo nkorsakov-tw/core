@@ -86,6 +86,7 @@
   * [Direct Sales mode](features/sales-modes/direct-sales-mode.md)
 * [Locations](features/locations/README.md)
   * [Add new location](features/locations/add-new-location.md)
+  * [Actions with location](features/locations/actions-with-location.md)
 
 ***
 
