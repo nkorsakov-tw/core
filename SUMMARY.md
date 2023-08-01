@@ -13,7 +13,8 @@
 
 ## Features
 
-* [unTill Payments](untill-payments.md)
+* [unTill Payments](features/untill-payments/README.md)
+  * [Request unTill Payments](features/untill-payments/request-untill-payments.md)
 * [Home page](home-page.md)
 * [Spaces](spaces/README.md)
   * [Manage Spaces](features/spaces/manage-spaces-bo.md)
@@ -80,6 +81,7 @@
 * [Location Owners](features/location-owners.md)
 * [POS Users](features/pos-users/README.md)
   * [Add a new POS User](features/pos-users/add-a-new-pos-user.md)
+  * [Application to work in the POS](features/pos-users/application-to-work-in-the-pos.md)
 * [Sales modes](features/sales-modes/README.md)
   * [Table Plan mode](features/sales-modes/table-plan-mode/README.md)
     * [Transfer table](features/sales-modes/table-plan-mode/transfer-table.md)
@@ -92,5 +94,4 @@
 
 ***
 
-* [Application to work in the POS](application-to-work-in-the-pos.md)
-* [Request unTill Payments](request-untill-payments.md)
+* [POS action sets](pos-action-sets.md)

@@ -61,4 +61,4 @@ Add a tablet in **'Direct Sales'** mode
 
 <figure><img src="../.gitbook/assets/quick-start-on-tablet.jpg" alt=""><figcaption></figcaption></figure>
 
-You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../untill-payments.md).
+You can learn more about the [Back Office](../back-office-intro.md), where you can create articles, and the [POS](../pos-intro.md), where you can place orders. Additionally, we recommend exploring the essential feature of [unTill Payments](../features/untill-payments/).

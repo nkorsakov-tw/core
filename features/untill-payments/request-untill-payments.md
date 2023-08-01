@@ -9,7 +9,7 @@ To access the full advantages of unTill Payments, you need to complete the regis
 1. Navigate to the 'Settings' > 'unTill Payments'.
 2. Click 'Request unTill Payments'.
 
-<figure><img src=".gitbook/assets/untill-payments.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/untill-payments.gif" alt=""><figcaption></figcaption></figure>
 
 Once the request is submitted in the Back Office (unTill Air), it will be received by a Payments Reseller, who will be notified through an email. The Payments Reseller then proceeds to process the request via the Reseller Portal, resulting in the creation of the Payments Location. Subsequently, the Location Owner receives an invitation to access the newly created Payments Location.
 

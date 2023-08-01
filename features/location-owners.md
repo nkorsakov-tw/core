@@ -17,5 +17,5 @@ It's important to note that while the Location Owner cannot directly assign alre
 Location Owners can enjoy several advantages by using unTill Payments. By accepting the suggestion of unTill, the Location Owner can benefit from each transaction made in the restaurant. This results in additional daily payouts based on the restaurant's turnover, providing a valuable financial boost.
 
 {% hint style="info" %}
-For detailed information about unTill Payments, please [refer to the designated page](../untill-payments.md).
+For detailed information about unTill Payments, please [refer to the designated page](untill-payments/).
 {% endhint %}

@@ -42,4 +42,4 @@ If you don't have a printer yet, select the 'Null printer' feature to simulate t
 
 <figure><img src="../.gitbook/assets/order-on-tablet (1).jpg" alt=""><figcaption></figcaption></figure>
 
-_You can learn more about the_ [_Back Office_](../back-office-intro.md)_, where you can create articles, and the_ [_POS_](../pos-intro.md)_, where you can place orders. Additionally, we recommend exploring the essential feature of_ [_unTill Payments_](../untill-payments.md)_._
+_You can learn more about the_ [_Back Office_](../back-office-intro.md)_, where you can create articles, and the_ [_POS_](../pos-intro.md)_, where you can place orders. Additionally, we recommend exploring the essential feature of_ [_unTill Payments_](../features/untill-payments/)_._

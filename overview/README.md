@@ -21,7 +21,7 @@ Users of unTill Air can be assigned to different roles, including Location Owner
 
 ### unTill Payments
 
-In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments, you can accept payments internally and take advantage of its features. In particular, with unTill Payment, you'll get a daily payout based on your turnover. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [refer to the designated page](../untill-payments.md).&#x20;
+In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments, you can accept payments internally and take advantage of its features. In particular, with unTill Payment, you'll get a daily payout based on your turnover. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [refer to the designated page](../features/untill-payments/).&#x20;
 
 ### Locations (Restaurants)
 
