@@ -16,25 +16,28 @@ By combining the force features of unTill Air products with the efficiency and r
 
 For working with unTill Payments, you must accept the system of monetization, which is described below, and agree to use specific Payments Terminals for performing transactions. unTill Payments supports a wide range of different payment methods, including:
 
-The split amounts in unTill Payments depend on the specific payment method selected by the customer. Each payment method may have its own unique fee structure and splitting model, determining how the funds are allocated among the involved parties. When a customer chooses a particular payment method to pay the bill, the unTill Payments system automatically calculates the split amounts based on the predefined rules associated with that specific method. These rules take into account factors such as transaction fees, processing costs, and revenue-sharing agreements between the Location Owner, Reseller, and unTill. 
+The split amounts in unTill Payments depend on the specific payment method selected by the customer. Each payment method may have its own unique fee structure and splitting model, determining how the funds are allocated among the involved parties. When a customer chooses a particular payment method to pay the bill, the unTill Payments system automatically calculates the split amounts based on the predefined rules associated with that specific method. These rules take into account factors such as transaction fees, processing costs, and revenue-sharing agreements between the Location Owner, Reseller, and unTill.
 
 So, if the customer opts to pay with Maestro, the system will follow the preconfigured guidelines for Maestro transactions, allocating the appropriate portions of the payment to the respective accounts of the involved parties. Similarly, the split amounts may differ for other supported methods like Mastercard, VPay, Visa, Banonact, and girocard, based on their individual rules and fee structures.
 
 ## Monetization
 
 Monetization in unTill Payments is built on a sophisticated concept of distributing the payment amount among three distinct accounts: the Location Owner's account, the Reseller's account, and the unTill's account. Here's how the process unfolds:
-- When a customer pays the bill using the Payment Terminal, the funds are channeled through the secure Adyen Platform. At this stage, the splitting of the amount occurs. The payment amount is divided into three parts, with each portion being allocated to the respective accounts of the involved parties:
-    + The first portion goes directly to the Location Owner's account, rewarding them for their business and services rendered. 
-    + The second portion is credited to the Reseller's account, acknowledging their role in facilitating the unTill Payments integration. 
-    + Lastly, unTill receives its share, enabling it to continue providing innovative products. 
-This seamless and efficient process ensures that each party receives its rightful share of the payment, promoting transparency and fairness in the monetization process.
+
+* When a customer pays the bill using the Payment Terminal, the funds are channeled through the secure Adyen Platform. At this stage, the splitting of the amount occurs. The payment amount is divided into three parts, with each portion being allocated to the respective accounts of the involved parties:
+  * The first portion goes directly to the Location Owner's account, rewarding them for their business and services rendered.
+  * The second portion is credited to the Reseller's account, acknowledging their role in facilitating the unTill Payments integration.
+  * Lastly, unTill receives its share, enabling it to continue providing innovative products. This seamless and efficient process ensures that each party receives its rightful share of the payment, promoting transparency and fairness in the monetization process.
 
 The split amounts are accumulated throughout the day and processed for daily payout, generating regular settlements that are transferred directly to the relevant accounts. This systematic approach ensures a reliable distribution of funds, empowering all parties involved to benefit from the transactions at the right time.
 
 ## Location Owner and Payments Portal
 
-To use unTill Payments, the Location Owner should first register as an unTill Payments User. This registration can be accomplished through the settings in the Back Office of unTill Air. 
-{% hint style="info" %} To learn more information about the process of registration in unTill Payments, please refer to the designated page. {% endhint %}
+To use unTill Payments, the Location Owner should first register as an unTill Payments User. This registration can be accomplished through the settings in the Back Office of unTill Air.
+
+{% hint style="info" %}
+To learn more information about the process of registration in unTill Payments, please [refer to the designated page](request-untill-payments.md).
+{% endhint %}
 
 Once the Location Owner completes the process of becoming a part of unTill Payments, a convenient payment system opens up. The Payments Portal becomes their gateway to effectively manage all payment-related aspects. Within the Payments Portal, Location Owners can easily track payouts in real time, gaining an overview of their financial transactions.
 
