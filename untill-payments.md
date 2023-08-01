@@ -21,11 +21,11 @@ For working with unTill Payments, you must accept the system of monetization, wh
 * VPay
 * Visa
 * Banonact
-* girocard
+* Girocard
 
 The split amounts in unTill Payments depend on the specific payment method selected by the customer. Each payment method may have its own unique fee structure and splitting model, determining how the funds are allocated among the involved parties. When a customer chooses a particular payment method to pay the bill, the unTill Payments system automatically calculates the split amounts based on the predefined rules associated with that specific method. These rules take into account factors such as transaction fees, processing costs, and revenue-sharing agreements between the Location Owner, Reseller, and unTill.
 
-So, if the customer opts to pay with Maestro, the system will follow the preconfigured guidelines for Maestro transactions, allocating the appropriate portions of the payment to the respective accounts of the involved parties. Similarly, the split amounts may differ for other supported methods like Mastercard, VPay, Visa, Banonact, and girocard, based on their individual rules and fee structures.
+So, if the customer opts to pay with Maestro, the system will follow the preconfigured guidelines for Maestro transactions, allocating the appropriate portions of the payment to the respective accounts of the involved parties. Similarly, the split amounts may differ for other supported methods like Mastercard, VPay, Visa, Banonact, and Girocard, based on their individual rules and fee structures.
 
 ## Monetization
 
