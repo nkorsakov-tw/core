@@ -91,7 +91,4 @@
   * [Add new location](features/locations/add-new-location.md)
   * [Actions with location](features/locations/actions-with-location.md)
   * [Location settings](features/locations/location-settings.md)
-
-***
-
-* [POS action sets](pos-action-sets.md)
+* [POS action sets](features/pos-action-sets.md)
