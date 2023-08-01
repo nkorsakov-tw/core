@@ -8,7 +8,7 @@ In the Back Office Location Owners can modify the setting of the 'Space' and cre
 
 ### Several Locations and one Owner&#x20;
 
-When a Location Owner determines that multiple locations are necessary within one account, they have the freedom in unTill Air to create as many locations as needed. Once Location Owner have created additional locations, they can easily switch between these locations while retaining control over each one.&#x20;
+When a Location Owner determines that multiple locations are necessary within one account, they have the freedom in unTill Air to create as many locations as needed. Once Location Owners have created additional locations, they can easily switch between these locations while retaining control over each one.&#x20;
 
 It's important to note that while the Location Owner cannot directly assign already existing items from one location to another, they retain full control over all their locations. This means they can configure items, devices, and other settings specific to each location. Each location operates as a distinct entity within the account, allowing the Location Owner to set up and manage it according to the unique requirements of each restaurant.
 
