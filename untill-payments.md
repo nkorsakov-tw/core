@@ -8,7 +8,7 @@
 
 unTill Payments is a seamless integration of unTill Air products with Adyen Platforms, designed to enhance the payment process with added convenience and increased profitability. This integration offers numerous advantages, particularly in the sphere of benefit splitting from transactions.
 
-The key advantage of using unTill Payments lies in its unique approach to sharing the proceeds from each payment transaction. Through this kind of monetization, the Location Owner becomes a direct beneficiary, actively participating in the revenue generated from payments. This payment system ensures that the Location Owner gains a share of the benefit from proceeding the transactions.
+The key advantage of using unTill Payments lies in its unique approach to sharing the proceeds from each payment transaction. Through this kind of monetization, the Location Owner becomes a direct beneficiary, actively participating in the revenue generated from payments. This payment system ensures that the Location Owner gains a share of the benefit from proceeding with the transactions.
 
 By combining the force features of unTill Air products with the efficiency and reliability of Adyen Platforms, unTill Payments optimizes the payment process. This integration not only simplifies payments but also offers a significant financial advantage to businesses, making it an ideal choice for maximizing profitability and optimizing operations.
 
@@ -23,7 +23,7 @@ For working with unTill Payments, you must accept the system of monetization, wh
 * Banonact
 * girocard
 
-The split amounts in unTill Payments depend on the specific payment method selected by the customer. Each payment method may have its own unique fee structure and splitting model, determining how the funds are allocated among the involved parties. When a customer chooses a particular payment method to pay the bill, the unTill Payments system automatically calculates the split amounts based on the predefined rules associated with that specific method. These rules take into account factors such as transaction fees, processing costs, and revenue-sharing agreements between the Location Owner, Reseller, and unTill.
+The split amounts in unTill Payments depend on the specific payment method selected by the customer. Each payment method may have its unique fee structure and splitting model, determining how the funds are allocated among the involved parties. When a customer chooses a particular payment method to pay the bill, the unTill Payments system automatically calculates the split amounts based on the predefined rules associated with that specific method. These rules take into account factors such as transaction fees, processing costs, and revenue-sharing agreements between the Location Owner, Reseller, and unTill.
 
 So, if the customer opts to pay with Maestro, the system will follow the preconfigured guidelines for Maestro transactions, allocating the appropriate portions of the payment to the respective accounts of the involved parties. Similarly, the split amounts may differ for other supported methods like Mastercard, VPay, Visa, Banonact, and Girocard, based on their individual rules and fee structures.
 
