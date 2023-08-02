@@ -81,6 +81,7 @@
 * [Location Owners](features/location-owners.md)
 * [POS Users](features/pos-users/README.md)
   * [Add a new POS User](features/pos-users/add-a-new-pos-user.md)
+  * [POS user Credentials](features/pos-users/pos-user-credentials.md)
   * [Application to work in the POS](features/pos-users/application-to-work-in-the-pos.md)
 * [Sales modes](features/sales-modes/README.md)
   * [Table Plan mode](features/sales-modes/table-plan-mode/README.md)
@@ -92,7 +93,3 @@
   * [Actions with location](features/locations/actions-with-location.md)
   * [Location settings](features/locations/location-settings.md)
 * [POS action sets](features/pos-action-sets.md)
-
-***
-
-* [POS user Credentials](pos-user-credentials.md)
