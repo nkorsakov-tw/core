@@ -4,7 +4,7 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
-In unTill Air, customers have the option to split the bill and pay for their orders separately when settling the bill. This convenient feature can be easily facilitated by POS users on the tablet during the 'Checkout' process. It allows to operate in the payment process with flexibility and attention to the individual preferences of customers.
+In unTill Air, customers have the option to split the bill and pay for their orders separately when settling the bill. This convenient feature can be easily implemented by POS users on the tablet during the 'Checkout' process. It allows to operate in the payment process with flexibility and attention to the individual preferences of customers.
 
 To split the order, please follow these steps:
 
@@ -15,7 +15,7 @@ To split the order, please follow these steps:
 
 <figure><img src=".gitbook/assets/split.jpg" alt=""><figcaption></figcaption></figure>
 
-5. Select a method of splitting.
+5. Select the method of splitting:
 
 {% tabs %}
 {% tab title="In equal parts" %}
@@ -30,7 +30,7 @@ To split the order, please follow these steps:
 
 {% tab title="By item" %}
 * Select specific items to be combined into one bill;
-* Make a payment for the first combined bill;
+* Make a payment for the first combined bill containing the selected items;
 * Perform the same actions for the remaining items;
 
 <figure><img src=".gitbook/assets/split5.jpg" alt=""><figcaption></figcaption></figure>
