@@ -15,4 +15,4 @@ You can only skip the 'Item group' designated as 'allowing to skip'.
 {% endhint %}
 
 4. You can choose only one product from each 'Item group'.
-5. Click the 'Ok' button to confirm the order for any 'Item group'. You can choose to stay within the current 'Item group' instead of ordering the full 'Menu'. However, please note that you cannot skip this 'Item group' unless it has been allowed to be skipped in the settings of the 'Menu'.
+5. Click the 'Ok' button to confirm the order for any 'Item group'.&#x20;

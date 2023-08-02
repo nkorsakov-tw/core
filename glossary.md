@@ -150,6 +150,10 @@ This is the range of time during which specific discounts are available to be ap
 
 This refers to the process of paying the amount according to the client's restaurant bill
 
+**Payment methods (Back Office)**
+
+This term refers to the range of available facilities for settling the bill. In particular, 'Payment methods' include options such as cash and card payments
+
 **POS**&#x20;
 
 This is a service where POS users can create customer orders, assist throughout the process and accept payments
@@ -198,6 +202,10 @@ This feature allows customers to split the bill into multiple parts according to
 
 This term refers to a group of devices that are connected to the unTill Air account and can manage orders and monitor the process
 
+**Subscription Plan (Back Office)**
+
+This term points to the process of arranging the subscription to unTill Air, considering the required options, such as the number of screens. The final subscription fee is calculated based on the conditions of the selected 'Subscription Plan'
+
 ## T
 
 **Tickets (Back Office)**&#x20;
@@ -208,15 +216,13 @@ This term applies to templates used for generating receipts and reports. Additio
 
 This is the name of the button that allows the waiter to fulfill a customer's request to change the table for an order. This action can be performed within the POS
 
-**Table color legend (POS)**&#x20;
+**Table colour legend (POS)**&#x20;
 
 This refers to the table status, which can be influenced by factors such as customer occupancy time or the current 'Course'
 
 ## U
 
-**User** **(POS)**
-
-This refers to the staff members who focus on serving customers in the table area using the POS app, similar to waiters. Users take and complete orders on tablets connected with unTill Air in the Back Office
+_No items_
 
 ## V
 
