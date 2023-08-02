@@ -1,0 +1,2 @@
+# POS display sequence
+

@@ -39,6 +39,10 @@ To split the order, please follow these steps:
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+The 'By item' method of splitting offers a convenient solution when one member of the customer's group wants to leave separately. With this option, the POS user can initiate a 'Split' by items, enabling the departing customer to pay for their individual items only. Meanwhile, the other members of the group can continue ordering additional dishes and drinks.
+{% endhint %}
+
 In the 'Payment parts' section, you can view the remaining parts to pay during the splitting process.
 
 {% hint style="success" %}
