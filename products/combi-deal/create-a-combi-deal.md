@@ -11,14 +11,14 @@ To create a **'Combi deal'**, please follow these steps:
 5. Select the items.
 
 * Provide a name to the component of your combi deal;
-* Set price for this;
+* Set a price for this;
 * Add a new component to your **'Combi deal'** by following all the previous steps.
 
 <figure><img src="../../.gitbook/assets/combi1.jpg" alt=""><figcaption></figcaption></figure>
 
-6. After creating all the desired components of the 'Combi deal', make sure to click the **'Save'** button.
+6. After creating all the desired components of the 'Combi deal', make sure to click the 'Save' button.
 
-**Here is an example of creating the components of the 'Combi deal:**
+### Here is an example of creating the components of the 'Combi deal:
 
 | Name      | Price  | Assigned articles                        |
 | --------- | ------ | ---------------------------------------- |
