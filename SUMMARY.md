@@ -97,4 +97,4 @@
 ***
 
 * [Split the order](split-the-order.md)
-* [POS display sequence](pos-display-sequence.md)
+* [POS Display Sequence](pos-display-sequence.md)
