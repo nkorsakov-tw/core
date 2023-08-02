@@ -93,3 +93,7 @@
   * [Actions with location](features/locations/actions-with-location.md)
   * [Location settings](features/locations/location-settings.md)
 * [POS action sets](features/pos-action-sets.md)
+
+***
+
+* [Split the order](split-the-order.md)
