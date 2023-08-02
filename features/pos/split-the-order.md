@@ -13,7 +13,7 @@ To split the order, please follow these steps:
 3. Click 'Checkout'.
 4. In the section 'Payment options' select 'Split'.
 
-<figure><img src=".gitbook/assets/split.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/split.jpg" alt=""><figcaption></figcaption></figure>
 
 5. Select the method of splitting:
 
@@ -23,7 +23,7 @@ To split the order, please follow these steps:
 * You'll see separate bills for each part as you indicated;
 * Now, you can proceed with a payment for each of these parts in turn;
 
-<figure><img src=".gitbook/assets/split3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/split3.jpg" alt=""><figcaption></figcaption></figure>
 
 * You have successfully implemented the 'Split' feature.&#x20;
 {% endtab %}
@@ -33,7 +33,7 @@ To split the order, please follow these steps:
 * Make a payment for the first combined bill containing the selected items;
 * Perform the same actions for the remaining items;
 
-<figure><img src=".gitbook/assets/split5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/split5.jpg" alt=""><figcaption></figcaption></figure>
 
 * Each part of the order will be paid using separate bills.
 {% endtab %}

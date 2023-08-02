@@ -79,10 +79,6 @@
   * [Z Reports](reports/z-reports.md)
   * [X Reports](reports/x-reports.md)
 * [Location Owners](features/location-owners.md)
-* [POS Users](features/pos-users/README.md)
-  * [Add a new POS User](features/pos-users/add-a-new-pos-user.md)
-  * [POS user Credentials](features/pos-users/pos-user-credentials.md)
-  * [Application to work in the POS](features/pos-users/application-to-work-in-the-pos.md)
 * [Sales modes](features/sales-modes/README.md)
   * [Table Plan mode](features/sales-modes/table-plan-mode/README.md)
     * [Transfer table](features/sales-modes/table-plan-mode/transfer-table.md)
@@ -92,9 +88,11 @@
   * [Add new location](features/locations/add-new-location.md)
   * [Actions with location](features/locations/actions-with-location.md)
   * [Location settings](features/locations/location-settings.md)
-* [POS action sets](features/pos-action-sets.md)
-
-***
-
-* [Split the order](split-the-order.md)
-* [POS Display Sequence](pos-display-sequence.md)
+* [POS](features/pos/README.md)
+  * [POS Users](features/pos/pos-users/README.md)
+    * [Add a new POS User](features/pos/pos-users/add-a-new-pos-user.md)
+    * [POS user Credentials](features/pos/pos-users/pos-user-credentials.md)
+  * [Application to work in the POS](features/pos/application-to-work-in-the-pos.md)
+  * [Split the order](features/pos/split-the-order.md)
+  * [POS Display Sequence](features/pos/pos-display-sequence.md)
+  * [POS action sets](features/pos/pos-action-sets.md)

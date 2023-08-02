@@ -21,4 +21,4 @@ Options:
 
 5. Modify the sequence of the items.
 
-<figure><img src=".gitbook/assets/sequence.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sequence.gif" alt=""><figcaption></figcaption></figure>

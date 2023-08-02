@@ -11,5 +11,5 @@ To enhance the organization of workflow among waiters in the POS, you can assign
 Furthermore, to ensure the safety of POS users' work, you have the option to set up 'Auto Logoff.' This feature restricts the usage of the application on the tablet beyond processing orders. After a period of inactivity in the unTill Air application, which you can specify in the Back Office, the POS user will be required to re-login to continue working in the POS.
 
 {% hint style="info" %}
-In the 'Location settings', you can set up 'Auto Logoff.' For more information about 'Location settings,' please [refer to the designated page](../locations/location-settings.md).
+In the 'Location settings', you can set up 'Auto Logoff.' For more information about 'Location settings,' please [refer to the designated page](../../locations/location-settings.md).
 {% endhint %}

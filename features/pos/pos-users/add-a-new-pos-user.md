@@ -14,7 +14,7 @@ To add a new POS user follow these steps:
 * Allow void
 * Allow transfer
 
-<figure><img src="../../.gitbook/assets/new-user (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/new-user (1).jpg" alt=""><figcaption></figcaption></figure>
 
 If you trust your stuff and can afford them making a voids and transfers, you are able to give the access for waiters to these features.
 

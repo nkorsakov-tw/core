@@ -12,8 +12,8 @@ To modify POS action sets, please follow these steps:
 2. Select any category of the action sets.
 3. Here, you can turn on/off these action sets or change their disposition of displaying.
 
-<figure><img src="../.gitbook/assets/actio-sets.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/actio-sets.gif" alt=""><figcaption></figcaption></figure>
 
 Now, you can see the changes in the displaying of these action sets in the POS application.
 
-<figure><img src="../.gitbook/assets/features-pos.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/features-pos.jpg" alt=""><figcaption></figcaption></figure>
