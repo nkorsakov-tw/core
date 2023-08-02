@@ -180,6 +180,10 @@ This refers to a cheque that is issued by the printer connected to unTill Air
 
 This command in the POS allows you to duplicate a selected item without having to search for it in a list of products
 
+**Reports (Back Office)**
+
+unTill Air offers a diverse range of 'Reports' to the Location Owner, providing detailed tracking of the restaurant's workflow. These reports can be found in a dedicated section and include various types, such as 'Financial Reports', 'Waiters Reports', and more.
+
 ## S
 
 **Space (Back Office)**&#x20;
