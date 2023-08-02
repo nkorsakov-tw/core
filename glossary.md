@@ -16,6 +16,10 @@ Preconfigured messages sent by waiters to the kitchen staff express customer pre
 
 This button allows the POS user to set the amount of waiter's tips exactly as the customer wishes. At first, POS user asks the customer about the tip amount and then enters it in the designated section, and this value will be added to the total bill
 
+**Action Set (Back Office & POS)**
+
+This regulates the display of features in the POS. 'Action Set' is configured in the Back Office, but you can see the results of the changes in the POS. You are able to turn off some features and customize their display sequence in the POS
+
 ## B
 
 **Back Office**&#x20;
