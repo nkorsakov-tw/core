@@ -20,4 +20,3 @@ Note: You need to enter the monetary units, not the percentage rate.&#x20;
 {% hint style="warning" %}
 Note: When splitting the bill, remember to assign tips separately for each payment part, as tips cannot be set for the entire bill.
 {% endhint %}
-
