@@ -95,4 +95,4 @@
   * [Application to work in the POS](features/pos/application-to-work-in-the-pos.md)
   * [Split the order](features/pos/split-the-order.md)
   * [POS Display Sequence](features/pos/pos-display-sequence.md)
-  * [POS action sets](features/pos/pos-action-sets.md)
+  * [Manage Action Sets](features/pos/pos-action-sets.md)

@@ -12,6 +12,14 @@ The essential terms in this glossary provide you with an opportunity to enhance 
 
 Preconfigured messages sent by waiters to the kitchen staff express customer preferences regarding the preparation process and ingredients. These messages can be configured in the 'Article messages' section
 
+**Add tips (POS)**
+
+This button allows the POS user to set the amount of waiter's tips exactly as the customer wishes. At first, POS user asks the customer about the tip amount and then enters it in the designated section, and this value will be added to the total bill
+
+**Action Set (Back Office & POS)**
+
+This regulates the display of features in the POS. 'Action Set' is configured in the Back Office, but you can see the results of the changes in the POS. You are able to turn off some features and customize their display sequence in the POS
+
 ## B
 
 **Back Office**&#x20;
@@ -181,6 +189,10 @@ It means that the manager can set a specific price for a product in a particular
 **Special Articles (Back Office)**
 
 'Special Article' can be assigned to not only one, but two 'Departments' simultaneously, unlike a regular 'Article' which is used within a single 'Department'
+
+**Split (POS)**
+
+This feature allows customers to split the bill into multiple parts according to their preferences. Customers can choose to divide the bill equally or by individual items, providing them with the freedom to customize how they split the payment
 
 **Screens (Back Office)**&#x20;
 
