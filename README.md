@@ -10,7 +10,7 @@ Inside these pages, you will find clear explanations, step-by-step instructions,
 
 To get started, we recommend reading our ['Quick Start'](getting-started/quick-start-food-and-drinks-mode.md) manuals, which provide a concise overview of the essential steps. For a more in-depth understanding, you can explore our comprehensive manuals in the main sections, offering detailed guides to help you fully understand the capabilities of unTill Air.
 
-We have dedicated manuals that focus on specific topics, conveniently organized in sections such as [Back Office](back-office-intro.md) and [POS](pos-intro.md). These manuals help you to customize and regulate unTill Air according to your needs and preferences.
+We offer dedicated manuals, conveniently organized in the 'Feature' section, that focus on specific topics, providing comprehensive information on various aspects. These manuals help you to customize and regulate unTill Air according to your needs and preferences.
 
 With this comprehensive manual, you have everything you need to fully explore and make the most of unTill Air!
 
