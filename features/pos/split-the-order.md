@@ -6,6 +6,8 @@
 
 In unTill Air, customers have the option to split the bill and pay for their orders separately when settling the bill. This convenient feature can be easily implemented by POS users on the tablet during the 'Checkout' process. It allows to operate in the payment process with flexibility and attention to the individual preferences of customers.
 
+### Split the order with standard items
+
 To split the order, please follow these steps:
 
 1. Open the 'unTill Air' application on your tablet.
@@ -44,6 +46,17 @@ The 'By item' method of splitting offers a convenient solution when one member o
 {% endhint %}
 
 In the 'Payment parts' section, you can view the remaining parts to pay during the splitting process.
+
+### Split the order with repeated items
+
+To split the order by item with repeated items you need to perform additional actions.&#x20;
+
+* To split the repeated item and unitize it, tap on the number '1' on the calculation pop-up;
+* Then tap on the item which you need to split;
+* This will divide the quantity of the item into separate portions;&#x20;
+* Now, you can make a payment for each item separately.
+
+<figure><img src="../../.gitbook/assets/split-gif.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 You have successfully split the order and completed the payment.
