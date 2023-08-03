@@ -11,10 +11,10 @@ To use 'Repeate' button, please follow these steps:
 2. Create any order.
 3. Tap first on the item and then tap on the 'Repeat' button.
 
-{% hint="info" %}
+{% hint style="info" %}
 Tip: You can make a 'Repeat' much easier and quicker by simply swiping on the left side.
 {% hintend %}
 
-{% hint="warning" %}
+{% hint style="warning" %}
 If you need to split the order with repeated items, you should first make additional actions. For more detailed information, please refer to the designated page. 
 {% hintend %}
