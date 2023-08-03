@@ -87,17 +87,14 @@
   * [Actions with location](features/locations/actions-with-location.md)
   * [Location settings](features/locations/location-settings.md)
 * [POS](features/pos/README.md)
+  * [Application to work in the POS](features/pos/application-to-work-in-the-pos.md)
   * [POS Users](features/pos/pos-users/README.md)
     * [Add a new POS User](features/pos/pos-users/add-a-new-pos-user.md)
     * [POS user Credentials](features/pos/pos-users/pos-user-credentials.md)
-  * [Application to work in the POS](features/pos/application-to-work-in-the-pos.md)
   * [Add tips](features/pos/add-tips.md)
   * [Split the order](features/pos/split-the-order.md)
-  * [POS Display Sequence](features/pos/pos-display-sequence.md)
-  * [Manage Action Sets](features/pos/pos-action-sets.md)
+  * [Void](features/pos/void.md)
   * [Transfer table](features/pos/transfer-table.md)
   * [Colour legend](features/pos/colour-legend.md)
-
-***
-
-* [Void](void.md)
+  * [POS Display Sequence](features/pos/pos-display-sequence.md)
+  * [Manage Action Sets](features/pos/pos-action-sets.md)
