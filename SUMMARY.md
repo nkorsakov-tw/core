@@ -98,3 +98,7 @@
   * [Colour legend](features/pos/colour-legend.md)
   * [POS Display Sequence](features/pos/pos-display-sequence.md)
   * [Manage Action Sets](features/pos/pos-action-sets.md)
+
+***
+
+* [Repeat an Article](repeat-an-article.md)
