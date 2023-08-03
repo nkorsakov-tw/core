@@ -33,7 +33,7 @@ To make a 'Void', please follow these steps:
 Tip: You can make a 'Void' much easier and quicker by simply swiping on the right side.
 {% endhint %}
 
-4. If a 'Void' takes place after initially creating an order, the POS user must indicate the 'Void Reason' to complete the action.
+4. If a 'Void' takes place after initially creating an order, the POS user must indicate the 'Void reason' to complete the action.
 
 {% hint style="info" %}
 Tip: Location Owner has the ability to customize the sequence of displaying POS features according to your preferences. For more detailed information on how to do this, please refer to the designated page.

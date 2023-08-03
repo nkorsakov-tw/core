@@ -250,7 +250,7 @@ _No items_
 
 **X Reports (Back Office)**&#x20;
 
-This refers to the overall total for the selected period. The user chooses the period for the report
+It's an overall total report for a selected period. X Reports have the same structure and clauses as Z Reports, but the distinction between them consists in the period of report. In X Reports you are able on one's own select the period of this report.
 
 ## Y
 
@@ -260,4 +260,4 @@ _No items_
 
 **Z Reports (Back Office)**&#x20;
 
-This refers to the overall total for one day. The report is completed at the end of a business day
+At the end of a shift or working day, 'Z-reports' are generated, which serve as continuous sales reports that function as tax returns for the restaurant. These reports always cover all transactions within a certain time period and cannot be customized individually.
