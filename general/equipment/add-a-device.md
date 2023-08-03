@@ -38,7 +38,7 @@ If you don't have a printer yet, select the 'Null printer' feature to simulate t
 To add a tablet in the Back Office, you first need to install the 'unTil Air' application on your device.
 {% endhint %}
 
-1. Primarily, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../features/sales-modes/direct-sales-mode.md) mode or the ['Table Overview'](../../features/sales-modes/table-plan-mode/) mode:
+1. Primarily, you have the choice to select the type of tablet functionality that suits your needs. You can opt for either the ['Direct sales'](../../features/sales-modes/direct-sales-mode.md) mode or the ['Table Overview'](../../features/sales-modes/table-plan-mode.md) mode:
 
 {% tabs %}
 {% tab title="Direct sales" %}

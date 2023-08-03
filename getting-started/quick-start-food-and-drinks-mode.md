@@ -1,6 +1,6 @@
 # Quick Start (Food & Drinks mode)
 
-**Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode/) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
+**Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode.md) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
 
 **To start working in the 'Food & Drinks'**
 
