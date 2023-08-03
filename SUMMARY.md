@@ -97,3 +97,7 @@
   * [Manage Action Sets](features/pos/pos-action-sets.md)
   * [Transfer table](features/pos/transfer-table.md)
   * [Colour legend](features/pos/colour-legend.md)
+
+***
+
+* [Void](void.md)
