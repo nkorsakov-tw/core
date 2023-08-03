@@ -1,14 +1,14 @@
 # Use Modifiers
 
+***
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
 
-<figure><img src="https://github.com/nkorsakov-tw/core/assets/131404017/9a8e0898-5b73-4bd7-9913-f41740b289c0" alt=""><figcaption></figcaption></figure>
+To start using 'Modifier' in the POS, please follow these steps:
 
-To **start using 'Modifier' in the POS**, please follow these steps:
-
-1. Open the application **'unTill Air'** on your tablet.
-2. Create an order using the **'Article'** with a **'Modifier'**.
-3. Pay the attention to the result with **'Modifiers'**:
+1. Open the application 'unTill Air' on your tablet.
+2. Create an order using the 'Article' with a 'Modifier'.
+3. Pay your attention to the result with 'Modifiers':
 
 ### Optional 'Modifier'
 
@@ -25,7 +25,7 @@ If you set a price for the modifier, it will be applied regardless of any other 
 
 ### Mandatory 'Modifier'
 
-* You'll see the item straight away with a **'Modifier'**;
-* This item will be sold already with a **'Modifier'**;
+* You'll see the item straight away with a 'Modifier';
+* This item will be sold already with a 'Modifier';
 
 <figure><img src="../../.gitbook/assets/modifier3.jpg" alt=""><figcaption></figcaption></figure>

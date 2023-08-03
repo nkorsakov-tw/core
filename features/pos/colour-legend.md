@@ -1,5 +1,7 @@
 # Colour legend
 
+***
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td></tr></tbody></table>
 
 When you work with tables in the 'Space', you can access the 'Table Color Legend' button in the POS. This button displays different colours that represent the allocation of 'Courses' in the POS. These colours are visible in the POS interface when customers order items that are part of a particular 'Course'.&#x20;

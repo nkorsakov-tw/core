@@ -1,5 +1,7 @@
 # Sales Reports
 
+***
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
 Sales Reports provide a comprehensive overview of all sales operations, allowing you to have a complete picture of your business transactions. These reports not only showcase the structure of sales but also provide clear insights into payments for individual products and VATs. By leveraging Sales Reports, you can gain valuable insights into your organization's business processes and make informed assessments of your sales performance.

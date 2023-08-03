@@ -1,5 +1,7 @@
 # Manage Modifiers
 
+***
+
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
 To create a 'Modifier', please follow these steps:
@@ -8,8 +10,8 @@ To create a 'Modifier', please follow these steps:
 To create a 'Modifier', first, add the 'Article' that will be used as the product. [Refer to the designated page](../../features/products/articles/create-an-article-bo.md) for instructions on how to create an 'Article'.
 {% endhint %}
 
-1. Navigate to the **'Products' > 'Articles'**.
-2. [Create a new 'Article'](../../features/products/articles/create-an-article-bo.md) to match the desired **'Modifier'**.
+1. Navigate to the 'Products' > 'Articles'.
+2. [Create a new 'Article'](../../features/products/articles/create-an-article-bo.md) to match the desired 'Modifier'.
 
 _Now, you can proceed directly to creating a 'Modifier'._
 
