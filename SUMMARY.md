@@ -94,11 +94,8 @@
   * [Add tips](features/pos/add-tips.md)
   * [Split the order](features/pos/split-the-order.md)
   * [Void](features/pos/void.md)
+  * [Repeat Articles](features/pos/repeat-an-article.md)
   * [Transfer table](features/pos/transfer-table.md)
   * [Colour legend](features/pos/colour-legend.md)
   * [POS Display Sequence](features/pos/pos-display-sequence.md)
   * [Manage Action Sets](features/pos/pos-action-sets.md)
-
-***
-
-* [Repeat an Article](repeat-an-article.md)
