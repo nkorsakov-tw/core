@@ -31,12 +31,19 @@ So, if the customer opts to pay with Maestro, the system will follow the preconf
 
 Monetization in unTill Payments is built on a sophisticated concept of distributing the payment amount among three distinct accounts: the Location Owner's account, the Reseller's account, and the unTill's account. Here's how the process unfolds:
 
-* When a customer pays the bill using the Payment Terminal, the funds are channeled through the secure Adyen Platform. At this stage, the splitting of the amount occurs. The payment amount is divided into three parts, with each portion being allocated to the respective accounts of the involved parties:
-  * The first portion goes directly to the Location Owner's account, rewarding them for their business and services rendered.
-  * The second portion is credited to the Reseller's account, acknowledging their role in facilitating the unTill Payments integration.
-  * Lastly, unTill receives its share, enabling it to continue providing innovative products. This seamless and efficient process ensures that each party receives its rightful share of the payment, promoting transparency and fairness in the monetization process.
+*   When a customer pays the bill using the Payment Terminal, the funds are channeled through the secure Adyen Platform. At this stage, the splitting of the amount occurs. The payment amount is divided into three parts, with each portion being allocated to the respective accounts of the involved parties:
 
-The split amounts are accumulated throughout the day and processed for daily payout, generating regular settlements that are transferred directly to the relevant accounts. This systematic approach ensures a reliable distribution of funds, empowering all parties involved to benefit from the transactions at the right time.
+    * The first portion goes directly to the Location Owner's account, rewarding them for their business and services rendered.
+    * The second portion is credited to the Reseller's account, acknowledging their role in facilitating the unTill Payments integration.
+    * Lastly, unTill receives its share, enabling it to continue providing innovative products.&#x20;
+
+
+
+This seamless and efficient process ensures that each party receives its rightful share of the payment, promoting transparency and fairness in the monetization process.
+
+The split amounts are accumulated on the Adyen platform for each involved part until the receiver decides to transfer them into their own account. As the Location Owner, you have the flexibility to customize the transfer dates and amounts through the unTill Payments Portal. This allows you to specify when and how much you would like to receive as a payout.&#x20;
+
+However, it's still a daily payout because the total amount of benefits increases after each business day, generating regular Adyen account replenishment that is transferred directly to the relevant accounts.This systematic approach ensures a reliable distribution of funds, empowering all parties involved to benefit from the transactions at the right time.
 
 ## Location Owner and Payments Portal
 
