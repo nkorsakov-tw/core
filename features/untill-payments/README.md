@@ -43,7 +43,7 @@ This seamless and efficient process ensures that each party receives its rightfu
 
 The split amounts are accumulated on the Adyen platform for each involved part until the receiver decides to transfer them into their own account. As the Location Owner, you have the flexibility to customize the transfer dates and amounts through the unTill Payments Portal. This allows you to specify when and how much you would like to receive as a payout.&#x20;
 
-However, it's still a daily payout because the total amount of benefits increases after each business day, generating regular Adyen account replenishment that is transferred directly to the relevant accounts.This systematic approach ensures a reliable distribution of funds, empowering all parties involved to benefit from the transactions at the right time.
+The daily payout increases the total benefits after each business day, ensuring regular Adyen account replenishment that is directly transferred to the relevant accounts. This systematic approach enables all parties involved to receive their funds promptly and benefit from the transactions at the right time.
 
 ## Location Owner and Payments Portal
 
