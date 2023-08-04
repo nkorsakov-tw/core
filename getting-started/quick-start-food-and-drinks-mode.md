@@ -2,7 +2,7 @@
 
 **Let's consider how to start working in** [**Table Plan**](../features/sales-modes/table-plan-mode.md) **and** [**Direct Sales**](../features/sales-modes/direct-sales-mode.md) **modes**
 
-**To start working in the 'Food & Drinks'**
+To start working in the 'Food & Drinks'
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.
 2. Sign Up.
@@ -12,7 +12,7 @@
 <figure><img src="../.gitbook/assets/quick-start5.png" alt=""><figcaption></figcaption></figure>
 
 3. Select the appropriate subscription plan.
-4. Choose whether you will work with or without tables.
+4. Choose whether you want to work with or without tables.
 
 {% tabs %}
 {% tab title="Table Plan" %}
@@ -24,7 +24,9 @@ If you don't work with tables, select that you're not and proceed.
 {% endtab %}
 {% endtabs %}
 
-5. Create an 'Article' Non-Alcoholic Mojito:
+5. Choose whether you want to work with or without 'Courses' and define 'Courses'.
+6. Choose whether you want to work with or without 'Happy hours'.&#x20;
+7. Create an 'Article' Non-Alcoholic Mojito:
 
 * Add a new **'Category'** (Drinks)
 * Add a new **'Group'** (Non-Alcoholic)
@@ -34,8 +36,8 @@ If you don't work with tables, select that you're not and proceed.
 
 <figure><img src="../.gitbook/assets/sequence-tablet.png" alt=""><figcaption></figcaption></figure>
 
-6. Navigate to the **'General' > 'Equipment'.**
-7. Add a printer.
+8. Navigate to the **'General' > 'Equipment'.**
+9. Add a printer.
 
 {% hint style="info" %}
 If you don't have a printer yet, select the 'Null printer' feature to simulate the working process without printing actual receipts.
@@ -43,7 +45,7 @@ If you don't have a printer yet, select the 'Null printer' feature to simulate t
 
 <figure><img src="../.gitbook/assets/quick-start2.png" alt=""><figcaption></figcaption></figure>
 
-8. Add a tablet.
+10. Add a tablet.
 
 {% tabs %}
 {% tab title="Table Plan" %}
@@ -55,9 +57,9 @@ Add a tablet in **'Direct Sales'** mode
 {% endtab %}
 {% endtabs %}
 
-9. Install **'unTill Air'** on your tablet.
-10. Run and scan QR Code on your tablet to connect.
-11. Now you can make your first order on the tablet!
+11. Install **'unTill Air'** on your tablet.
+12. Run and scan QR Code on your tablet to connect.
+13. Now you can make your first order on the tablet!
 
 <figure><img src="../.gitbook/assets/quick-start-on-tablet.jpg" alt=""><figcaption></figcaption></figure>
 
