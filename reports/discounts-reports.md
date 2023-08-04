@@ -4,14 +4,10 @@
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office </td><td></td></tr></tbody></table>
 
-Once you have created and customized discounts, you will be able to track them. Discount reports will be generated immediately after processing orders using the unTill Air tablet that has been added to the system.
-
-{% hint style="warning" %}
-Ensure that you have already set up discounts and connected your tablet. For instructions on how to set up discounts, please refer to the documentation provided [here](../general/discounts/add-a-discount.md). To learn how to add devices to unTill Air, please refer to the documentation provided [here](../general/equipment/add-a-device.md).
-{% endhint %}
+Once you have created and customized 'Discounts', you will be able to track them. 'Discount' reports will be generated immediately after processing orders using the unTill Air tablet that has been added to the system.
 
 1. Navigate to the **'Reports' > 'Discounts'.**
-2. You will have access to detailed information about the discounts that have been implemented.
+2. You will have access to detailed information about the 'Discounts' that have been implemented.
 
 | Term           | Description                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
