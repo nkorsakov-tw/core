@@ -20,4 +20,6 @@ Once you have created and customized 'Discounts', you will be able to track them
 | Discount       | You can track the amount of money that was reduced by the discount. This allows you to monitor and keep a record of the total discount amount applied to orders                      |
 | Final amount   | You can monitor the total amount of money that has been reduced or discounted through the application of discounts. This allows you to track the impact of discounts on your revenue |
 
+{% hint style="info" %}
 Additionally, you are able to export this information to different formats (CSV, XLSX, PDF)
+{% endhint %}

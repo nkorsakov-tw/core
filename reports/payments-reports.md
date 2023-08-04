@@ -11,13 +11,12 @@ To get a Payments Report, please follow these steps:
 1. Navigate to the 'Reports' > 'Payments'.
 2. Specify the period of the report and explore the data.
 
-| Term     | Description                                                                  |
-| -------- | ---------------------------------------------------------------------------- |
-|          |                                                                              |
-| Payments | You can view the total amount of payments processed for the specified period |
-| Type     |                                                                              |
-|          |                                                                              |
+| Term           | Description                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------- |
+| Type           | You can monitor the data about payment methods which your customers prefer to settle the bill |
+| Payments       | You can view the total amount of payments processed for the specified period                  |
+| Payments count | You can track the total quantity of performed transactions                                    |
 
-{% hint style="success" %}
-Now you are totally informed about the ratio between cash and cashless payment methods in your restaurant.
+{% hint style="info" %}
+Additionally, you are able to export this information to different formats (CSV, XLSX, PDF)
 {% endhint %}
