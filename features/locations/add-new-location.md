@@ -13,7 +13,7 @@ To add a new location, please follow these steps:
 <figure><img src="../../.gitbook/assets/Screenshot (14).png" alt="" width="367"><figcaption></figcaption></figure>
 
 2. Select 'My profile'.
-3. Under the title 'My profile' click on 'Locations and subscriptions'.
+3. Below the title 'My profile' click on 'Locations and subscriptions'.
 
 <figure><img src="../../.gitbook/assets/Screenshot (15).png" alt=""><figcaption></figcaption></figure>
 

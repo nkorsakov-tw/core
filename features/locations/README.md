@@ -8,7 +8,7 @@ When creating an account or adding a new location (For more information, please 
 
 The subscription plan offers you a free trial of all features in unTill Air. During this trial period, which lasts for one month, you can explore and experience the full capabilities of unTill Air at no cost. This gives you the opportunity to decide whether you want to continue using unTill Air or discontinue after the trial.
 
-<figure><img src="../../.gitbook/assets/Screenshot (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new-location.jpg" alt=""><figcaption></figcaption></figure>
 
 It's important to note that at the end of the trial period, the payment for the subscription will be automatically deducted from your account, according to the conditions of the subscription.
 

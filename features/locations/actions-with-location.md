@@ -8,7 +8,7 @@ When you create a location in unTill Air, you get a trial version for the first 
 
 As per the specified requirements, you are presented with several options to manage the status of your location. These options provide you with the flexibility to tailor the configuration and functioning of your restaurant to suit your specific needs. You can adjust your location's status per different scenarios, including during trial periods.&#x20;
 
-<figure><img src="../../.gitbook/assets/location-actions.gif" alt=""><figcaption><p>Navigating to the My profile section where you can edit locations</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/location-actions.gif" alt=""><figcaption><p>Navigating to the My Profile section where you can edit locations</p></figcaption></figure>
 
 ### Change subscription
 
