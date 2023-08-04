@@ -30,5 +30,5 @@ When you increase the number of 'Screens', the cost of the subscription will be 
 7. Click 'Save' button.
 
 {% hint style="info" %}
-An alternative way to resolve the problem of a shortage of screens is by replacing one active tablet with another. This can be done by deleting the current tablet and connecting a new one. For further information about this feature, please [consult the designated page](../general/equipment/delete-a-tablet.md).
+An alternative way to resolve the problem of a shortage of 'Screens' is by replacing one active tablet with another. This can be done by deleting the current tablet and connecting a new one. For further information about this feature, please [consult the designated page](../general/equipment/delete-a-tablet.md).
 {% endhint %}
