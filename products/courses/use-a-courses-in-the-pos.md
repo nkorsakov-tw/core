@@ -6,7 +6,7 @@
 
 To use 'Courses' in the POS, please follow these steps:
 
-1. Open the application for the POS.
+1. Open the 'unTill Air' application on your tablet.
 2. Create any order with the items which were assigned to specific 'Courses' (e.g. you can create an order with the 'Starter' and 'Main dish').
 3. Let's consider typical situations and their solutions for using 'Courses' based on customer preferences.
 
@@ -18,7 +18,7 @@ To signal the next 'Course' to be served, please follow these steps:
 
 <figure><img src="../../.gitbook/assets/course2.jpg" alt=""><figcaption></figcaption></figure>
 
-Now, the 29th table is highlighted in green, indicating that the 'Starters' course is being served there.
+Now, the 29th table is highlighted in green, indicating that the 'Starters' 'Course' is being served there.
 
 * In the 'Space' with tables, click on the 'Fire next course' button located in the top-right corner of the page;
 * Select a table for the 'Fire next course' feature;
@@ -27,9 +27,9 @@ Now, the 29th table is highlighted in green, indicating that the 'Starters' cour
 
 * The color of the 29th table has been changed to indicate that the 'Main dish' course is being served there;
 
-Situation 2: Our customer has requested a modification to the usual serving order. They would like the dish that is typically served as a starter to be served later, while the main dish, which is usually served later, should be served earlier.
+Situation 2: Our customer has requested a modification to the usual serving order. This customer would like the dish that is typically served as a starter to be served later, while the main dish, which is usually served later, should be served earlier.
 
-To ensure the dishes are served exactly as our customer desires in this specific situation, let's follow these steps:
+To ensure the dishes are served exactly as our customer desires in this specific situation, please follow these steps:
 
 * Click on the item in the order list that you need to serve in another 'Course';
 * Click 'Change course' button;
@@ -41,8 +41,8 @@ To ensure the dishes are served exactly as our customer desires in this specific
 
 In this specific example, we made the following changes:
 
-1. The item 'Fried shrimps', which was originally assigned to the 'Main dish' course, was changed to the 'Starters' course.
-2. The item 'Greek salad', which was initially categorized under the 'Starter' course, was switched to the 'Main dish' course.
+1. The item 'Fried shrimps', which was originally assigned to the 'Main dish' 'Course', was changed to the 'Starters' 'Course'.
+2. The item 'Greek salad', which was initially categorized under the 'Starter' 'Course', was switched to the 'Main dish' 'Course'.
 
 These adjustments allowed us to serve the dishes exactly as our customers requested.
 

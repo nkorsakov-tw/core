@@ -1,5 +1,7 @@
 # Replace a tablet
 
+***
+
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Location Owners</mark> in the Back Office</td><td></td></tr></tbody></table>
 
 As you proceed with the subscription process, you may have noticed that the plan you selected comes with a limitation on the number of 'Screens' - devices you can connect.&#x20;
