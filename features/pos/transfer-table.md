@@ -12,7 +12,7 @@ To transfer a table, please follow these steps:
 2. Create any order.
 3. Click on the 'Transfer table' button located in the top right corner of the POS interface.
 
-<figure><img src="../../../.gitbook/assets/transfer-able.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/transfer-able.jpeg" alt=""><figcaption></figcaption></figure>
 
 4. Select the table to transfer.
 5. Click on the table on which you want to transfer the order.
@@ -22,9 +22,13 @@ _You have some options here:_
 * You can transfer the order to another table within the same 'Space';
 * You can transfer the order to another table in a different 'Space';
 
-6. Select what you want to transfer: whole bill or only specific items.
+6. Select what you want to transfer: the whole bill or only the specific items.
 
-<figure><img src="../../../.gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+You can use the 'Transfer table' button to combine orders from different tables. If customers want to group their orders together, simply transfer the table, and all orders will be grouped accordingly.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Whole bill" %}
@@ -32,7 +36,7 @@ Click on the :white\_check\_mark: button to complete a transfer.
 
 <div data-full-width="true">
 
-<figure><img src="../../../.gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/transfer-table2.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 {% endtab %}
@@ -42,7 +46,7 @@ Select the specific items which are needed to transfer and click :white\_check\_
 
 <div data-full-width="true">
 
-<figure><img src="../../../.gitbook/assets/transfer-table3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/transfer-table3.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 {% endtab %}
