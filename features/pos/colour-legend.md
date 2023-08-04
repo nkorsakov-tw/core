@@ -9,7 +9,7 @@ When you work with tables in the 'Space', you can access the 'Table Color Legend
 <figure><img src="../../.gitbook/assets/colour-legend-button.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To learn more about the colour legend for 'Courses' and how it helps POS users understand the needs of customers when ordering dishes, please [refer to the designated page](../products/courses/courses-colours.md).
+To learn more about the 'Colour Legend' for 'Courses' and how it helps POS users understand the needs of customers when ordering dishes, please [refer to the designated page](../products/courses/courses-colours.md).
 {% endhint %}
 
 You have the flexibility to customize the colour legend for specific 'Articles.' When these 'Articles' are displayed in the POS, they will be shown in the colour you have selected in the Back Office, making it easier for POS users to identify and manage different items.
@@ -22,7 +22,7 @@ To create a colour legend for 'Articles' and use it in the POS, please follow th
 
 <figure><img src="../../.gitbook/assets/colour-legend.gif" alt=""><figcaption></figcaption></figure>
 
-4. Open the application on your tablet.
+4. Open the 'unTill Air' application on your tablet.
 5. Create an order with your coloured 'Article'.
 
 <figure><img src="../../.gitbook/assets/colour-tablet.png" alt=""><figcaption></figcaption></figure>

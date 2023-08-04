@@ -49,7 +49,7 @@ In the 'Payment parts' section, you can view the remaining parts to pay during t
 
 ### Split the order with repeated items
 
-To split the order by item with repeated items you need to perform additional actions.&#x20;
+To split the order by item with repeated items you need to perform additional actions:&#x20;
 
 * To split the repeated item and unitize it, tap on the number '1' on the calculation pop-up;
 * Then tap on the item which you need to split;
