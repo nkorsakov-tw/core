@@ -6,7 +6,7 @@
 
 To use a 'Menu' in the POS, please follow these steps:
 
-1. Open the application 'unTill Air'.
+1. Open the application 'unTill Air' on your tablet.
 2. Create an order using a 'Menu' which you have created.
 3. Select the dishes from the 'Item groups'.
 
