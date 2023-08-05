@@ -18,7 +18,7 @@ To start using 'Modifier' in the POS, please follow these steps:
 <figure><img src="../../.gitbook/assets/modifier (2).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-If you set a price for the modifier, it will be applied regardless of any other settings or options.
+If you set a price for the 'Modifier', it will be applied regardless of any other settings or options.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/modifier2.jpg" alt=""><figcaption></figcaption></figure>
@@ -26,6 +26,11 @@ If you set a price for the modifier, it will be applied regardless of any other 
 ### Mandatory 'Modifier'
 
 * You'll see the item straight away with a 'Modifier';
+
+If you have several mandatory 'Modifiers' you will be able to choose from different options.
+
+<figure><img src="../../.gitbook/assets/modifiers.jpg" alt=""><figcaption></figcaption></figure>
+
 * This item will be sold already with a 'Modifier';
 
 <figure><img src="../../.gitbook/assets/modifier3.jpg" alt=""><figcaption></figcaption></figure>
