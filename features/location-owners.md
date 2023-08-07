@@ -2,7 +2,7 @@
 
 ### Who are Location Owners?
 
-The position of Location Owner assumes the role of managing the restaurant and configuring all features within the Back Office. The term 'Location Owner' specifically belongs to the tasks related to the Back Office, which serves as the primary field for the Location Owner's actions.&#x20;
+The position of Location Owner assumes the role of managing the restaurant and configuring all features within the Back Office. The term 'Location Owner' specifically relates to the functions of the Back Office, which serves as the primary field for the Location Owner's actions.&#x20;
 
 In the Back Office Location Owners can modify the setting of the 'Space' and create new 'Spaces', add new POS users and empower them to make transfer the table and void an order. Location Owner tracks the whole volume of operations within a restaurant and gets detailed reports about processes in the restaurant.&#x20;
 
