@@ -1,6 +1,6 @@
 # Groups
 
-Groups are significantly important in the hierarchy of different levels, such as 'Articles' or 'Departments.' 'Groups' belong to the 'Categories' and have 'Departments.'&#x20;
+Groups hold significant importance within the hierarchical structure of varying levels in unTill Air, which includes 'Articles' or 'Departments.' 'Groups' belong to the 'Categories' and incorporate 'Departments'. This configuration helps in organizing your restaurant's offerings.
 
 {% hint style="info" %}
 For more detailed information about this hierarchical structure of unTill Air and the diagram dedicated to it, please [refer to the designated page.](./)
