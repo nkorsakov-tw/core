@@ -6,7 +6,7 @@ In unTill Air we refer to the restaurant you manage as a 'Location', a term comm
 
 When creating an account or adding a new location (For more information, please [refer to the designated page](add-new-location.md)), you will configure and accept a subscription plan. With the plan, you initially get one location with assigned screens (If you need to extend the number of screens within an existing location, you [can find the details on how to do so on the designated page](add-new-screen.md).&#x20;
 
-The subscription plan offers you a free trial of all features in unTill Air. During this trial period, which lasts for one month, you can explore and experience the full capabilities of unTill Air at no cost. This gives you the opportunity to decide whether you want to continue using unTill Air or discontinue after the trial.
+The subscription plan offers you a free trial of all features in unTill Air. During this trial period, which lasts for two weeks, you can explore and experience the full capabilities of unTill Air at no cost. This gives you the opportunity to decide whether you want to continue using unTill Air or discontinue after the trial.
 
 <figure><img src="../../.gitbook/assets/new-location.jpg" alt=""><figcaption></figcaption></figure>
 
