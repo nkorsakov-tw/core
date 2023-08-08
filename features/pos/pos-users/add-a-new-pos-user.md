@@ -18,10 +18,14 @@ To add a new POS user follow these steps:
 
 <figure><img src="../../../.gitbook/assets/new-user (1).jpg" alt=""><figcaption></figcaption></figure>
 
-If you trust your stuff and can afford them making a voids and transfers, you are able to give the access for waiters to these features.
+If you trust your staff and can afford them making voids and transfers, you are able to give access to waiters to these features.
+
+{% hint style="info" %}
+If POS Users do not have permission to perform 'Voids' and 'Transfer tables', but encounter a situation that necessitates such actions, they should seek assistance from the Location Owner or other POS Users who have the authority to perform voids and table transfers.
+{% endhint %}
 
 5. Click 'Save' button'.
 
 {% hint style="success" %}
-So, you've added new user to list. Now this user can handle POS on tablet.
+So, you've added a new user to the list. Now this user can handle POS on a tablet.
 {% endhint %}
