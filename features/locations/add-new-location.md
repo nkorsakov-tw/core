@@ -10,7 +10,7 @@ To add a new location, please follow these steps:
 
 1. From any page in unTill Air, you can access your account-related options and settings by tapping on the user account icon located in the top-right corner.
 
-<figure><img src="../../.gitbook/assets/Screenshot (14).png" alt="" width="367"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (14).png" alt="" width="551"><figcaption></figcaption></figure>
 
 2. Select 'My profile'.
 3. Below the title 'My profile' click on 'Locations and subscriptions'.
