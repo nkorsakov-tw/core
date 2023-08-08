@@ -22,7 +22,7 @@ To create a colour legend for 'Articles' and use it in the POS, please follow th
 
 <figure><img src="../../.gitbook/assets/colour-legend.gif" alt=""><figcaption></figcaption></figure>
 
-4. Open the 'unTill Air' application on your tablet.
+4. Open the 'unTill Air' app on your tablet.
 5. Create an order with your coloured 'Article'.
 
 <figure><img src="../../.gitbook/assets/colour-tablet.png" alt=""><figcaption></figcaption></figure>

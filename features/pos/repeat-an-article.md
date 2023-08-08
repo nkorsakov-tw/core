@@ -8,7 +8,7 @@ The 'Repeat' button in the POS allows you to quickly duplicate the selected item
 
 To use the 'Repeat' button, please follow these steps:
 
-1. Open the 'unTill Air' application on your tablet.
+1. Open the 'unTill Air' app on your tablet.
 2. Create any order.
 3. Tap first on the item and then tap on the 'Repeat' button.
 

@@ -25,7 +25,7 @@ Tip: Location Owner can customize in the Back Office standard 'Reasons' to simpl
 
 To make a 'Void', please follow these steps:
 
-1. Open the 'unTill Air' application on your tablet.
+1. Open the 'unTill Air' app on your tablet.
 2. Create any order.
 3. Tap first on the item and then tap on the 'Void' button.
 

@@ -6,7 +6,7 @@
 
 To add tips, please follow these steps:
 
-1. Open 'unTill Air' application on your tablet.
+1. Open 'unTill Air' app on your tablet.
 2. Create any order and proceed to 'Checkout'.
 3. Click 'Add tips' button.
 4. Enter the number of tips.

@@ -10,7 +10,7 @@ In unTill Air, customers have the option to split the bill and pay for their ord
 
 To split the order, please follow these steps:
 
-1. Open the 'unTill Air' application on your tablet.
+1. Open the 'unTill Air' app on your tablet.
 2. Create any order.
 3. Click 'Checkout'.
 4. In the section 'Payment options' select 'Split'.

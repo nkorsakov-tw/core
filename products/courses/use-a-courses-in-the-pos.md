@@ -6,7 +6,7 @@
 
 To use 'Courses' in the POS, please follow these steps:
 
-1. Open the 'unTill Air' application on your tablet.
+1. Open the 'unTill Air' app on your tablet.
 2. Create any order with the items which were assigned to specific 'Courses' (e.g. you can create an order with the 'Starter' and 'Main dish').
 3. Let's consider typical situations and their solutions for using 'Courses' based on customer preferences.
 

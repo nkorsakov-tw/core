@@ -23,7 +23,7 @@ Additionally, 'Z Reports' provide an opportunity for the Location Owners to anal
 
 To get a 'Z Report', please follow these instructions:
 
-1. Open the 'unTill Air' application on your tablet (If your device isn't connected, please [refer to ](../general/equipment/add-a-device.md)[the designated page](../general/equipment/add-a-device.md)).
+1. Open the 'unTill Air' app on your tablet (If your device isn't connected, please [refer to ](../general/equipment/add-a-device.md)[the designated page](../general/equipment/add-a-device.md)).
 2. In the POS navigate to the 'Reports' section.
 3. Click 'Z Report'.
 4. Confirm this action.
