@@ -24,13 +24,13 @@ This regulates the display of features in the POS. 'Action Set' is configured in
 
 **Back Office**&#x20;
 
-The Back Office is designed for internal operations, such as creating articles, setting prices, and managing various aspects of the restaurant. Additionally, it provides comprehensive information about the restaurant, contributing to more efficient business operations
+The Back Office is designed for internal operations, such as creating 'Articles', setting prices, and managing various aspects of the restaurant. Additionally, it provides comprehensive information about the restaurant, contributing to more efficient business operations
 
 ## C
 
 **Courses (Back Office & POS)**
 
-Courses are associated with a sequence for serving dishes. Each article is assigned to a specific course, indicating the designated time for its service (e.g., Starters > Main dish > Dessert)
+'Courses' are associated with a sequence for serving dishes. Each article is assigned to a specific 'Course', indicating the designated time for its service (e.g., Starters > Main dish > Dessert)
 
 **Combi deal** **(Back Office & POS)**
 
@@ -46,17 +46,17 @@ This refers to the capability to add currencies which you use to the list. The d
 
 **Change course (POS)**
 
-This is the name of the button in the POS, it enables selecting a different course for a specific item
+This is the name of the button in the POS, it enables selecting a different 'Course' for a specific item
 
 ## D
 
 **Discount groups (Back Office)**&#x20;
 
-These are customer groups that are entitled to receive a specific discount on their entire bill, regardless of the types of products they ordered
+These are customer 'Groups' that are entitled to receive a specific discount on their entire bill, regardless of the types of products they ordered
 
 **Discount reasons (Back Office & POS)**&#x20;
 
-In addition to the name of the discount, you can also specify the reasons for granting the discount to your customer (e.g. Birthday of the client)
+In addition to the name of the 'Discount', you can also specify the 'Reasons' for granting the discount to your customer (e.g. Birthday of the client)
 
 **Departments (Back Office)**
 
