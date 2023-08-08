@@ -90,7 +90,11 @@
   * [unTill App](features/pos/application-to-work-in-the-pos.md)
   * [POS Users](features/pos/pos-users/README.md)
     * [Add a new POS User](features/pos/pos-users/add-a-new-pos-user.md)
+<<<<<<< Updated upstream
     * [POS User credentials](features/pos/pos-users/pos-user-credentials.md)
+=======
+    * [POS User Credentials](features/pos/pos-users/pos-user-credentials.md)
+>>>>>>> Stashed changes
   * [Add tips](features/pos/add-tips.md)
   * [Split the order](features/pos/split-the-order.md)
   * [Void](features/pos/void.md)

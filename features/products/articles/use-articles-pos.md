@@ -2,9 +2,9 @@
 
 ***
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS Users</mark></td><td></td></tr></tbody></table>
 
-After creating **'Articles'** in your inventory, you can utilize them in the POS to process customer orders efficiently. These **'Articles'** become accessible to your POS users, allowing them to select and add the desired items to the order.
+After creating **'Articles'** in your inventory, you can utilize them in the POS to process customer orders efficiently. These **'Articles'** become accessible to your POS Users, allowing them to select and add the desired items to the order.
 
 To **use articles**, please follow these steps:
 

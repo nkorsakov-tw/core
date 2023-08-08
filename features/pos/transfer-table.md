@@ -2,9 +2,9 @@
 
 ***
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS Users</mark></td><td></td></tr></tbody></table>
 
-In unTill Air POS users have the flexibility to accommodate customer requests for transferring orders to different tables or even to another 'Space.' To accomplish this, the system offers the 'Transfer table' feature, which allows users to precisely and carefully perform and satisfy the customer's preferences.
+In unTill Air POS Users have the flexibility to accommodate customer requests for transferring orders to different tables or even to another 'Space.' To accomplish this, the system offers the 'Transfer table' feature, which allows users to precisely and carefully perform and satisfy the customer's preferences.
 
 To transfer a table, please follow these steps:
 

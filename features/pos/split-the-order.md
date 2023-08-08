@@ -2,9 +2,9 @@
 
 ***
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS Users</mark></td><td></td></tr></tbody></table>
 
-In unTill Air, customers have the option to split the bill and pay for their orders separately when settling the bill. This convenient feature can be easily implemented by POS users on the tablet during the 'Checkout' process. It allows to operate in the payment process with flexibility and attention to the individual preferences of customers.
+In unTill Air, customers have the option to split the bill and pay for their orders separately when settling the bill. This convenient feature can be easily implemented by POS Users on the tablet during the 'Checkout' process. It allows to operate in the payment process with flexibility and attention to the individual preferences of customers.
 
 ### Split the order with standard items
 
@@ -42,7 +42,7 @@ To split the order, please follow these steps:
 {% endtabs %}
 
 {% hint style="info" %}
-The 'By item' method of splitting offers a convenient solution when one member of the customer's group wants to leave separately. With this option, the POS user can initiate a 'Split' by items, enabling the departing customer to pay for their individual items only. Meanwhile, the other members of the group can continue ordering additional dishes and drinks.
+The 'By item' method of splitting offers a convenient solution when one member of the customer's group wants to leave separately. With this option, the POS User can initiate a 'Split' by items, enabling the departing customer to pay for their individual items only. Meanwhile, the other members of the group can continue ordering additional dishes and drinks.
 {% endhint %}
 
 In the 'Payment parts' section, you can view the remaining parts to pay during the splitting process.

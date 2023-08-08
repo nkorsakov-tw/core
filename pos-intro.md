@@ -2,11 +2,11 @@
 
 ### What's the POS?
 
-POS (Point of Sale) can be described as an adaptable service that empowers users to efficiently create and manage orders within the 'Space'. While POS users do not have the authority to modify the 'Space' configuration, they possess the capability to provide customers with high-quality service by handling all aspects related to serving dishes and beverages.
+POS (Point of Sale) can be described as an adaptable service that empowers users to efficiently create and manage orders within the 'Space'. While POS Users do not have the authority to modify the 'Space' configuration, they possess the capability to provide customers with high-quality service by handling all aspects related to serving dishes and beverages.
 
 ### POS Users
 
-In the POS, waiters have access to a wide range of facilities that enable them to cater to the needs of clients effectively. Notably, the POS offers various features designed to enhance the user's experience. These features, once configured in the Back Office, become readily available and accessible to POS users for implementation during their daily tasks.&#x20;
+In the POS, waiters have access to a wide range of facilities that enable them to cater to the needs of clients effectively. Notably, the POS offers various features designed to enhance the user's experience. These features, once configured in the Back Office, become readily available and accessible to POS Users for implementation during their daily tasks.&#x20;
 
 ### Navigation in the POS
 

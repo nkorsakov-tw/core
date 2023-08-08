@@ -8,11 +8,11 @@ unTill Air is divided into two main parts: the Back Office (BO) and the Point of
 
 The Back Office is dedicated to internal operations such as creating articles, setting up prices, and managing various aspects of the restaurant. In the Back Office, you can make changes and track the operations of your restaurant. It's primarily designed for owners and managers who utilize it for comprehensive conducting and informed decision-making.
 
-The POS focuses on providing a seamless ordering and transactional experience for customers. POS users cannot modify settings but are responsible for fulfilling orders, making adjustments, and ensuring efficient service delivery. The POS system is designed specifically for the restaurant space.
+The POS focuses on providing a seamless ordering and transactional experience for customers. POS Users cannot modify settings but are responsible for fulfilling orders, making adjustments, and ensuring efficient service delivery. The POS system is designed specifically for the restaurant space.
 
 ### User roles&#x20;
 
-Users of unTill Air can be assigned to different roles, including Location Owners and POS users (waiters). Location Owners can configure and customize the main settings, as well as access comprehensive information about the workflow in the restaurant, including reports on sales, discounts, and employee performance. POS users primarily work with devices that enable them to efficiently manage and fulfill orders, make changes to orders, and provide customer service.
+Users of unTill Air can be assigned to different roles, including Location Owners and POS Users (waiters). Location Owners can configure and customize the main settings, as well as access comprehensive information about the workflow in the restaurant, including reports on sales, discounts, and employee performance. POS Users primarily work with devices that enable them to efficiently manage and fulfill orders, make changes to orders, and provide customer service.
 
 | Roles           | Work with                                                                                            |
 | --------------- | ---------------------------------------------------------------------------------------------------- |

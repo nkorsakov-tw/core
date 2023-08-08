@@ -6,7 +6,7 @@ In unTill Air, the 'Sales modes' within the 'Food & Drinks' are categorized into
 
 If your goal is to sell products without the need for a physical 'Space' where tables are located and staff accommodates clients, the 'Direct Sales' mode is the most suitable option for your daily operations. This mode enables you to efficiently process orders without the necessity of table assignments.
 
-On the other hand, if you operate a restaurant with designated 'Spaces' and tables, the 'Table Plan' mode is the ideal choice. This mode allows POS users to create orders and conveniently associate them with specific tables. By utilizing the table plan layout, staff members can easily manage and organize orders according to the table assignments.
+On the other hand, if you operate a restaurant with designated 'Spaces' and tables, the 'Table Plan' mode is the ideal choice. This mode allows POS Users to create orders and conveniently associate them with specific tables. By utilizing the table plan layout, staff members can easily manage and organize orders according to the table assignments.
 
 Whether you opt for the 'Direct Sales' mode or the 'Table Plan' mode, unTill Air provides targeting solutions to suit different business needs, enabling you to optimize your operations and deliver the best services to your customers.
 

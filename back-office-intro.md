@@ -6,7 +6,7 @@ The Back Office serves as the central hub for managing your business. From the B
 
 ### Features in the Back Office
 
-Within the Back Office you can modify and add products to your inventory, create menus, and set up discounts. It also enables you to add POS users (waiters) to your account, allowing for collaboration and user-specific access levels. Additionally, you can connect and manage various devices associated with your account.
+Within the Back Office you can modify and add products to your inventory, create menus, and set up discounts. It also enables you to add POS Users (waiters) to your account, allowing for collaboration and user-specific access levels. Additionally, you can connect and manage various devices associated with your account.
 
 ### Spaces in the Back Office
 

@@ -14,7 +14,7 @@ Preconfigured messages sent by waiters to the kitchen staff express customer pre
 
 **Add tips (POS)**
 
-This button allows the POS user to set the amount of waiter's tips exactly as the customer wishes. At first, POS user asks the customer about the tip amount and then enters it in the designated section, and this value will be added to the total bill
+This button allows the POS User to set the amount of waiter's tips exactly as the customer wishes. At first, POS User asks the customer about the tip amount and then enters it in the designated section, and this value will be added to the total bill
 
 **Action Set (Back Office & POS)**
 
@@ -114,7 +114,7 @@ This is a restaurant that you manage. In unTill Air, the owner can add new locat
 
 **Location Owner**
 
-Location Owner is a person who manages all features of unTill Air in the Back Office. It means that he is free to configure the system of 'Products' with its 'Articles', 'Departments', etc. Also, Location Owner can customize 'Spaces', devices and add POS users to let them work in unTill Air. Additionally, Location Owner constantly receives reports about running his restaurant&#x20;
+Location Owner is a person who manages all features of unTill Air in the Back Office. It means that he is free to configure the system of 'Products' with its 'Articles', 'Departments', etc. Also, Location Owner can customize 'Spaces', devices and add POS Users to let them work in unTill Air. Additionally, Location Owner constantly receives reports about running his restaurant&#x20;
 
 ## M
 
@@ -156,11 +156,11 @@ This term refers to the range of available facilities for settling the bill. In 
 
 **POS**&#x20;
 
-This is a service where POS users can create customer orders, assist throughout the process and accept payments
+This is a service where POS Users can create customer orders, assist throughout the process and accept payments
 
-**POS user**
+**POS User**
 
-POS user is an employee who interacts with the Point of Sale system and handles various tasks associated with sales, payments, and transactions
+POS User is an employee who interacts with the Point of Sale system and handles various tasks associated with sales, payments, and transactions
 
 **Paid add-on (Back Office & POS)**&#x20;
 

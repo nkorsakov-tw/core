@@ -2,7 +2,7 @@
 
 ***
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS Users</mark></td><td></td></tr></tbody></table>
 
 ### What's the Direct Sales mode?
 
@@ -12,9 +12,9 @@ This advantage becomes particularly clear for direct sales organizations where t
 
 <figure><img src="../../.gitbook/assets/6065c780-8e98-40fb-8bfa-0ecf94ed65bf.jpg" alt=""><figcaption></figcaption></figure>
 
-### POS user and Direct Sales mode
+### POS User and Direct Sales mode
 
-The 'Direct Sales mode' in unTill Air offers an efficient way for POS users to configure orders quickly and directly. Instead of working with table layouts, the POS user can access the order list directly, allowing for faster order processing. Additionally, the mode includes powerful search functionality, enabling the POS user to easily find specific 'Articles' within their designated 'Departments'. This means that the user can quickly navigate through the menu, locate items, and add them to the order without the need for table assignments.
+The 'Direct Sales mode' in unTill Air offers an efficient way for POS Users to configure orders quickly and directly. Instead of working with table layouts, the POS User can access the order list directly, allowing for faster order processing. Additionally, the mode includes powerful search functionality, enabling the POS User to easily find specific 'Articles' within their designated 'Departments'. This means that the user can quickly navigate through the menu, locate items, and add them to the order without the need for table assignments.
 
 ### Standard functions in the POS Direct Sales mode
 

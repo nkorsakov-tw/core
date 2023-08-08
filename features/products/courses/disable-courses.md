@@ -11,7 +11,7 @@ To remove 'Courses', please follow these steps:
 1. Navigate to the 'Settings' > 'Restaurant'.
 
 {% hint style="info" %}
-To learn more about these customizable settings, including work start time, logoff duration for the POS user, 'Happy hour' periods, ticket layouts, and the availability of 'Courses,' please [refer to the designated page](../../locations/location-settings.md).
+To learn more about these customizable settings, including work start time, logoff duration for the POS User, 'Happy hour' periods, ticket layouts, and the availability of 'Courses,' please [refer to the designated page](../../locations/location-settings.md).
 {% endhint %}
 
 2. Make sure that there is no corresponding checkmark in the checkbox 'Available courses'.

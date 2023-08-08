@@ -6,7 +6,7 @@
 
 Since the launch you already have at least one user (waiter), but let's look at how to add or remove other users.
 
-To add a new POS user follow these steps:
+To add a new POS User follow these steps:
 
 1. Navigate to the 'Users' on the left sidebar.
 2. Click 'Add new user'.

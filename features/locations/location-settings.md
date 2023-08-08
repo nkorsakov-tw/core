@@ -14,9 +14,9 @@ These settings allow you to manage:
 
 This feature allows you to specify the exact time when work or business operations are scheduled to begin.
 
-* Logoff of the POS user (in seconds):&#x20;
+* Logoff of the POS User (in seconds):&#x20;
 
-This feature allows you to set a specific time limit for how long a POS user can remain logged in without any activity. If the waiter doesn't perform any actions within the POS application during this specified time, the system will automatically log them off.
+This feature allows you to set a specific time limit for how long a POS User can remain logged in without any activity. If the waiter doesn't perform any actions within the POS application during this specified time, the system will automatically log them off.
 
 * Happy hour period:
 

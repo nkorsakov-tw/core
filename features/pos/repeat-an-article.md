@@ -2,7 +2,7 @@
 
 ***
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS users</mark></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">POS Users</mark></td><td></td></tr></tbody></table>
 
 The 'Repeat' button in the POS allows you to quickly duplicate the selected item in the current order. Tapping the 'Repeat' button adds additional copies of the item without the need to search through 'Departments' again, saving you time and optimizing the ordering process.
 

@@ -22,7 +22,7 @@ _Now, you can proceed directly to creating a 'Modifier'._
 6. Set a price for the 'Modifier' 'Article'.
 7. Choose between the 'optional' and the 'mandatory' implementation of the 'Modifier' in the POS during taking the order.&#x20;
 
-<table><thead><tr><th width="308">Type of Modifier</th><th>Description</th></tr></thead><tbody><tr><td>Optional</td><td>In this case, the 'Modifier' will be available, but the POS user must select it when the customer requests to add a modifier.</td></tr><tr><td>Mandatory</td><td>In this case, the 'Modifier' will be automatically included as a default option, and the 'Article' will be sold with the 'Modifier' already applied.</td></tr></tbody></table>
+<table><thead><tr><th width="308">Type of Modifier</th><th>Description</th></tr></thead><tbody><tr><td>Optional</td><td>In this case, the 'Modifier' will be available, but the POS User must select it when the customer requests to add a modifier.</td></tr><tr><td>Mandatory</td><td>In this case, the 'Modifier' will be automatically included as a default option, and the 'Article' will be sold with the 'Modifier' already applied.</td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/modifiers.gif" alt=""><figcaption></figcaption></figure>
 
