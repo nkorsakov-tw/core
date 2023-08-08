@@ -1,14 +1,16 @@
 # Location Owners
 
+***
+
 ### Who are Location Owners?
 
-The position of Location Owner assumes the role of managing the restaurant and configuring all features within the Back Office. The term 'Location Owner' specifically relates to the functions of the Back Office, which serves as the primary field for the Location Owner's actions.&#x20;
+The position of Location Owner assumes the role of managing the restaurant and configuring all features within the Back Office. The term 'Location Owner' specifically relates to the functions of the Back Office, which serves as the primary field for the Location Owner's actions.
 
-In the Back Office Location Owners can modify the setting of the 'Space' and create new 'Spaces', add new POS Users and empower them to make transfer the table and void an order. Location Owner tracks the whole volume of operations within a restaurant and gets detailed reports about processes in the restaurant.&#x20;
+In the Back Office Location Owners can modify the settings of the 'Space' and create new 'Spaces', add new POS Users and empower them to make 'Transfer table' and 'Void'. Location Owner tracks the whole volume of operations within a restaurant and gets detailed reports about processes in the restaurant.
 
-### Several Locations and one Owner&#x20;
+### Several Locations and one Owner
 
-When a Location Owner determines that multiple locations are necessary within one account, they have the freedom in unTill Air to create as many locations as needed. Once Location Owners have created additional locations, they can easily switch between these locations while retaining control over each one.&#x20;
+When a Location Owner determines that multiple locations are necessary within one account, they have the freedom in unTill Air to create as many locations as needed. Once Location Owners have created additional locations, they can easily switch between these locations while retaining control over each one.
 
 It's important to note that while the Location Owner cannot directly assign already existing items from one location to another, they retain full control over all their locations. This means they can configure items, devices, and other settings specific to each location. Each location operates as a distinct entity within the account, allowing the Location Owner to set up and manage it according to the unique requirements of each restaurant.
 
