@@ -1,4 +1,4 @@
-# Repeat an Article
+# Repeat Articles
 
 ***
 
@@ -17,5 +17,5 @@ Tip: You can make a 'Repeat' much easier and quicker by simply swiping on the le
 {% endhint %}
 
 {% hint style="warning" %}
-If you need to split the order with repeated items, you should first make additional actions. For more detailed information, please refer to the designated page.
+If you need to split the order with repeated items, you should first make additional actions. For more detailed information, please [refer to the designated page](split-the-order.md).
 {% endhint %}
