@@ -1,5 +1,7 @@
 # Quick Start (Retail mode)
 
+***
+
 **Let's consider how to start working in Retail mode**
 
 1. Open [https://air.untill.com/](https://air.untill.com/) in your browser.

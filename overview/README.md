@@ -1,16 +1,18 @@
 # Overview
 
+***
+
 unTill Air is a powerful software solution specifically designed to optimize restaurant business operations. It offers a comprehensive set of features that enable restaurant owners to track and monitor various aspects of their business in real time.
 
 ### Back Office and POS services
 
-unTill Air is divided into two main parts: the Back Office (BO) and the Point of Sale (POS), which both help you to effectively manage your restaurant business.&#x20;
+unTill Air is divided into two main parts: the Back Office (BO) and the Point of Sale (POS), which both help you to effectively manage your restaurant business.
 
 The Back Office is dedicated to internal operations such as creating articles, setting up prices, and managing various aspects of the restaurant. In the Back Office, you can make changes and track the operations of your restaurant. It's primarily designed for owners and managers who utilize it for comprehensive conducting and informed decision-making.
 
 The POS focuses on providing a seamless ordering and transactional experience for customers. POS Users cannot modify settings but are responsible for fulfilling orders, making adjustments, and ensuring efficient service delivery. The POS system is designed specifically for the restaurant space.
 
-### User roles&#x20;
+### User roles
 
 Users of unTill Air can be assigned to different roles, including Location Owners and POS Users (waiters). Location Owners can configure and customize the main settings, as well as access comprehensive information about the workflow in the restaurant, including reports on sales, discounts, and employee performance. POS Users primarily work with devices that enable them to efficiently manage and fulfill orders, make changes to orders, and provide customer service.
 
@@ -21,7 +23,7 @@ Users of unTill Air can be assigned to different roles, including Location Owner
 
 ### unTill Payments
 
-In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments, you can accept payments internally and take advantage of its features. In particular, with unTill Payment, you'll get a daily payout based on your turnover. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [refer to the designated page](../features/untill-payments/).&#x20;
+In unTill Air you have access to a specialized system called unTill Payments, which enables you to accept payments. With unTill Payments, you can accept payments internally and take advantage of its features. In particular, with unTill Payment, you'll get a daily payout based on your turnover. You have the option to connect to unTill Payments either through your reseller or directly through unTill Air. For more detailed information, please [refer to the designated page](../features/untill-payments/).
 
 ### Locations (Restaurants)
 

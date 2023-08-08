@@ -4,6 +4,8 @@ description: Welcome to the unTill Air Manual!
 
 # Introduction
 
+***
+
 This manual is designed to provide you with an understanding of the features and functions of unTill Air, enabling you to master the program quickly and launch your operations with ease. Whether you are a beginner taking your first steps or an experienced user, this documentation will be your go-to resource.
 
 Inside these pages, you will find clear explanations, step-by-step instructions, and practical examples that will equip you with the knowledge and skills to maximize your productivity and make the most of unTill Air.
