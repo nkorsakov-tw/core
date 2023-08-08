@@ -90,17 +90,14 @@
   * [unTill App](features/pos/application-to-work-in-the-pos.md)
   * [POS Users](features/pos/pos-users/README.md)
     * [Add a new POS User](features/pos/pos-users/add-a-new-pos-user.md)
-<<<<<<< Updated upstream
     * [POS User credentials](features/pos/pos-users/pos-user-credentials.md)
-=======
-    * [POS User Credentials](features/pos/pos-users/pos-user-credentials.md)
->>>>>>> Stashed changes
+    *
+  * [Void](features/pos/void.md)
+  * [Transfer table](features/pos/transfer-table.md)
   * [Add tips](features/pos/add-tips.md)
   * [Split the order](features/pos/split-the-order.md)
-  * [Void](features/pos/void.md)
   * [Repeat Articles](features/pos/repeat-an-article.md)
-  * [Transfer table](features/pos/transfer-table.md)
   * [Colour legend](features/pos/colour-legend.md)
-  * [POS Display Sequence](features/pos/pos-display-sequence.md)
   * [Manage Action Sets](features/pos/pos-action-sets.md)
-* [Need help?](need-help.md)
+  * [POS Display Sequence](features/pos/pos-display-sequence.md)
+* [Need help?](features/need-help.md)

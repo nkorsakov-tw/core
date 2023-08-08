@@ -10,7 +10,7 @@ To use the 'Need help?' section, please follow these steps:
 
 1. Click on the profile icon located at the top-right corner of the page, and then choose 'Need help?'
 
-<figure><img src=".gitbook/assets/need-help (1).webp" alt="" width="551"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/need-help (1).webp" alt="" width="551"><figcaption></figcaption></figure>
 
 2. Depending on whether you joined unTill Air through a Reseller or directly, you will see different contact options on the 'Need help?' page:
 
